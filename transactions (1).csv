@@ -1,0 +1,2446 @@
+FirstName,LastName,TransactionDate,Product,Price,Region,Segment
+Emily,Garcia,2021-01-01,Tablet,383.98,New York,Frequent Buyer
+Sophia,Davis,2021-01-01,,392.57,California,Frequent Buyer
+John,Johnson,2021-01-01,Tablet,375.22,California,Price-Sensitive
+John,Wilson,2021-01-01,Headphones,232.0,New York,Price-Sensitive
+Sarah,Jones,2021-01-01,Laptop,796.12,Texas,Frequent Buyer
+Emily,Williams,2021-01-01,Smartwatch,446.9,Florida,Price-Sensitive
+Daniel,Garcia,2021-01-02,Smartphone,1300.62,Texas,Premium Buyer
+Emma,Garcia,2021-01-02,Smartwatch,214.77,Georgia,Frequent Buyer
+James,Smith,2021-01-02,Smartwatch,459.41,Georgia,Price-Sensitive
+John,Martinez,2021-01-02,Smartwatch,538.0,Florida,Price-Sensitive
+Emily,Wilson,2021-01-02,Tablet,721.56,Illinois,Occasional Buyer
+John,Johnson,2021-01-02,Tablet,579.7,Texas,Price-Sensitive
+Daniel,Williams,2021-01-02,Headphones,51.46,Illinois,Price-Sensitive
+Emma,Martinez,2021-01-02,Headphones,341.15,Illinois,Frequent Buyer
+Emily,Wilson,2021-01-03,Smartphone,700.33,Texas,Price-Sensitive
+Sophia,Davis,2021-01-03,Headphones,88.76,Ohio,Price-Sensitive
+David,Martinez,2021-01-03,Tablet,339.21,Florida,Occasional Buyer
+David,Brown,2021-01-03,Tablet,647.99,Georgia,Occasional Buyer
+Emily,Martinez,2021-01-03,Smartwatch,406.03,New York,Price-Sensitive
+Sophia,Davis,2021-01-03,Tablet,608.38,California,Frequent Buyer
+James,Jones,2021-01-03,Smartphone,566.8,Florida,Occasional Buyer
+Sarah,Jones,2021-01-04,Smartphone,,Texas,Frequent Buyer
+John,Johnson,2021-01-04,Headphones,55.43,Michigan,Occasional Buyer
+David,Williams,2021-01-04,Laptop,753.79,California,Price-Sensitive
+Daniel,Williams,2021-01-04,Smartphone,1103.06,Texas,Premium Buyer
+John,Miller,2021-01-05,Tablet,857.87,Florida,Price-Sensitive
+Emma,Garcia,2021-01-05,Laptop,1436.47,Georgia,Frequent Buyer
+James,Jones,2021-01-05,Smartphone,1074.68,Florida,Occasional Buyer
+John,Johnson,2021-01-05,Laptop,813.44,Michigan,Occasional Buyer
+Michael,Garcia,2021-01-05,Smartphone,708.77,California,Occasional Buyer
+Emily,Wilson,2021-01-06,Headphones,214.9,Texas,Price-Sensitive
+John,Wilson,2021-01-07,Laptop,1251.41,New York,Price-Sensitive
+David,Brown,2021-01-07,Laptop,939.26,Georgia,Occasional Buyer
+Olivia,Martinez,2021-01-08,Smartphone,1273.32,New York,Frequent Buyer
+Olivia,Miller,2021-01-08,Tablet,,New York,
+John,Johnson,2021-01-08,Tablet,546.15,Texas,Price-Sensitive
+John,Johnson,2021-01-08,Smartwatch,570.15,Texas,Price-Sensitive
+Emily,Wilson,2021-01-08,Headphones,175.62,,
+John,Martinez,2021-01-08,Laptop,832.44,Florida,Price-Sensitive
+Daniel,Williams,2021-01-08,Smartphone,392.29,Illinois,Price-Sensitive
+Olivia,Miller,2021-01-09,Tablet,956.55,New York,Frequent Buyer
+Olivia,Martinez,2021-01-09,Tablet,901.05,Illinois,Frequent Buyer
+Sophia,Davis,2021-01-09,Headphones,301.23,California,Frequent Buyer
+Olivia,Martinez,2021-01-09,Laptop,,Illinois,Frequent Buyer
+Olivia,Wilson,2021-01-09,Headphones,330.48,New York,Premium Buyer
+Daniel,Williams,2021-01-09,Laptop,1311.24,Texas,Premium Buyer
+James,Miller,2021-01-09,Headphones,235.63,Illinois,Frequent Buyer
+John,Johnson,2021-01-10,Headphones,86.75,Texas,Price-Sensitive
+Sophia,Davis,2021-01-10,Headphones,273.36,California,Frequent Buyer
+David,Williams,2021-01-10,Tablet,616.88,California,Price-Sensitive
+Sarah,Williams,2021-01-10,Smartphone,1226.09,New York,Occasional Buyer
+James,Jones,2021-01-10,Smartwatch,203.11,New York,Price-Sensitive
+David,Miller,2021-01-10,Headphones,142.2,Michigan,Occasional Buyer
+James,Davis,2021-01-10,Tablet,572.99,Georgia,Frequent Buyer
+Michael,Williams,2021-01-10,Tablet,656.73,Ohio,Frequent Buyer
+James,Miller,2021-01-11,Tablet,861.68,Illinois,Frequent Buyer
+James,Smith,2021-01-11,Tablet,887.75,Georgia,Price-Sensitive
+James,Smith,2021-01-11,Laptop,1539.3,Georgia,Price-Sensitive
+James,Johnson,2021-01-11,Laptop,1522.52,Florida,Frequent Buyer
+John,Johnson,2021-01-11,Tablet,779.3,California,Price-Sensitive
+Sophia,Williams,2021-01-11,Smartphone,684.53,New York,Frequent Buyer
+Emily,Brown,2021-01-11,Smartwatch,621.1,Illinois,Frequent Buyer
+Olivia,Wilson,2021-01-11,,343.43,New York,Premium Buyer
+David,Brown,2021-01-11,Smartwatch,181.49,Georgia,Occasional Buyer
+James,Jones,2021-01-11,Smartwatch,641.88,Florida,Occasional Buyer
+Sophia,Miller,2021-01-12,Tablet,1153.09,Florida,Premium Buyer
+Daniel,Smith,2021-01-12,Smartphone,700.13,New York,Price-Sensitive
+James,Jones,2021-01-12,Smartphone,723.76,New York,
+James,Jones,2021-01-12,Smartwatch,337.24,New York,Price-Sensitive
+Sophia,Jones,2021-01-12,Laptop,1098.8,California,Frequent Buyer
+Sophia,Jones,2021-01-13,Smartphone,830.9,California,Frequent Buyer
+Olivia,Martinez,2021-01-13,Headphones,113.95,New York,Frequent Buyer
+Sophia,Wilson,2021-01-13,Smartwatch,347.54,California,Occasional Buyer
+John,Wilson,2021-01-13,Laptop,1517.8,New York,Price-Sensitive
+Emily,Williams,2021-01-14,Smartphone,757.84,Florida,Price-Sensitive
+John,Wilson,2021-01-14,Laptop,815.04,New York,Price-Sensitive
+David,Martinez,2021-01-14,Smartwatch,470.31,Florida,
+Emily,Wilson,2021-01-14,Headphones,91.13,Texas,Price-Sensitive
+Sarah,Wilson,2021-01-14,Smartwatch,600.2,Texas,Premium Buyer
+Sophia,Davis,2021-01-15,,786.32,Ohio,Price-Sensitive
+Michael,Wilson,2021-01-15,Smartwatch,406.73,Georgia,Frequent Buyer
+John,Wilson,2021-01-15,,,New York,Price-Sensitive
+James,Miller,2021-01-15,Laptop,1336.74,Illinois,Frequent Buyer
+Michael,Smith,2021-01-15,Smartphone,677.34,Illinois,Occasional Buyer
+Daniel,Garcia,2021-01-16,Tablet,618.04,Texas,Premium Buyer
+Emily,Smith,2021-01-16,Laptop,1947.81,Michigan,Occasional Buyer
+David,Brown,2021-01-16,Smartphone,879.11,Georgia,Occasional Buyer
+Olivia,Martinez,2021-01-16,Smartphone,843.07,New York,Frequent Buyer
+David,Williams,2021-01-17,Laptop,1038.02,California,Price-Sensitive
+Daniel,Williams,2021-01-17,Smartwatch,690.68,Texas,Premium Buyer
+James,Smith,2021-01-17,Laptop,1523.62,Michigan,Occasional Buyer
+Michael,Davis,2021-01-18,Smartphone,1480.91,Georgia,Premium Buyer
+David,Williams,2021-01-18,Smartwatch,254.12,California,Price-Sensitive
+Emily,Johnson,2021-01-18,Headphones,58.3,Michigan,Occasional Buyer
+James,Smith,2021-01-18,Laptop,882.71,Michigan,Occasional Buyer
+Sophia,Jones,2021-01-18,Smartwatch,440.42,California,Frequent Buyer
+Emily,Martinez,2021-01-19,Smartphone,670.69,New York,Price-Sensitive
+John,Johnson,2021-01-19,Smartwatch,287.91,California,Price-Sensitive
+Sarah,Williams,2021-01-19,Smartwatch,464.16,New York,Occasional Buyer
+Sarah,Garcia,2021-01-20,Tablet,442.01,Ohio,Occasional Buyer
+Emily,Brown,2021-01-20,Headphones,177.31,Illinois,Frequent Buyer
+Olivia,Jones,2021-01-20,Headphones,370.21,Michigan,Premium Buyer
+James,Johnson,2021-01-20,Smartwatch,347.93,Florida,Frequent Buyer
+Emily,Johnson,2021-01-21,Headphones,147.49,Michigan,Occasional Buyer
+Sophia,Williams,2021-01-21,Smartphone,587.46,New York,Frequent Buyer
+Daniel,Williams,2021-01-21,Tablet,492.21,Michigan,Price-Sensitive
+David,Miller,2021-01-22,Smartwatch,536.82,Michigan,Occasional Buyer
+Sarah,Garcia,2021-01-22,Smartphone,981.46,Michigan,Price-Sensitive
+Sarah,Jones,2021-01-22,Laptop,1885.38,Texas,Frequent Buyer
+Olivia,Martinez,2021-01-23,Headphones,321.41,Illinois,Frequent Buyer
+Michael,Wilson,2021-01-23,Headphones,149.37,Georgia,Frequent Buyer
+Sophia,Wilson,2021-01-23,Smartwatch,608.07,California,Occasional Buyer
+Emily,Brown,2021-01-23,,,Illinois,Frequent Buyer
+John,Johnson,2021-01-23,Tablet,738.29,Illinois,Price-Sensitive
+Michael,Williams,2021-01-23,Headphones,66.06,Ohio,Frequent Buyer
+Emily,Smith,2021-01-24,Smartwatch,325.54,Michigan,Occasional Buyer
+Olivia,Martinez,2021-01-24,Headphones,97.12,Illinois,Frequent Buyer
+Emily,Smith,2021-01-24,Tablet,543.99,Illinois,Price-Sensitive
+James,Johnson,2021-01-24,Smartwatch,441.97,Florida,Frequent Buyer
+Sophia,Wilson,2021-01-24,Smartphone,643.55,California,Occasional Buyer
+Sophia,Miller,2021-01-24,Tablet,826.13,Florida,Premium Buyer
+Michael,Garcia,2021-01-24,Tablet,546.18,California,Occasional Buyer
+John,Martinez,2021-01-24,Smartphone,875.1,Florida,Price-Sensitive
+Daniel,Williams,2021-01-25,Tablet,1279.39,Texas,Premium Buyer
+Emily,Williams,2021-01-25,Smartphone,495.22,Florida,Price-Sensitive
+Sophia,Miller,2021-01-25,Smartwatch,355.11,Florida,Premium Buyer
+James,Jones,2021-01-25,Tablet,,,Price-Sensitive
+Daniel,Smith,2021-01-25,Laptop,988.75,New York,Frequent Buyer
+Sarah,Williams,2021-01-25,Laptop,1590.63,New York,Occasional Buyer
+Emily,Williams,2021-01-25,Tablet,465.47,Florida,Frequent Buyer
+John,Miller,2021-01-25,Smartphone,618.37,Florida,Price-Sensitive
+Daniel,Williams,2021-01-26,Tablet,616.2,Illinois,Price-Sensitive
+Olivia,Miller,2021-01-26,Headphones,217.94,New York,Frequent Buyer
+Sarah,Garcia,2021-01-26,Smartwatch,363.34,,
+David,Martinez,2021-01-26,Smartwatch,345.72,Florida,Occasional Buyer
+John,Wilson,2021-01-26,Smartwatch,241.07,New York,Price-Sensitive
+John,Johnson,2021-01-26,Headphones,209.71,Michigan,Occasional Buyer
+Sophia,Davis,2021-01-26,Tablet,423.61,Ohio,
+Sarah,Williams,2021-01-27,Tablet,618.76,New York,Occasional Buyer
+Emily,Williams,2021-01-27,Smartphone,431.84,Florida,Price-Sensitive
+Emily,Smith,2021-01-27,Smartwatch,371.44,Ohio,Frequent Buyer
+John,Johnson,2021-01-27,Smartwatch,404.34,Texas,Price-Sensitive
+Daniel,Smith,2021-01-28,Laptop,1243.51,New York,Frequent Buyer
+Olivia,Wilson,2021-01-28,Smartphone,,,Premium Buyer
+Sophia,Davis,2021-01-28,Headphones,90.09,California,Frequent Buyer
+John,Miller,2021-01-28,Laptop,1647.74,Florida,Price-Sensitive
+Emily,Wilson,2021-01-28,Tablet,301.79,Texas,Price-Sensitive
+Emily,Garcia,2021-01-28,Headphones,,,Frequent Buyer
+David,Brown,2021-01-28,Tablet,580.31,Georgia,Occasional Buyer
+David,Williams,2021-02-01,Tablet,581.1,California,Price-Sensitive
+Emily,Davis,2021-02-01,Smartphone,723.37,New York,Occasional Buyer
+Sophia,Jones,2021-02-02,Smartwatch,376.57,California,Frequent Buyer
+Michael,Davis,2021-02-02,Smartphone,508.54,Ohio,Occasional Buyer
+Sarah,Jones,2021-02-02,Headphones,235.47,New York,Price-Sensitive
+Sophia,Jones,2021-02-02,Laptop,1794.67,California,Frequent Buyer
+James,Jones,2021-02-02,Headphones,237.84,Florida,Occasional Buyer
+James,Garcia,2021-02-02,Smartphone,956.6,Texas,Occasional Buyer
+James,Garcia,2021-02-02,Laptop,613.31,Texas,Occasional Buyer
+Emily,Brown,2021-02-02,Headphones,230.15,Illinois,Frequent Buyer
+Sarah,Jones,2021-02-02,Smartphone,739.45,New York,Price-Sensitive
+David,Martinez,2021-02-02,Headphones,83.14,Florida,Occasional Buyer
+Emily,Williams,2021-02-02,Tablet,366.87,,
+Daniel,Martinez,2021-02-02,Tablet,241.31,Michigan,Price-Sensitive
+Michael,Davis,2021-02-03,Headphones,341.29,Georgia,Premium Buyer
+Emma,Martinez,2021-02-03,Tablet,670.06,Illinois,Frequent Buyer
+Emma,Johnson,2021-02-03,Smartwatch,201.72,Illinois,Premium Buyer
+Michael,Williams,2021-02-03,Laptop,1161.9,Ohio,Frequent Buyer
+Sarah,Jones,2021-02-03,Smartphone,703.1,Texas,Frequent Buyer
+John,Wilson,2021-02-03,Smartphone,569.42,New York,Price-Sensitive
+Olivia,Miller,2021-02-04,Laptop,2181.55,New York,Frequent Buyer
+Sarah,Jones,2021-02-04,Headphones,148.62,New York,Price-Sensitive
+Sarah,Williams,2021-02-04,Smartphone,512.58,California,Price-Sensitive
+Olivia,Martinez,2021-02-04,Laptop,1737.55,,Frequent Buyer
+Emma,Martinez,2021-02-04,Smartphone,1290.21,,
+John,Brown,2021-02-04,Tablet,554.79,Ohio,Premium Buyer
+Daniel,Williams,2021-02-04,Headphones,383.39,Texas,Premium Buyer
+John,Martinez,2021-02-04,Smartwatch,,California,Occasional Buyer
+John,Miller,2021-02-04,Headphones,70.77,Florida,Price-Sensitive
+John,Martinez,2021-02-04,Tablet,759.81,California,Occasional Buyer
+Olivia,Martinez,2021-02-04,Smartwatch,510.92,New York,Frequent Buyer
+Sarah,Jones,2021-02-05,Headphones,159.56,New York,Price-Sensitive
+John,Johnson,2021-02-05,Smartwatch,115.16,Texas,Price-Sensitive
+Sarah,Jones,2021-02-05,Smartphone,663.05,Texas,Frequent Buyer
+Michael,Davis,2021-02-05,Tablet,545.37,Ohio,Occasional Buyer
+John,Smith,2021-02-05,Laptop,461.04,Georgia,Price-Sensitive
+Sarah,Brown,2021-02-05,Smartphone,1178.65,New York,Frequent Buyer
+Emma,Johnson,2021-02-05,Smartwatch,198.08,Florida,Occasional Buyer
+David,Williams,2021-02-06,Tablet,272.74,Ohio,Price-Sensitive
+John,Martinez,2021-02-06,Headphones,40.81,Florida,Price-Sensitive
+Olivia,Jones,2021-02-06,Tablet,1011.99,Michigan,Premium Buyer
+Emily,Johnson,2021-02-06,Smartwatch,167.97,Michigan,Occasional Buyer
+Emily,Williams,2021-02-06,Smartwatch,562.04,Florida,Frequent Buyer
+Daniel,Smith,2021-02-06,Smartwatch,175.12,New York,Price-Sensitive
+Sarah,Brown,2021-02-06,Smartphone,1101.56,Texas,Premium Buyer
+John,Miller,2021-02-07,Smartwatch,278.79,Florida,Price-Sensitive
+Sophia,Davis,2021-02-07,Tablet,452.32,Ohio,Price-Sensitive
+Emma,Johnson,2021-02-07,Headphones,41.82,Florida,Occasional Buyer
+Olivia,Miller,2021-02-07,Tablet,820.27,New York,Frequent Buyer
+Emma,Garcia,2021-02-07,Smartphone,638.66,Georgia,Frequent Buyer
+James,Davis,2021-02-07,Tablet,932.73,Georgia,Frequent Buyer
+Emily,Miller,2021-02-07,Smartphone,529.47,Michigan,Price-Sensitive
+Sarah,Brown,2021-02-07,Smartphone,1063.23,Texas,Premium Buyer
+Sarah,Brown,2021-02-08,Laptop,2176.3,New York,Frequent Buyer
+John,Smith,2021-02-08,Laptop,749.16,Georgia,Price-Sensitive
+Sophia,Davis,2021-02-08,Tablet,773.54,California,Frequent Buyer
+David,Martinez,2021-02-08,Smartwatch,548.57,Florida,Occasional Buyer
+Emily,Davis,2021-02-08,Smartwatch,166.65,New York,Occasional Buyer
+Sophia,Davis,2021-02-08,Smartphone,519.93,Ohio,Price-Sensitive
+David,Martinez,2021-02-08,Tablet,598.37,Florida,Occasional Buyer
+David,Williams,2021-02-08,Headphones,180.48,California,Price-Sensitive
+Emily,Garcia,2021-02-09,Headphones,234.09,New York,Frequent Buyer
+Sarah,Jones,2021-02-09,Laptop,925.12,New York,Price-Sensitive
+Emma,Martinez,2021-02-09,Tablet,987.58,Illinois,Frequent Buyer
+Daniel,Smith,2021-02-09,,117.92,New York,
+Michael,Wilson,2021-02-09,Tablet,590.96,California,Occasional Buyer
+John,Martinez,2021-02-09,Laptop,807.39,California,Occasional Buyer
+James,Davis,2021-02-10,Laptop,1064.31,Georgia,Frequent Buyer
+Sarah,Williams,2021-02-10,Smartphone,888.28,New York,Occasional Buyer
+Sophia,Williams,2021-02-10,Tablet,757.77,New York,Frequent Buyer
+Emily,Garcia,2021-02-10,Laptop,1219.25,New York,Frequent Buyer
+Daniel,Brown,2021-02-10,Tablet,672.28,New York,Occasional Buyer
+James,Johnson,2021-02-10,Smartphone,663.2,Florida,Frequent Buyer
+Emma,Garcia,2021-02-10,Smartphone,975.25,Georgia,Frequent Buyer
+Sophia,Wilson,2021-02-10,Tablet,414.09,Texas,Premium Buyer
+John,Miller,2021-02-11,Smartphone,865.87,Florida,Price-Sensitive
+Sophia,Wilson,2021-02-11,Laptop,1569.94,California,Occasional Buyer
+Sarah,Jones,2021-02-11,Tablet,499.13,Texas,Frequent Buyer
+Sophia,Davis,2021-02-11,Tablet,432.33,California,Frequent Buyer
+Sophia,Wilson,2021-02-11,Tablet,352.55,California,Occasional Buyer
+Sophia,Jones,2021-02-11,Smartwatch,269.84,,Frequent Buyer
+Olivia,Martinez,2021-02-11,Smartphone,1037.99,Illinois,Frequent Buyer
+John,Smith,2021-02-11,Laptop,1748.42,Ohio,Price-Sensitive
+Sarah,Williams,2021-02-12,Smartwatch,521.85,New York,Occasional Buyer
+Olivia,Martinez,2021-02-12,Laptop,970.44,New York,Frequent Buyer
+Emily,Smith,2021-02-12,Headphones,90.02,Illinois,Price-Sensitive
+Sophia,Davis,2021-02-12,Laptop,954.52,Ohio,Price-Sensitive
+Sarah,Jones,2021-02-12,Smartwatch,341.24,New York,Price-Sensitive
+Daniel,Smith,2021-02-13,Tablet,751.15,New York,Price-Sensitive
+James,Garcia,2021-02-13,Smartwatch,304.43,Texas,Occasional Buyer
+Sarah,Brown,2021-02-13,Tablet,645.23,Texas,Premium Buyer
+John,Johnson,2021-02-13,Laptop,973.07,Illinois,Price-Sensitive
+Michael,Williams,2021-02-13,Smartwatch,414.26,Illinois,Premium Buyer
+John,Wilson,2021-02-13,Smartwatch,260.16,New York,Price-Sensitive
+John,Wilson,2021-02-13,Headphones,104.19,New York,Price-Sensitive
+James,Johnson,2021-02-13,Smartwatch,564.02,Florida,Frequent Buyer
+John,Johnson,2021-02-13,Laptop,653.77,,Price-Sensitive
+Emma,Garcia,2021-02-14,Smartwatch,280.7,Georgia,Frequent Buyer
+Daniel,Williams,2021-02-14,Laptop,1760.65,Illinois,Premium Buyer
+Emily,Garcia,2021-02-14,Headphones,269.69,New York,Frequent Buyer
+Emily,Williams,2021-02-14,Laptop,1533.32,Florida,Price-Sensitive
+Emily,Brown,2021-02-14,Laptop,1666.12,Illinois,Frequent Buyer
+Olivia,Martinez,2021-02-15,Smartphone,775.16,New York,Frequent Buyer
+David,Martinez,2021-02-15,Tablet,391.59,Florida,Occasional Buyer
+Emily,Brown,2021-02-15,Headphones,250.52,Illinois,Frequent Buyer
+Olivia,Wilson,2021-02-15,Smartwatch,385.67,New York,Premium Buyer
+Emily,Martinez,2021-02-15,Tablet,519.46,New York,Price-Sensitive
+John,Williams,2021-02-15,Smartwatch,512.88,California,Occasional Buyer
+John,Wilson,2021-02-16,Tablet,570.51,New York,Price-Sensitive
+James,Miller,2021-02-16,Smartwatch,498.33,Illinois,Frequent Buyer
+Daniel,Martinez,2021-02-16,,370.32,Michigan,Price-Sensitive
+Olivia,Martinez,2021-02-16,Smartwatch,416.96,Illinois,Frequent Buyer
+Olivia,Wilson,2021-02-16,,727.93,New York,
+Michael,Smith,2021-02-16,Smartphone,473.04,Illinois,Occasional Buyer
+Sarah,Williams,2021-02-16,Laptop,585.18,California,Price-Sensitive
+Emily,Wilson,2021-02-16,Smartwatch,205.49,Texas,Price-Sensitive
+John,Miller,2021-02-16,Tablet,466.91,Florida,Price-Sensitive
+Olivia,Miller,2021-02-17,Laptop,1753.03,New York,Frequent Buyer
+John,Johnson,2021-02-17,Tablet,529.5,Illinois,Price-Sensitive
+John,Miller,2021-02-17,Tablet,386.07,Florida,Price-Sensitive
+Sophia,Wilson,2021-02-17,Tablet,899.33,Texas,Premium Buyer
+Emma,Johnson,2021-02-17,Tablet,609.21,Illinois,Premium Buyer
+David,Williams,2021-02-17,Tablet,432.05,Ohio,Price-Sensitive
+Michael,Wilson,2021-02-17,Smartwatch,471.65,Georgia,Frequent Buyer
+Daniel,Garcia,2021-02-18,Headphones,233.44,Texas,Premium Buyer
+Emma,Johnson,2021-02-18,Smartwatch,735.56,Illinois,Premium Buyer
+John,Martinez,2021-02-18,,319.49,California,
+Sophia,Davis,2021-02-18,Smartwatch,,,Frequent Buyer
+Michael,Davis,2021-02-18,Tablet,639.31,Ohio,Occasional Buyer
+Sophia,Davis,2021-02-18,Smartphone,1195.98,California,Frequent Buyer
+Sarah,Brown,2021-02-19,Smartwatch,379.01,Texas,Premium Buyer
+John,Johnson,2021-02-19,Smartwatch,538.1,Michigan,Occasional Buyer
+Sophia,Davis,2021-02-19,Smartphone,370.79,Ohio,Price-Sensitive
+Olivia,Miller,2021-02-19,Tablet,391.68,New York,Frequent Buyer
+Daniel,Smith,2021-02-19,Smartwatch,513.1,New York,Price-Sensitive
+James,Jones,2021-02-19,Laptop,563.74,New York,Price-Sensitive
+Olivia,Jones,2021-02-19,Smartphone,1323.86,Michigan,Premium Buyer
+Emily,Williams,2021-02-19,Smartphone,1058.4,Florida,Frequent Buyer
+Daniel,Smith,2021-02-19,Laptop,1177.91,New York,Price-Sensitive
+Sophia,Wilson,2021-02-19,Smartphone,535.53,California,Occasional Buyer
+Daniel,Martinez,2021-02-19,Smartwatch,326.44,Michigan,Price-Sensitive
+Emily,Davis,2021-02-19,Smartphone,615.24,New York,Occasional Buyer
+Sophia,Williams,2021-02-19,Tablet,719.93,New York,Frequent Buyer
+Emma,Garcia,2021-02-20,Headphones,213.52,Georgia,Frequent Buyer
+Emily,Brown,2021-02-20,Headphones,89.5,Illinois,Frequent Buyer
+Emily,Martinez,2021-02-20,Laptop,1027.25,New York,Price-Sensitive
+Emily,Williams,2021-02-20,,978.12,Florida,Frequent Buyer
+Sophia,Miller,2021-02-20,,804.71,,Premium Buyer
+Emily,Smith,2021-02-20,Headphones,86.27,Illinois,Price-Sensitive
+Sophia,Davis,2021-02-20,Smartwatch,636.77,California,Frequent Buyer
+John,Williams,2021-02-20,Headphones,62.99,California,Occasional Buyer
+John,Smith,2021-02-21,Headphones,,Ohio,Price-Sensitive
+Sophia,Jones,2021-02-21,Tablet,742.45,California,Frequent Buyer
+John,Miller,2021-02-21,Laptop,869.26,Florida,Price-Sensitive
+Sophia,Wilson,2021-02-21,Headphones,66.42,Texas,Premium Buyer
+Daniel,Smith,2021-02-21,Laptop,1457.36,New York,Frequent Buyer
+Emma,Martinez,2021-02-21,Smartwatch,447.11,Illinois,Frequent Buyer
+Michael,Wilson,2021-02-21,Tablet,475.47,California,Occasional Buyer
+Sarah,Brown,2021-02-22,Tablet,860.07,New York,Frequent Buyer
+Daniel,Martinez,2021-02-22,Tablet,299.99,Florida,Price-Sensitive
+Sarah,Brown,2021-02-22,Headphones,110.47,New York,Frequent Buyer
+Daniel,Smith,2021-02-22,Laptop,942.71,New York,Frequent Buyer
+Michael,Davis,2021-02-23,Headphones,333.3,Georgia,Premium Buyer
+Michael,Williams,2021-02-23,Laptop,1660.58,Illinois,Premium Buyer
+Emily,Wilson,2021-02-23,Laptop,807.26,Illinois,Occasional Buyer
+Olivia,Miller,2021-02-23,Tablet,931.8,New York,Frequent Buyer
+Emily,Smith,2021-02-23,,,Ohio,Frequent Buyer
+Emma,Garcia,2021-02-23,Smartphone,823.14,Georgia,Frequent Buyer
+James,Miller,2021-02-23,Smartwatch,388.41,Illinois,Frequent Buyer
+Emily,Smith,2021-02-23,Smartphone,604.61,Ohio,Frequent Buyer
+Emily,Williams,2021-02-24,Tablet,480.15,Florida,Price-Sensitive
+Olivia,Miller,2021-02-24,Smartwatch,410.94,New York,Frequent Buyer
+Daniel,Martinez,2021-02-24,,148.13,,Price-Sensitive
+Emily,Wilson,2021-02-24,Tablet,564.65,Texas,Price-Sensitive
+Emily,Martinez,2021-02-24,Laptop,726.0,New York,Price-Sensitive
+Emily,Williams,2021-02-24,Smartwatch,,,Frequent Buyer
+Emily,Miller,2021-02-25,Smartwatch,172.09,Michigan,Price-Sensitive
+John,Martinez,2021-02-25,Smartwatch,520.75,California,Occasional Buyer
+Olivia,Martinez,2021-02-25,Laptop,,Illinois,
+Sarah,Jones,2021-02-25,,279.98,Texas,Frequent Buyer
+James,Miller,2021-02-25,Laptop,1681.57,Illinois,Frequent Buyer
+Sarah,Brown,2021-02-25,Smartwatch,293.9,Texas,Premium Buyer
+John,Johnson,2021-02-25,Smartwatch,362.57,Texas,Price-Sensitive
+Sarah,Williams,2021-02-26,Tablet,511.86,New York,Occasional Buyer
+Daniel,Williams,2021-02-26,Smartphone,939.28,Michigan,Price-Sensitive
+Emma,Martinez,2021-02-26,Laptop,1096.93,Illinois,Frequent Buyer
+Daniel,Williams,2021-02-26,Headphones,69.43,Illinois,Premium Buyer
+John,Smith,2021-02-26,Smartphone,653.03,Georgia,Price-Sensitive
+Daniel,Williams,2021-02-26,Smartwatch,287.47,Michigan,Price-Sensitive
+Olivia,Jones,2021-02-26,Smartwatch,549.93,Michigan,Premium Buyer
+James,Davis,2021-02-26,Headphones,154.43,Georgia,Frequent Buyer
+Michael,Davis,2021-02-26,Headphones,130.3,Georgia,Premium Buyer
+Michael,Davis,2021-02-26,Tablet,808.49,Georgia,Premium Buyer
+David,Williams,2021-02-26,Laptop,1174.85,California,Price-Sensitive
+Sophia,Jones,2021-02-27,Laptop,,California,
+Daniel,Smith,2021-02-27,Smartwatch,306.72,New York,Price-Sensitive
+Emily,Williams,2021-02-27,Laptop,1309.34,Florida,Price-Sensitive
+John,Martinez,2021-02-27,Laptop,1197.24,Florida,Price-Sensitive
+John,Smith,2021-02-27,Laptop,1124.77,Georgia,Price-Sensitive
+Daniel,Smith,2021-02-27,Laptop,1051.64,New York,Frequent Buyer
+Sarah,Williams,2021-02-27,Headphones,242.51,California,Price-Sensitive
+Daniel,Martinez,2021-02-27,Headphones,54.04,Michigan,Price-Sensitive
+John,Smith,2021-02-27,Headphones,228.57,Ohio,Price-Sensitive
+Sophia,Williams,2021-02-28,Tablet,626.19,New York,Frequent Buyer
+James,Davis,2021-02-28,Laptop,1574.18,Georgia,Frequent Buyer
+Sophia,Williams,2021-02-28,Smartwatch,237.15,New York,Frequent Buyer
+Daniel,Brown,2021-02-28,Smartphone,450.2,New York,Occasional Buyer
+Michael,Wilson,2021-02-28,Tablet,673.95,California,Occasional Buyer
+Sophia,Williams,2021-02-28,Smartphone,995.58,New York,Frequent Buyer
+Daniel,Brown,2021-02-28,Tablet,749.99,New York,Occasional Buyer
+John,Smith,2021-02-28,Smartphone,695.49,Ohio,Price-Sensitive
+Michael,Smith,2021-02-28,Smartwatch,460.37,Illinois,Occasional Buyer
+Michael,Williams,2021-02-28,Smartphone,1162.07,Illinois,Premium Buyer
+James,Johnson,2021-02-28,Tablet,972.42,Florida,Frequent Buyer
+Sarah,Jones,2021-02-28,Laptop,905.92,Texas,Frequent Buyer
+Sophia,Jones,2021-02-28,Headphones,63.76,California,Frequent Buyer
+James,Smith,2021-03-01,Laptop,829.72,Georgia,Price-Sensitive
+Emily,Martinez,2021-03-01,Laptop,,New York,Price-Sensitive
+James,Smith,2021-03-01,Smartwatch,194.89,Georgia,Price-Sensitive
+Michael,Williams,2021-03-01,Headphones,131.93,Illinois,Price-Sensitive
+Emma,Johnson,2021-03-01,,343.21,Illinois,Premium Buyer
+James,Martinez,2021-03-01,Tablet,551.0,Georgia,Occasional Buyer
+John,Martinez,2021-03-02,Smartphone,572.71,Florida,Price-Sensitive
+Sarah,Brown,2021-03-02,Laptop,831.74,New York,Frequent Buyer
+Sophia,Miller,2021-03-02,Smartphone,690.82,Florida,Premium Buyer
+Sophia,Miller,2021-03-02,Laptop,2396.97,Florida,Premium Buyer
+Emily,Davis,2021-03-02,Smartwatch,755.21,Illinois,Premium Buyer
+Daniel,Garcia,2021-03-02,Smartphone,1224.87,Texas,Premium Buyer
+Sophia,Wilson,2021-03-02,Laptop,1088.89,California,Occasional Buyer
+John,Brown,2021-03-02,Smartwatch,454.26,Ohio,Premium Buyer
+James,Davis,2021-03-02,Smartwatch,376.33,Georgia,Frequent Buyer
+Sarah,Davis,2021-03-02,Smartwatch,100.4,California,Price-Sensitive
+Olivia,Miller,2021-03-02,Laptop,,,Frequent Buyer
+Michael,Jones,2021-03-02,Smartphone,348.03,Georgia,Price-Sensitive
+James,Martinez,2021-03-03,Laptop,1005.47,Georgia,Occasional Buyer
+Sophia,Davis,2021-03-03,Tablet,314.67,Ohio,
+Emily,Garcia,2021-03-03,Tablet,668.51,New York,Frequent Buyer
+Daniel,Williams,2021-03-03,Smartwatch,218.93,Michigan,Price-Sensitive
+Daniel,Garcia,2021-03-03,Tablet,669.76,Texas,Premium Buyer
+Emily,Wilson,2021-03-03,Headphones,78.3,Texas,Occasional Buyer
+Michael,Williams,2021-03-03,Laptop,1195.95,Illinois,Price-Sensitive
+Emily,Williams,2021-03-03,Laptop,1160.82,Florida,Price-Sensitive
+James,Davis,2021-03-04,Headphones,237.8,Georgia,Frequent Buyer
+Sarah,Williams,2021-03-04,Tablet,369.18,California,Price-Sensitive
+James,Martinez,2021-03-04,Tablet,317.86,Georgia,Occasional Buyer
+Emily,Brown,2021-03-04,Tablet,,,Frequent Buyer
+Emma,Brown,2021-03-04,Laptop,1102.37,Ohio,Occasional Buyer
+Sarah,Wilson,2021-03-04,Laptop,1489.55,Texas,Premium Buyer
+Emma,Martinez,2021-03-04,Headphones,116.55,Illinois,Frequent Buyer
+Michael,Williams,2021-03-05,Laptop,1595.69,Illinois,Price-Sensitive
+Michael,Williams,2021-03-05,Laptop,1190.82,Illinois,Price-Sensitive
+David,Williams,2021-03-05,Tablet,450.46,Ohio,Price-Sensitive
+Sophia,Davis,2021-03-05,Laptop,1946.32,California,Frequent Buyer
+John,Miller,2021-03-05,Smartwatch,193.61,Florida,Price-Sensitive
+Sarah,Wilson,2021-03-05,Tablet,475.69,Texas,Premium Buyer
+Emily,Wilson,2021-03-05,Tablet,774.52,Texas,Price-Sensitive
+David,Williams,2021-03-06,,686.38,Ohio,Price-Sensitive
+Michael,Davis,2021-03-06,Smartphone,1104.46,Ohio,Occasional Buyer
+Sophia,Miller,2021-03-06,Smartwatch,212.36,Florida,Premium Buyer
+John,Johnson,2021-03-06,Smartwatch,235.31,California,Price-Sensitive
+Olivia,Martinez,2021-03-06,Tablet,889.44,New York,Frequent Buyer
+Emily,Brown,2021-03-06,Headphones,319.07,Illinois,Frequent Buyer
+David,Davis,2021-03-06,Laptop,673.38,Texas,Occasional Buyer
+Emily,Brown,2021-03-06,Smartphone,663.14,Illinois,Frequent Buyer
+Sophia,Jones,2021-03-07,Tablet,542.81,California,Frequent Buyer
+Michael,Wilson,2021-03-07,Laptop,1913.05,California,Occasional Buyer
+James,Johnson,2021-03-07,Headphones,241.26,Florida,Frequent Buyer
+James,Garcia,2021-03-07,Laptop,793.23,Texas,Occasional Buyer
+Emily,Wilson,2021-03-07,Laptop,840.62,Texas,Occasional Buyer
+James,Johnson,2021-03-07,,287.74,,Frequent Buyer
+Daniel,Martinez,2021-03-07,Tablet,301.65,Michigan,Price-Sensitive
+Emily,Williams,2021-03-08,Smartphone,486.27,Florida,Frequent Buyer
+Olivia,Miller,2021-03-08,Headphones,105.39,New York,Frequent Buyer
+Sarah,Wilson,2021-03-08,Headphones,220.63,Texas,Premium Buyer
+Emily,Davis,2021-03-08,Laptop,1887.47,Illinois,Premium Buyer
+Daniel,Smith,2021-03-08,Smartphone,918.81,New York,Frequent Buyer
+Olivia,Martinez,2021-03-08,Headphones,326.22,Illinois,
+Sophia,Davis,2021-03-08,Headphones,89.94,California,Frequent Buyer
+James,Smith,2021-03-08,Smartwatch,432.23,Georgia,Price-Sensitive
+Sophia,Davis,2021-03-08,Headphones,227.11,California,Frequent Buyer
+Olivia,Miller,2021-03-09,Laptop,1782.37,New York,Frequent Buyer
+Sarah,Jones,2021-03-09,Laptop,738.49,Texas,Frequent Buyer
+Olivia,Jones,2021-03-09,Headphones,137.85,Michigan,Premium Buyer
+Olivia,Martinez,2021-03-09,Headphones,235.23,Illinois,Frequent Buyer
+Emma,Martinez,2021-03-09,Laptop,1361.1,Illinois,Frequent Buyer
+Sophia,Johnson,2021-03-09,Laptop,925.69,New York,Premium Buyer
+John,Brown,2021-03-10,Laptop,1324.56,Ohio,Premium Buyer
+Emma,Martinez,2021-03-10,Smartwatch,133.82,Illinois,Frequent Buyer
+James,Smith,2021-03-10,Smartphone,934.69,Michigan,Occasional Buyer
+James,Garcia,2021-03-10,Tablet,594.15,Texas,Occasional Buyer
+Sophia,Johnson,2021-03-10,Smartphone,881.08,New York,Premium Buyer
+Olivia,Wilson,2021-03-10,Headphones,54.0,Texas,Occasional Buyer
+Daniel,Smith,2021-03-10,Smartphone,917.71,New York,Frequent Buyer
+Michael,Wilson,2021-03-10,Smartphone,750.07,California,Occasional Buyer
+Sophia,Johnson,2021-03-10,Laptop,1808.16,New York,Premium Buyer
+Michael,Wilson,2021-03-10,Tablet,773.28,Georgia,Frequent Buyer
+Sarah,Williams,2021-03-10,,1044.47,New York,Occasional Buyer
+Michael,Wilson,2021-03-11,Tablet,274.84,California,Occasional Buyer
+Olivia,Miller,2021-03-11,Headphones,232.31,New York,Frequent Buyer
+Emily,Wilson,2021-03-11,Smartwatch,224.28,Texas,Price-Sensitive
+Olivia,Jones,2021-03-11,Laptop,2417.27,Michigan,Premium Buyer
+Daniel,Smith,2021-03-11,Smartwatch,250.07,New York,Price-Sensitive
+Sophia,Wilson,2021-03-11,Laptop,2229.08,Texas,Premium Buyer
+Olivia,Wilson,2021-03-11,Smartwatch,237.38,New York,Premium Buyer
+Sophia,Jones,2021-03-11,Tablet,853.39,California,Frequent Buyer
+James,Smith,2021-03-11,Smartphone,519.23,Michigan,Occasional Buyer
+Emily,Smith,2021-03-11,Headphones,56.79,Illinois,Price-Sensitive
+David,Williams,2021-03-12,Headphones,79.49,California,Price-Sensitive
+Sophia,Johnson,2021-03-12,Laptop,2546.05,New York,Premium Buyer
+Daniel,Martinez,2021-03-12,Smartwatch,138.99,Florida,Price-Sensitive
+Sophia,Davis,2021-03-12,Smartwatch,231.71,Ohio,Price-Sensitive
+James,Davis,2021-03-12,Smartwatch,193.41,Georgia,Frequent Buyer
+Sarah,Williams,2021-03-12,Headphones,275.69,New York,Occasional Buyer
+Emily,Davis,2021-03-12,Laptop,2076.11,Illinois,Premium Buyer
+Sophia,Williams,2021-03-13,Tablet,496.67,New York,Frequent Buyer
+Daniel,Garcia,2021-03-13,Headphones,156.85,Texas,Premium Buyer
+Daniel,Smith,2021-03-13,Tablet,517.3,New York,Price-Sensitive
+Sarah,Wilson,2021-03-13,Laptop,1758.39,Texas,Premium Buyer
+David,Williams,2021-03-13,Laptop,928.56,Ohio,Price-Sensitive
+John,Miller,2021-03-14,Headphones,95.1,Florida,Price-Sensitive
+Olivia,Miller,2021-03-14,Headphones,133.72,New York,Frequent Buyer
+John,Martinez,2021-03-14,Tablet,417.23,Florida,Price-Sensitive
+John,Miller,2021-03-14,Smartphone,395.09,Florida,Price-Sensitive
+Emma,Garcia,2021-03-14,Laptop,1424.14,Georgia,Frequent Buyer
+James,Johnson,2021-03-14,Tablet,921.55,Florida,Frequent Buyer
+James,Davis,2021-03-14,Headphones,289.31,Georgia,Frequent Buyer
+Sophia,Davis,2021-03-14,Smartwatch,641.99,California,Frequent Buyer
+Daniel,Williams,2021-03-14,Tablet,335.54,Michigan,Price-Sensitive
+Olivia,Martinez,2021-03-15,Tablet,467.41,New York,Frequent Buyer
+Olivia,Jones,2021-03-15,Smartphone,948.25,Michigan,Premium Buyer
+Sophia,Davis,2021-03-15,Laptop,1191.06,California,Frequent Buyer
+Olivia,Martinez,2021-03-15,Tablet,657.57,New York,Frequent Buyer
+Emily,Wilson,2021-03-15,Laptop,1485.84,Texas,Price-Sensitive
+Olivia,Wilson,2021-03-15,Headphones,134.36,Texas,Occasional Buyer
+Emma,Garcia,2021-03-15,Tablet,735.23,Georgia,Frequent Buyer
+Daniel,Smith,2021-03-15,Tablet,362.65,New York,
+Sophia,Johnson,2021-03-15,Headphones,95.02,New York,Premium Buyer
+Sarah,Jones,2021-03-15,Tablet,786.51,New York,Price-Sensitive
+Emily,Smith,2021-03-15,Tablet,839.9,Ohio,Frequent Buyer
+David,Martinez,2021-03-16,Tablet,385.9,Florida,Occasional Buyer
+Emma,Brown,2021-03-16,Smartphone,789.89,Ohio,Occasional Buyer
+Michael,Williams,2021-03-16,Tablet,450.13,Illinois,Price-Sensitive
+Michael,Wilson,2021-03-16,Smartphone,519.04,California,Occasional Buyer
+John,Miller,2021-03-16,Smartphone,790.5,Florida,Price-Sensitive
+Sarah,Brown,2021-03-16,Smartwatch,411.31,New York,Frequent Buyer
+David,Williams,2021-03-16,Tablet,562.01,Ohio,Price-Sensitive
+Emily,Smith,2021-03-16,Smartwatch,299.73,Michigan,Occasional Buyer
+James,Davis,2021-03-16,Headphones,238.72,Georgia,Frequent Buyer
+Daniel,Smith,2021-03-16,Tablet,592.72,New York,Price-Sensitive
+Sophia,Miller,2021-03-16,Smartwatch,276.24,Florida,Premium Buyer
+James,Martinez,2021-03-17,Laptop,1386.13,Georgia,Occasional Buyer
+Michael,Jones,2021-03-17,Tablet,346.26,Georgia,Price-Sensitive
+Daniel,Williams,2021-03-17,Tablet,318.3,Illinois,Price-Sensitive
+Daniel,Smith,2021-03-17,Smartphone,947.74,New York,Frequent Buyer
+Emily,Smith,2021-03-17,Tablet,710.35,Illinois,Price-Sensitive
+James,Johnson,2021-03-18,,1421.54,Florida,Frequent Buyer
+John,Smith,2021-03-18,Tablet,199.33,Georgia,Price-Sensitive
+James,Jones,2021-03-18,Smartphone,719.92,New York,Price-Sensitive
+David,Williams,2021-03-18,Smartwatch,185.82,California,Price-Sensitive
+Daniel,Martinez,2021-03-18,Tablet,249.53,Michigan,Price-Sensitive
+John,Smith,2021-03-19,Tablet,387.49,Georgia,Price-Sensitive
+David,Martinez,2021-03-19,Laptop,1036.75,Florida,Occasional Buyer
+Michael,Williams,2021-03-20,Smartwatch,237.21,Illinois,Price-Sensitive
+Emma,Brown,2021-03-20,Smartwatch,480.13,,Occasional Buyer
+Emily,Davis,2021-03-20,Tablet,471.21,Illinois,Premium Buyer
+Sarah,Williams,2021-03-20,Laptop,1358.69,California,Price-Sensitive
+Sarah,Brown,2021-03-20,Smartphone,1352.76,Texas,Premium Buyer
+James,Johnson,2021-03-20,Smartwatch,343.11,Florida,Frequent Buyer
+James,Smith,2021-03-20,Smartphone,679.23,Georgia,Price-Sensitive
+Emily,Brown,2021-03-20,Tablet,418.88,Illinois,Frequent Buyer
+Sarah,Brown,2021-03-20,Smartphone,951.02,Texas,Premium Buyer
+Emma,Johnson,2021-03-20,Smartwatch,427.51,Illinois,Premium Buyer
+Sarah,Williams,2021-03-21,Tablet,458.11,New York,Occasional Buyer
+Sarah,Davis,2021-03-21,Headphones,229.74,California,Price-Sensitive
+David,Williams,2021-03-21,Smartphone,769.21,Ohio,Price-Sensitive
+Michael,Williams,2021-03-21,Smartphone,780.69,Ohio,Frequent Buyer
+Sophia,Johnson,2021-03-21,,248.92,New York,Premium Buyer
+Emma,Martinez,2021-03-21,Headphones,65.86,Illinois,Frequent Buyer
+Emily,Wilson,2021-03-21,Tablet,671.61,Texas,Occasional Buyer
+Sarah,Brown,2021-03-22,Smartphone,1346.45,Texas,Premium Buyer
+Michael,Davis,2021-03-22,Laptop,1962.1,Georgia,Premium Buyer
+David,Davis,2021-03-22,Smartphone,600.45,Texas,Occasional Buyer
+Sophia,Johnson,2021-03-22,Smartwatch,543.2,New York,Premium Buyer
+Sarah,Wilson,2021-03-22,Smartwatch,663.55,Texas,Premium Buyer
+Sophia,Wilson,2021-03-22,Smartwatch,549.93,Texas,Premium Buyer
+Sophia,Miller,2021-03-22,Tablet,510.37,Florida,Premium Buyer
+Emily,Smith,2021-03-22,Headphones,209.03,Illinois,Price-Sensitive
+Sarah,Brown,2021-03-22,Laptop,1497.26,New York,Frequent Buyer
+Emma,Martinez,2021-03-23,Laptop,1959.95,Illinois,Frequent Buyer
+Michael,Davis,2021-03-23,Smartwatch,244.02,Georgia,Premium Buyer
+Emily,Garcia,2021-03-23,Smartphone,711.64,New York,Frequent Buyer
+David,Williams,2021-03-23,Smartwatch,200.08,Ohio,Price-Sensitive
+Daniel,Smith,2021-03-23,Laptop,922.24,New York,Price-Sensitive
+Daniel,Garcia,2021-03-23,Laptop,996.47,Texas,Premium Buyer
+Daniel,Martinez,2021-03-23,Headphones,170.29,Florida,Price-Sensitive
+Olivia,Miller,2021-03-23,Tablet,639.4,New York,Frequent Buyer
+John,Smith,2021-03-23,Tablet,435.27,Georgia,Price-Sensitive
+John,Brown,2021-03-23,Headphones,325.87,Ohio,Premium Buyer
+David,Williams,2021-03-24,Smartphone,533.52,Ohio,Price-Sensitive
+Sophia,Davis,2021-03-24,,289.06,California,
+Olivia,Martinez,2021-03-24,Smartwatch,359.26,Illinois,Frequent Buyer
+James,Smith,2021-03-24,Smartwatch,340.39,Georgia,Price-Sensitive
+Michael,Wilson,2021-03-24,Smartwatch,,Georgia,Frequent Buyer
+Emily,Williams,2021-03-25,Laptop,1777.22,Florida,Frequent Buyer
+Michael,Jones,2021-03-25,Tablet,222.55,Georgia,Price-Sensitive
+Olivia,Martinez,2021-03-25,Laptop,1397.96,Illinois,Frequent Buyer
+Sarah,Williams,2021-03-25,Laptop,542.73,California,Price-Sensitive
+Emily,Williams,2021-03-25,Smartphone,811.35,Florida,Frequent Buyer
+Emily,Garcia,2021-03-25,Smartphone,881.21,New York,Frequent Buyer
+James,Garcia,2021-03-25,Tablet,486.73,Texas,Occasional Buyer
+David,Williams,2021-03-25,,616.83,,Price-Sensitive
+Emily,Williams,2021-03-25,Smartphone,953.15,Florida,Frequent Buyer
+James,Smith,2021-03-25,Smartwatch,207.64,Georgia,Price-Sensitive
+Sophia,Davis,2021-03-26,Smartwatch,410.51,California,Frequent Buyer
+David,Miller,2021-03-26,Smartphone,1120.25,Michigan,Occasional Buyer
+James,Jones,2021-03-26,Laptop,1588.53,New York,Price-Sensitive
+David,Williams,2021-03-26,Smartwatch,,California,Price-Sensitive
+Emily,Brown,2021-03-26,Smartwatch,200.01,Illinois,Frequent Buyer
+James,Martinez,2021-03-26,Laptop,1261.62,Georgia,Occasional Buyer
+James,Martinez,2021-03-27,Headphones,292.56,Georgia,Occasional Buyer
+Daniel,Smith,2021-03-27,Smartphone,636.32,New York,Frequent Buyer
+Emily,Martinez,2021-03-27,Smartphone,448.49,New York,Price-Sensitive
+John,Johnson,2021-03-27,Headphones,89.69,California,Price-Sensitive
+Michael,Williams,2021-03-27,Tablet,531.28,Illinois,Price-Sensitive
+Sarah,Brown,2021-03-28,Smartphone,724.4,New York,Frequent Buyer
+Michael,Wilson,2021-03-28,Laptop,1700.87,Georgia,Frequent Buyer
+Emily,Martinez,2021-03-28,Headphones,136.13,New York,Price-Sensitive
+John,Johnson,2021-03-28,Headphones,85.84,California,Price-Sensitive
+Olivia,Martinez,2021-03-28,Smartphone,1072.57,New York,Frequent Buyer
+Olivia,Wilson,2021-04-01,Smartphone,689.15,Texas,Occasional Buyer
+Sarah,Davis,2021-04-01,Headphones,150.21,California,Price-Sensitive
+Michael,Jones,2021-04-01,Tablet,379.54,Georgia,Price-Sensitive
+John,Martinez,2021-04-01,Smartwatch,330.16,Florida,Price-Sensitive
+James,Smith,2021-04-01,Tablet,746.01,Michigan,Occasional Buyer
+Emily,Williams,2021-04-01,Smartwatch,415.77,Florida,Price-Sensitive
+Daniel,Smith,2021-04-01,Headphones,179.79,New York,Price-Sensitive
+Emily,Johnson,2021-04-02,Tablet,610.81,Michigan,Occasional Buyer
+Sophia,Williams,2021-04-02,Smartwatch,563.81,New York,Frequent Buyer
+Michael,Williams,2021-04-02,Smartwatch,310.11,Ohio,Frequent Buyer
+John,Johnson,2021-04-02,Smartphone,572.56,California,Price-Sensitive
+John,Martinez,2021-04-02,Headphones,45.28,Florida,Price-Sensitive
+David,Brown,2021-04-02,Laptop,1813.75,Georgia,Occasional Buyer
+David,Brown,2021-04-02,Smartphone,1009.31,Georgia,Occasional Buyer
+John,Johnson,2021-04-02,Tablet,350.92,Illinois,Price-Sensitive
+David,Martinez,2021-04-03,Headphones,239.58,Florida,Occasional Buyer
+Michael,Williams,2021-04-03,Headphones,240.96,Illinois,Premium Buyer
+Sophia,Johnson,2021-04-03,Headphones,198.12,Michigan,Occasional Buyer
+Sarah,Garcia,2021-04-03,Smartphone,534.0,Michigan,Price-Sensitive
+Olivia,Miller,2021-04-03,Laptop,1426.08,New York,Frequent Buyer
+Emma,Martinez,2021-04-03,Headphones,119.47,Illinois,Frequent Buyer
+Olivia,Miller,2021-04-03,Smartphone,564.15,New York,Frequent Buyer
+David,Williams,2021-04-03,Tablet,577.84,California,Price-Sensitive
+David,Williams,2021-04-03,Smartphone,563.31,California,Price-Sensitive
+Sophia,Williams,2021-04-04,Smartwatch,489.23,New York,Frequent Buyer
+John,Martinez,2021-04-04,Laptop,1395.82,Florida,Price-Sensitive
+Sophia,Johnson,2021-04-04,Headphones,44.32,Michigan,Occasional Buyer
+Sarah,Jones,2021-04-04,Headphones,145.6,Texas,Frequent Buyer
+Sarah,Davis,2021-04-04,Tablet,279.76,California,Price-Sensitive
+Michael,Davis,2021-04-04,Smartphone,924.7,Ohio,Occasional Buyer
+Sophia,Davis,2021-04-05,,324.51,Ohio,
+Emily,Garcia,2021-04-05,Smartphone,820.12,New York,Frequent Buyer
+Emily,Garcia,2021-04-05,Headphones,86.08,New York,Frequent Buyer
+James,Martinez,2021-04-05,Smartphone,962.63,Georgia,Occasional Buyer
+David,Williams,2021-04-05,,,California,
+James,Davis,2021-04-05,Headphones,158.67,Georgia,Frequent Buyer
+Michael,Williams,2021-04-05,Laptop,1070.16,Ohio,Frequent Buyer
+Emily,Martinez,2021-04-05,Smartwatch,141.55,New York,Price-Sensitive
+Emily,Johnson,2021-04-05,Smartwatch,327.81,Michigan,Occasional Buyer
+Sarah,Jones,2021-04-05,Laptop,1101.04,New York,Price-Sensitive
+Sophia,Williams,2021-04-05,Laptop,2012.53,New York,Frequent Buyer
+Daniel,Williams,2021-04-05,Smartwatch,755.21,Illinois,Premium Buyer
+Emily,Garcia,2021-04-06,Headphones,280.22,New York,Frequent Buyer
+Daniel,Smith,2021-04-06,Smartwatch,292.96,New York,Frequent Buyer
+Michael,Wilson,2021-04-06,Tablet,777.18,Georgia,Frequent Buyer
+John,Smith,2021-04-06,Tablet,577.22,Georgia,Price-Sensitive
+John,Martinez,2021-04-06,Tablet,509.64,Florida,Price-Sensitive
+David,Brown,2021-04-06,Headphones,117.4,Georgia,Occasional Buyer
+Daniel,Smith,2021-04-06,Headphones,131.08,New York,Price-Sensitive
+John,Smith,2021-04-06,Tablet,316.67,Ohio,Price-Sensitive
+Sarah,Jones,2021-04-06,Smartphone,721.44,New York,Price-Sensitive
+Emma,Garcia,2021-04-07,Laptop,1333.61,Georgia,Frequent Buyer
+James,Miller,2021-04-07,Headphones,,Illinois,Frequent Buyer
+James,Davis,2021-04-07,Laptop,1468.01,Georgia,Frequent Buyer
+John,Johnson,2021-04-07,Tablet,489.6,Texas,Price-Sensitive
+John,Johnson,2021-04-07,Smartwatch,258.01,Illinois,Price-Sensitive
+Olivia,Martinez,2021-04-07,Laptop,1541.89,Illinois,Frequent Buyer
+Emily,Brown,2021-04-07,Laptop,1741.2,Illinois,Frequent Buyer
+Emma,Brown,2021-04-08,Smartphone,1053.24,Ohio,Occasional Buyer
+Sarah,Brown,2021-04-08,Laptop,1176.01,New York,Frequent Buyer
+Emily,Smith,2021-04-08,,1261.99,Ohio,Frequent Buyer
+Emily,Johnson,2021-04-08,Headphones,139.19,Michigan,Occasional Buyer
+Sophia,Wilson,2021-04-08,Smartwatch,556.97,California,Occasional Buyer
+Sophia,Davis,2021-04-08,Headphones,143.81,Ohio,Price-Sensitive
+Emily,Brown,2021-04-08,Smartwatch,514.13,Illinois,Frequent Buyer
+Daniel,Williams,2021-04-08,Tablet,722.45,Illinois,Price-Sensitive
+Emily,Martinez,2021-04-08,Smartwatch,242.32,New York,Price-Sensitive
+Olivia,Miller,2021-04-08,Smartwatch,314.19,New York,Frequent Buyer
+Olivia,Smith,2021-04-08,Smartphone,734.1,New York,Occasional Buyer
+Sarah,Garcia,2021-04-08,Laptop,662.73,Michigan,Price-Sensitive
+Sophia,Johnson,2021-04-09,Laptop,1915.29,New York,Premium Buyer
+James,Martinez,2021-04-09,Headphones,116.13,New York,Premium Buyer
+John,Johnson,2021-04-10,Laptop,625.19,Texas,Price-Sensitive
+Daniel,Martinez,2021-04-10,Smartwatch,449.51,Michigan,Price-Sensitive
+David,Williams,2021-04-10,Headphones,,California,Price-Sensitive
+Michael,Williams,2021-04-10,Smartphone,913.49,Ohio,Frequent Buyer
+James,Martinez,2021-04-10,Smartphone,697.22,New York,Premium Buyer
+Emily,Johnson,2021-04-10,Tablet,736.81,Michigan,Occasional Buyer
+Emily,Wilson,2021-04-10,Tablet,554.67,Texas,Price-Sensitive
+James,Davis,2021-04-10,Smartphone,693.94,Georgia,Frequent Buyer
+Daniel,Smith,2021-04-11,Tablet,426.59,New York,Price-Sensitive
+Sarah,Williams,2021-04-11,Tablet,202.72,California,Price-Sensitive
+Daniel,Williams,2021-04-11,,2329.54,Texas,
+Michael,Wilson,2021-04-11,Smartphone,749.28,Georgia,Frequent Buyer
+James,Smith,2021-04-11,Smartwatch,159.89,Michigan,Occasional Buyer
+John,Wilson,2021-04-11,Tablet,489.46,New York,Price-Sensitive
+Emma,Brown,2021-04-11,Smartwatch,210.21,Ohio,Occasional Buyer
+Emma,Brown,2021-04-12,Smartphone,597.44,Ohio,Occasional Buyer
+Michael,Wilson,2021-04-12,Tablet,840.83,Georgia,Frequent Buyer
+Daniel,Smith,2021-04-12,Laptop,1122.11,New York,Frequent Buyer
+Emma,Garcia,2021-04-12,Tablet,777.8,Georgia,Frequent Buyer
+Michael,Garcia,2021-04-12,Laptop,686.46,California,Occasional Buyer
+Emily,Smith,2021-04-12,Smartwatch,312.64,Ohio,Frequent Buyer
+Sophia,Williams,2021-04-12,Headphones,191.72,New York,Frequent Buyer
+Olivia,Smith,2021-04-13,Tablet,454.12,New York,Occasional Buyer
+Emily,Smith,2021-04-13,Tablet,934.43,Ohio,Frequent Buyer
+John,Johnson,2021-04-13,Headphones,63.06,Illinois,Price-Sensitive
+Daniel,Smith,2021-04-13,Smartphone,1132.26,New York,Frequent Buyer
+James,Jones,2021-04-14,Smartphone,1000.54,Florida,Occasional Buyer
+John,Martinez,2021-04-14,Smartphone,973.07,California,Occasional Buyer
+Emma,Garcia,2021-04-14,Laptop,2114.92,Georgia,Frequent Buyer
+John,Johnson,2021-04-14,Tablet,601.22,Illinois,
+Sarah,Davis,2021-04-14,Smartphone,358.19,California,Price-Sensitive
+Sophia,Wilson,2021-04-14,Headphones,368.3,Texas,Premium Buyer
+James,Smith,2021-04-14,Headphones,226.28,Michigan,Occasional Buyer
+Sarah,Jones,2021-04-14,Smartwatch,516.64,New York,Price-Sensitive
+Olivia,Miller,2021-04-14,Tablet,429.36,New York,Frequent Buyer
+Olivia,Wilson,2021-04-15,,,New York,Premium Buyer
+Daniel,Williams,2021-04-15,Headphones,156.71,Michigan,Price-Sensitive
+Sarah,Brown,2021-04-15,Headphones,164.33,New York,Frequent Buyer
+Emily,Smith,2021-04-15,Laptop,1438.96,Michigan,Occasional Buyer
+Sophia,Davis,2021-04-15,Tablet,590.5,California,Frequent Buyer
+Sarah,Jones,2021-04-15,Tablet,512.35,New York,Price-Sensitive
+Sarah,Jones,2021-04-15,Tablet,308.49,New York,Price-Sensitive
+Daniel,Smith,2021-04-15,Smartphone,1227.92,New York,Frequent Buyer
+Emily,Martinez,2021-04-16,Smartphone,529.51,New York,Price-Sensitive
+Daniel,Williams,2021-04-16,Headphones,231.71,Illinois,Price-Sensitive
+John,Smith,2021-04-16,Smartphone,667.25,Ohio,Price-Sensitive
+Daniel,Smith,2021-04-16,Laptop,1782.27,New York,Frequent Buyer
+David,Williams,2021-04-16,Headphones,218.54,Ohio,Price-Sensitive
+Michael,Davis,2021-04-16,Headphones,281.39,Ohio,Occasional Buyer
+David,Martinez,2021-04-17,Smartwatch,437.98,Florida,Occasional Buyer
+David,Williams,2021-04-17,Tablet,341.61,Ohio,Price-Sensitive
+Daniel,Williams,2021-04-17,Headphones,240.6,Illinois,Premium Buyer
+Sarah,Wilson,2021-04-17,Laptop,2135.74,Texas,Premium Buyer
+Emily,Smith,2021-04-17,Laptop,704.86,Ohio,Frequent Buyer
+James,Smith,2021-04-17,Headphones,115.39,Georgia,Price-Sensitive
+Michael,Williams,2021-04-17,Smartwatch,757.26,Illinois,Premium Buyer
+Daniel,Williams,2021-04-18,Headphones,148.44,Illinois,Premium Buyer
+Daniel,Williams,2021-04-18,Headphones,170.33,Illinois,Price-Sensitive
+James,Davis,2021-04-18,Smartwatch,172.93,Georgia,Frequent Buyer
+Emma,Johnson,2021-04-18,Tablet,736.46,Florida,Occasional Buyer
+Sarah,Wilson,2021-04-18,Headphones,252.13,Texas,Premium Buyer
+Emily,Williams,2021-04-18,Tablet,396.49,Florida,Price-Sensitive
+Michael,Davis,2021-04-19,Tablet,741.87,Ohio,Occasional Buyer
+Daniel,Garcia,2021-04-19,Laptop,2071.43,Texas,Premium Buyer
+Sarah,Jones,2021-04-19,Tablet,561.62,New York,Price-Sensitive
+Emma,Martinez,2021-04-19,,170.87,,Frequent Buyer
+Sarah,Jones,2021-04-19,,109.27,,Frequent Buyer
+John,Smith,2021-04-19,Smartwatch,241.03,Ohio,Price-Sensitive
+Emily,Smith,2021-04-19,Smartwatch,300.88,Ohio,Frequent Buyer
+Emma,Johnson,2021-04-19,Laptop,1537.18,Illinois,Premium Buyer
+James,Jones,2021-04-19,Smartwatch,200.35,New York,Price-Sensitive
+Michael,Wilson,2021-04-19,Laptop,971.35,Georgia,Frequent Buyer
+Emily,Davis,2021-04-20,Tablet,1087.47,Illinois,Premium Buyer
+John,Smith,2021-04-20,Smartwatch,435.22,Georgia,Price-Sensitive
+Sophia,Johnson,2021-04-20,Smartwatch,506.39,New York,Premium Buyer
+Michael,Wilson,2021-04-20,Smartwatch,400.33,Georgia,Frequent Buyer
+Daniel,Williams,2021-04-20,Smartwatch,301.61,Michigan,Price-Sensitive
+Emma,Garcia,2021-04-20,Headphones,326.63,Georgia,Frequent Buyer
+Michael,Davis,2021-04-20,Headphones,187.53,Georgia,Premium Buyer
+Sarah,Brown,2021-04-20,Smartwatch,308.73,New York,Frequent Buyer
+Olivia,Jones,2021-04-20,Laptop,1436.46,Michigan,Premium Buyer
+Emily,Smith,2021-04-21,Tablet,494.2,Ohio,Frequent Buyer
+James,Smith,2021-04-21,Smartphone,595.24,Michigan,Occasional Buyer
+Sophia,Williams,2021-04-21,Headphones,257.51,New York,Frequent Buyer
+John,Wilson,2021-04-21,Tablet,416.46,New York,Price-Sensitive
+Emma,Martinez,2021-04-21,Headphones,103.93,Illinois,Frequent Buyer
+James,Smith,2021-04-21,Headphones,160.73,Georgia,Price-Sensitive
+Sophia,Johnson,2021-04-21,,415.31,,Premium Buyer
+Daniel,Smith,2021-04-21,Laptop,1051.61,New York,Frequent Buyer
+Olivia,Smith,2021-04-21,Tablet,642.18,New York,Occasional Buyer
+John,Johnson,2021-04-21,Tablet,451.86,California,Price-Sensitive
+Sarah,Jones,2021-04-22,Smartwatch,536.59,New York,Price-Sensitive
+Daniel,Garcia,2021-04-22,Tablet,896.65,Texas,Premium Buyer
+David,Brown,2021-04-23,Headphones,172.65,Georgia,Occasional Buyer
+John,Johnson,2021-04-23,Smartphone,,,Price-Sensitive
+David,Williams,2021-04-23,Headphones,101.88,California,Price-Sensitive
+John,Johnson,2021-04-23,Laptop,1626.33,California,Price-Sensitive
+John,Martinez,2021-04-23,Headphones,42.85,Florida,Price-Sensitive
+Daniel,Garcia,2021-04-23,Laptop,1012.93,Texas,Premium Buyer
+Emma,Johnson,2021-04-23,,1897.72,Illinois,
+Emily,Martinez,2021-04-23,Laptop,1008.14,New York,Price-Sensitive
+Michael,Garcia,2021-04-24,Smartphone,865.8,California,Occasional Buyer
+Emily,Garcia,2021-04-24,Smartwatch,213.68,New York,Frequent Buyer
+Michael,Williams,2021-04-24,Smartphone,502.91,,Frequent Buyer
+Sarah,Wilson,2021-04-24,Laptop,1057.15,Texas,Premium Buyer
+Emily,Smith,2021-04-24,Smartphone,1068.99,Ohio,Frequent Buyer
+Daniel,Smith,2021-04-24,Headphones,123.74,New York,Price-Sensitive
+Olivia,Martinez,2021-04-24,Headphones,213.81,Illinois,Frequent Buyer
+John,Martinez,2021-04-24,Laptop,1223.04,California,Occasional Buyer
+James,Jones,2021-04-25,Smartwatch,188.91,New York,Price-Sensitive
+Sarah,Brown,2021-04-25,Headphones,313.54,New York,Frequent Buyer
+Daniel,Williams,2021-04-25,Headphones,126.24,Michigan,Price-Sensitive
+Sophia,Jones,2021-04-25,Smartwatch,583.32,California,Frequent Buyer
+Michael,Garcia,2021-04-25,Smartwatch,291.77,California,Occasional Buyer
+James,Martinez,2021-04-25,Laptop,1270.63,,
+Sarah,Davis,2021-04-25,Tablet,682.1,,Price-Sensitive
+Daniel,Williams,2021-04-26,Smartphone,684.95,Michigan,Price-Sensitive
+John,Johnson,2021-04-26,Headphones,82.11,Texas,Price-Sensitive
+John,Martinez,2021-04-26,Headphones,112.04,Florida,Price-Sensitive
+Michael,Jones,2021-04-26,Headphones,116.98,Georgia,Price-Sensitive
+Olivia,Martinez,2021-04-26,Laptop,,New York,Frequent Buyer
+Daniel,Williams,2021-04-26,Smartwatch,201.45,Texas,Premium Buyer
+Michael,Williams,2021-04-26,Smartwatch,,Ohio,
+James,Jones,2021-04-26,Headphones,195.47,New York,Price-Sensitive
+James,Smith,2021-04-26,,512.42,Michigan,Occasional Buyer
+Emily,Williams,2021-04-27,Headphones,191.23,Florida,Price-Sensitive
+Emma,Martinez,2021-04-27,Smartphone,707.2,Illinois,Frequent Buyer
+James,Miller,2021-04-27,Laptop,1982.6,Illinois,Frequent Buyer
+Michael,Williams,2021-04-27,,,Illinois,Premium Buyer
+Sarah,Williams,2021-04-27,Smartphone,685.38,California,Price-Sensitive
+Sophia,Wilson,2021-04-27,Smartwatch,768.33,Texas,Premium Buyer
+Michael,Williams,2021-04-27,Headphones,182.76,Illinois,Price-Sensitive
+David,Martinez,2021-04-27,Smartwatch,161.31,Florida,Occasional Buyer
+Sarah,Williams,2021-04-27,Laptop,1465.29,California,Price-Sensitive
+Sophia,Williams,2021-04-28,Smartwatch,399.94,New York,Frequent Buyer
+David,Williams,2021-04-28,Laptop,1103.3,California,Price-Sensitive
+Olivia,Jones,2021-04-28,Headphones,92.06,Michigan,Premium Buyer
+Sophia,Williams,2021-04-28,Headphones,219.37,New York,Frequent Buyer
+David,Martinez,2021-04-28,Smartphone,931.52,Florida,Occasional Buyer
+James,Johnson,2021-04-28,Laptop,1915.66,Florida,Frequent Buyer
+James,Martinez,2021-04-28,Smartphone,743.29,New York,
+James,Jones,2021-04-28,Headphones,107.08,Florida,Occasional Buyer
+James,Smith,2021-04-28,Headphones,45.67,Georgia,Price-Sensitive
+Emma,Martinez,2021-04-28,Smartwatch,590.76,Illinois,Frequent Buyer
+John,Smith,2021-04-28,Laptop,868.61,Ohio,Price-Sensitive
+Sophia,Wilson,2021-04-28,Laptop,,Texas,Premium Buyer
+Emma,Brown,2021-04-28,Smartwatch,291.18,Ohio,Occasional Buyer
+James,Jones,2021-04-28,Smartwatch,490.28,New York,Price-Sensitive
+Daniel,Smith,2021-04-28,Smartphone,920.16,New York,Frequent Buyer
+John,Miller,2021-05-01,Headphones,75.77,Florida,Price-Sensitive
+Emma,Brown,2021-05-01,Tablet,239.97,Ohio,Occasional Buyer
+Emily,Williams,2021-05-01,Laptop,849.38,Florida,Price-Sensitive
+Sarah,Williams,2021-05-01,Tablet,230.44,California,Price-Sensitive
+Emily,Miller,2021-05-01,Smartphone,784.45,Michigan,Price-Sensitive
+Daniel,Williams,2021-05-01,Headphones,161.22,Michigan,Price-Sensitive
+David,Williams,2021-05-02,Headphones,157.22,Ohio,Price-Sensitive
+John,Martinez,2021-05-02,Smartphone,755.77,Florida,Price-Sensitive
+Olivia,Martinez,2021-05-02,Laptop,1485.83,New York,Frequent Buyer
+Sophia,Johnson,2021-05-03,Smartwatch,632.67,New York,Premium Buyer
+James,Smith,2021-05-03,Headphones,81.98,Georgia,Price-Sensitive
+Olivia,Martinez,2021-05-03,Laptop,926.38,New York,Frequent Buyer
+Emily,Davis,2021-05-03,Tablet,901.91,Illinois,Premium Buyer
+Emily,Martinez,2021-05-03,Smartphone,515.57,New York,Price-Sensitive
+John,Wilson,2021-05-03,Tablet,386.68,New York,Price-Sensitive
+Emily,Smith,2021-05-03,Tablet,616.99,,Price-Sensitive
+Emma,Brown,2021-05-03,Laptop,1740.1,California,Occasional Buyer
+James,Miller,2021-05-04,Headphones,200.08,Illinois,Frequent Buyer
+John,Johnson,2021-05-04,Smartwatch,173.87,Michigan,Occasional Buyer
+Sarah,Davis,2021-05-04,Smartphone,385.81,California,Price-Sensitive
+Olivia,Miller,2021-05-04,Laptop,2198.43,New York,Frequent Buyer
+Sophia,Wilson,2021-05-04,Headphones,112.95,Texas,Premium Buyer
+James,Miller,2021-05-04,Headphones,259.25,Illinois,Frequent Buyer
+John,Williams,2021-05-04,Smartphone,1030.9,California,Occasional Buyer
+Olivia,Martinez,2021-05-04,Smartphone,818.84,New York,Frequent Buyer
+Emily,Brown,2021-05-04,Headphones,81.33,Illinois,Frequent Buyer
+Daniel,Smith,2021-05-04,Headphones,138.72,New York,Occasional Buyer
+Daniel,Williams,2021-05-04,Laptop,1090.99,Illinois,Price-Sensitive
+Olivia,Miller,2021-05-05,Smartwatch,463.98,New York,Frequent Buyer
+Daniel,Williams,2021-05-05,Smartphone,1160.95,Texas,Premium Buyer
+Emily,Smith,2021-05-05,Laptop,1257.98,Ohio,Frequent Buyer
+John,Smith,2021-05-05,Tablet,333.68,,Price-Sensitive
+Emily,Brown,2021-05-05,Tablet,705.19,Illinois,Frequent Buyer
+Emily,Smith,2021-05-05,Headphones,57.63,Ohio,Frequent Buyer
+James,Miller,2021-05-05,Headphones,185.02,Illinois,Frequent Buyer
+John,Johnson,2021-05-05,Smartwatch,360.75,California,Price-Sensitive
+James,Miller,2021-05-06,Laptop,1167.61,Illinois,Frequent Buyer
+Sophia,Johnson,2021-05-06,Tablet,728.4,New York,Premium Buyer
+David,Williams,2021-05-06,Tablet,494.34,Ohio,Price-Sensitive
+John,Martinez,2021-05-06,Headphones,122.07,Florida,Price-Sensitive
+Sarah,Jones,2021-05-06,Smartwatch,267.41,Texas,Frequent Buyer
+Daniel,Martinez,2021-05-06,Headphones,46.46,Florida,Price-Sensitive
+Sophia,Wilson,2021-05-06,Tablet,473.69,Texas,Premium Buyer
+John,Johnson,2021-05-06,Laptop,1106.67,Texas,Price-Sensitive
+John,Wilson,2021-05-06,Tablet,579.05,New York,Price-Sensitive
+John,Johnson,2021-05-07,Smartphone,1008.13,California,Price-Sensitive
+James,Davis,2021-05-07,Tablet,416.5,Georgia,Frequent Buyer
+Emily,Martinez,2021-05-08,Headphones,,New York,
+Emily,Williams,2021-05-08,Laptop,1103.52,Florida,Frequent Buyer
+James,Smith,2021-05-08,Headphones,52.67,Michigan,Occasional Buyer
+James,Davis,2021-05-08,Tablet,590.1,Georgia,Frequent Buyer
+Michael,Williams,2021-05-08,Smartphone,1099.83,Ohio,Frequent Buyer
+Daniel,Williams,2021-05-08,Laptop,1449.48,Illinois,Price-Sensitive
+David,Williams,2021-05-08,Headphones,144.5,Ohio,Price-Sensitive
+David,Williams,2021-05-08,Tablet,385.2,Ohio,Price-Sensitive
+Emily,Garcia,2021-05-09,Headphones,279.39,New York,Frequent Buyer
+Sarah,Wilson,2021-05-09,Laptop,1626.17,Texas,Premium Buyer
+Sophia,Miller,2021-05-09,Headphones,198.58,Florida,Premium Buyer
+Sarah,Jones,2021-05-09,Smartphone,893.88,Texas,Frequent Buyer
+Michael,Williams,2021-05-09,Smartwatch,206.98,Ohio,Frequent Buyer
+Emily,Brown,2021-05-09,Tablet,731.66,Illinois,Frequent Buyer
+Daniel,Martinez,2021-05-09,Smartphone,,Florida,
+Olivia,Martinez,2021-05-09,Smartwatch,434.06,Illinois,Frequent Buyer
+Daniel,Smith,2021-05-09,Tablet,266.35,New York,Frequent Buyer
+Emily,Williams,2021-05-10,Smartphone,502.61,Florida,
+James,Johnson,2021-05-10,Smartphone,1296.11,Florida,Frequent Buyer
+Sarah,Brown,2021-05-10,Headphones,99.34,New York,Frequent Buyer
+John,Martinez,2021-05-10,Smartwatch,309.02,Florida,Price-Sensitive
+Daniel,Garcia,2021-05-10,Smartphone,949.74,Texas,Premium Buyer
+Sarah,Brown,2021-05-10,Tablet,905.16,New York,Frequent Buyer
+Sophia,Jones,2021-05-10,Laptop,1487.0,California,Frequent Buyer
+Daniel,Martinez,2021-05-10,Headphones,114.55,Florida,Price-Sensitive
+Emily,Wilson,2021-05-10,Headphones,223.21,Texas,Price-Sensitive
+Emma,Johnson,2021-05-10,Headphones,355.99,Illinois,Premium Buyer
+David,Davis,2021-05-11,Smartphone,521.85,Texas,Occasional Buyer
+John,Brown,2021-05-11,Laptop,1236.66,Ohio,Premium Buyer
+David,Brown,2021-05-11,Laptop,1129.94,Georgia,Occasional Buyer
+Olivia,Martinez,2021-05-11,Smartphone,1079.12,Illinois,Frequent Buyer
+Emily,Garcia,2021-05-11,Tablet,828.19,New York,Frequent Buyer
+James,Davis,2021-05-11,Headphones,194.69,,
+Emily,Smith,2021-05-11,Smartwatch,499.42,Ohio,Frequent Buyer
+John,Williams,2021-05-11,Tablet,603.12,California,Occasional Buyer
+Michael,Garcia,2021-05-12,Tablet,396.22,California,Occasional Buyer
+Emily,Smith,2021-05-12,Tablet,570.26,,
+Emily,Brown,2021-05-12,Smartwatch,327.25,Illinois,Frequent Buyer
+Sarah,Wilson,2021-05-12,Laptop,2167.2,Texas,Premium Buyer
+Daniel,Williams,2021-05-12,Smartwatch,359.99,Illinois,Price-Sensitive
+Daniel,Williams,2021-05-12,Laptop,1929.89,Texas,Premium Buyer
+John,Johnson,2021-05-12,Smartwatch,254.3,Texas,Price-Sensitive
+John,Williams,2021-05-12,Laptop,1243.09,California,Occasional Buyer
+Olivia,Miller,2021-05-12,Smartwatch,508.46,New York,Frequent Buyer
+Emma,Martinez,2021-05-12,Headphones,281.72,Illinois,Frequent Buyer
+John,Smith,2021-05-12,Smartphone,875.98,Georgia,Price-Sensitive
+Sophia,Johnson,2021-05-12,Smartwatch,722.91,New York,Premium Buyer
+James,Smith,2021-05-13,Laptop,1240.25,Georgia,Price-Sensitive
+Michael,Wilson,2021-05-13,Headphones,290.71,Georgia,Frequent Buyer
+Emily,Wilson,2021-05-13,Laptop,891.26,Texas,Price-Sensitive
+Sarah,Williams,2021-05-13,Headphones,40.58,New York,Occasional Buyer
+Emily,Brown,2021-05-14,Smartwatch,118.32,Illinois,Frequent Buyer
+Sarah,Jones,2021-05-14,Smartphone,,,Price-Sensitive
+Emily,Smith,2021-05-14,Smartwatch,143.34,Illinois,Price-Sensitive
+Emma,Martinez,2021-05-15,Headphones,235.19,Illinois,
+James,Smith,2021-05-15,Smartwatch,193.52,Georgia,Price-Sensitive
+Michael,Davis,2021-05-15,Tablet,295.74,Ohio,Occasional Buyer
+Olivia,Miller,2021-05-15,Smartphone,716.95,New York,Frequent Buyer
+Sophia,Davis,2021-05-15,Headphones,176.61,Ohio,Price-Sensitive
+John,Smith,2021-05-15,Smartphone,909.76,Georgia,Price-Sensitive
+Olivia,Martinez,2021-05-15,Smartphone,1265.62,Illinois,Frequent Buyer
+Emily,Miller,2021-05-15,Smartwatch,422.87,Michigan,Price-Sensitive
+John,Smith,2021-05-15,Tablet,432.25,Georgia,Price-Sensitive
+Sarah,Brown,2021-05-15,Smartphone,732.68,New York,Frequent Buyer
+John,Johnson,2021-05-15,Tablet,627.79,California,Price-Sensitive
+Sophia,Williams,2021-05-15,Smartphone,712.21,New York,Frequent Buyer
+Sarah,Jones,2021-05-15,Smartwatch,492.59,Texas,Frequent Buyer
+Daniel,Smith,2021-05-15,Smartphone,554.0,New York,Occasional Buyer
+Emily,Martinez,2021-05-16,Smartphone,619.8,New York,Price-Sensitive
+Olivia,Miller,2021-05-16,Laptop,1256.89,New York,Frequent Buyer
+Emily,Wilson,2021-05-16,Laptop,1192.24,Texas,Price-Sensitive
+John,Brown,2021-05-16,Laptop,1326.9,Ohio,Premium Buyer
+Sophia,Miller,2021-05-16,Smartwatch,375.98,Florida,Premium Buyer
+John,Martinez,2021-05-16,Laptop,1691.24,Florida,Price-Sensitive
+Emily,Brown,2021-05-16,Headphones,105.38,Illinois,Frequent Buyer
+Daniel,Williams,2021-05-17,Tablet,489.76,Illinois,Price-Sensitive
+Sophia,Williams,2021-05-17,Headphones,244.62,New York,Frequent Buyer
+Emily,Smith,2021-05-17,Smartphone,881.42,Illinois,Price-Sensitive
+Michael,Wilson,2021-05-17,Laptop,1383.25,California,Occasional Buyer
+John,Johnson,2021-05-17,Tablet,444.81,California,Price-Sensitive
+Olivia,Miller,2021-05-17,Laptop,1376.58,New York,Frequent Buyer
+Sarah,Brown,2021-05-18,Smartphone,1172.25,New York,Frequent Buyer
+Sarah,Brown,2021-05-18,Laptop,1837.48,New York,Frequent Buyer
+Emma,Brown,2021-05-18,Smartphone,611.0,Ohio,Occasional Buyer
+Michael,Davis,2021-05-18,Smartwatch,221.08,Georgia,Premium Buyer
+David,Williams,2021-05-18,Headphones,47.91,Ohio,Price-Sensitive
+Michael,Williams,2021-05-18,Headphones,201.98,Ohio,Frequent Buyer
+Sophia,Jones,2021-05-18,Smartwatch,228.12,California,Frequent Buyer
+John,Johnson,2021-05-19,Smartphone,739.12,,
+Olivia,Martinez,2021-05-19,Smartwatch,427.98,Illinois,Frequent Buyer
+Michael,Davis,2021-05-19,Headphones,70.51,Georgia,Premium Buyer
+Olivia,Miller,2021-05-19,Smartphone,1038.87,New York,Frequent Buyer
+Sophia,Johnson,2021-05-19,Smartwatch,497.39,New York,Premium Buyer
+Sophia,Johnson,2021-05-20,Smartwatch,599.21,Michigan,Occasional Buyer
+Emily,Smith,2021-05-20,Tablet,770.4,Illinois,Price-Sensitive
+Daniel,Martinez,2021-05-20,Headphones,,Florida,
+James,Miller,2021-05-20,Smartwatch,597.88,Illinois,Frequent Buyer
+Emily,Miller,2021-05-20,Smartwatch,414.48,Michigan,Price-Sensitive
+John,Martinez,2021-05-21,Headphones,258.59,Florida,Price-Sensitive
+Sophia,Johnson,2021-05-21,Smartwatch,573.8,New York,Premium Buyer
+Daniel,Garcia,2021-05-21,Smartphone,1347.28,Texas,Premium Buyer
+Olivia,Martinez,2021-05-21,Headphones,98.58,,Frequent Buyer
+Daniel,Smith,2021-05-21,Smartwatch,154.47,New York,Occasional Buyer
+Daniel,Williams,2021-05-21,Tablet,271.66,Michigan,Price-Sensitive
+Emily,Martinez,2021-05-21,Laptop,1268.13,New York,Price-Sensitive
+Sophia,Johnson,2021-05-21,Laptop,1326.15,New York,Premium Buyer
+John,Williams,2021-05-22,Headphones,216.98,California,Occasional Buyer
+Sarah,Jones,2021-05-22,Headphones,90.9,Texas,Frequent Buyer
+Emily,Smith,2021-05-22,Smartphone,537.55,Illinois,Price-Sensitive
+Olivia,Martinez,2021-05-22,Headphones,66.14,Illinois,Frequent Buyer
+Sophia,Miller,2021-05-22,Headphones,297.06,Florida,Premium Buyer
+Michael,Williams,2021-05-22,Laptop,1438.58,Ohio,Frequent Buyer
+James,Smith,2021-05-22,Laptop,1648.9,Michigan,Occasional Buyer
+Emma,Martinez,2021-05-22,Smartwatch,591.75,Illinois,Frequent Buyer
+Michael,Williams,2021-05-23,Headphones,113.09,Illinois,Premium Buyer
+David,Williams,2021-05-23,Headphones,168.22,California,Price-Sensitive
+Sophia,Johnson,2021-05-23,Laptop,1107.03,New York,Premium Buyer
+Sophia,Davis,2021-05-23,Laptop,1423.89,California,Frequent Buyer
+James,Miller,2021-05-23,Tablet,358.68,Illinois,Frequent Buyer
+Emily,Garcia,2021-05-23,Laptop,1542.62,New York,Frequent Buyer
+Olivia,Martinez,2021-05-23,,293.01,,Frequent Buyer
+John,Brown,2021-05-23,Headphones,198.07,Ohio,Premium Buyer
+James,Smith,2021-05-24,Laptop,780.18,Michigan,Occasional Buyer
+James,Davis,2021-05-24,Headphones,247.72,Georgia,Frequent Buyer
+Emily,Garcia,2021-05-24,Headphones,242.94,New York,Frequent Buyer
+Sarah,Wilson,2021-05-24,Smartphone,1525.01,Texas,Premium Buyer
+James,Davis,2021-05-24,Smartphone,762.19,Georgia,Frequent Buyer
+John,Smith,2021-05-24,Headphones,139.36,Ohio,Price-Sensitive
+Emily,Brown,2021-05-24,Smartwatch,448.97,Illinois,Frequent Buyer
+Sarah,Jones,2021-05-24,Laptop,565.48,New York,Price-Sensitive
+John,Williams,2021-05-24,Laptop,649.22,California,Occasional Buyer
+Emily,Brown,2021-05-24,Smartphone,879.55,Illinois,Frequent Buyer
+Michael,Williams,2021-05-25,Laptop,2023.32,Ohio,Frequent Buyer
+Michael,Wilson,2021-05-25,Tablet,380.41,Georgia,Frequent Buyer
+David,Davis,2021-05-25,Tablet,601.99,Texas,Occasional Buyer
+Daniel,Williams,2021-05-25,Smartwatch,167.19,Illinois,Price-Sensitive
+Emily,Wilson,2021-05-25,Tablet,273.44,Texas,Price-Sensitive
+John,Johnson,2021-05-25,Smartphone,682.04,Michigan,Occasional Buyer
+James,Johnson,2021-05-25,Headphones,106.36,Florida,Frequent Buyer
+Olivia,Martinez,2021-05-25,Smartwatch,338.93,Illinois,Frequent Buyer
+John,Smith,2021-05-25,Tablet,639.28,Ohio,Price-Sensitive
+James,Davis,2021-05-25,Tablet,499.23,Georgia,Frequent Buyer
+Sophia,Jones,2021-05-25,Smartwatch,206.58,California,Frequent Buyer
+Daniel,Williams,2021-05-25,Laptop,1588.53,Illinois,Premium Buyer
+Sarah,Brown,2021-05-26,Smartwatch,376.5,New York,Frequent Buyer
+Daniel,Williams,2021-05-26,,,Illinois,Price-Sensitive
+John,Johnson,2021-05-26,Tablet,422.27,Michigan,Occasional Buyer
+Emily,Wilson,2021-05-26,Headphones,148.8,Texas,Price-Sensitive
+Sarah,Davis,2021-05-26,Headphones,46.06,California,Price-Sensitive
+Olivia,Martinez,2021-05-26,,552.32,New York,Frequent Buyer
+David,Brown,2021-05-26,Tablet,376.41,Georgia,Occasional Buyer
+Sarah,Jones,2021-05-26,Smartwatch,315.84,Texas,Frequent Buyer
+Daniel,Williams,2021-05-27,Headphones,123.64,,Price-Sensitive
+Olivia,Martinez,2021-05-27,Smartwatch,550.96,New York,Frequent Buyer
+John,Johnson,2021-05-27,Laptop,509.84,Texas,Price-Sensitive
+Emily,Smith,2021-05-27,Smartphone,604.31,Ohio,Frequent Buyer
+Daniel,Smith,2021-05-27,Headphones,55.48,New York,Frequent Buyer
+Sophia,Johnson,2021-05-27,Smartwatch,230.16,New York,Premium Buyer
+John,Johnson,2021-05-27,Headphones,215.31,Illinois,Price-Sensitive
+John,Williams,2021-05-28,Smartwatch,124.1,California,Occasional Buyer
+David,Williams,2021-05-28,Smartwatch,309.19,Ohio,Price-Sensitive
+Emma,Martinez,2021-06-01,Smartwatch,376.77,Illinois,Frequent Buyer
+Sarah,Jones,2021-06-01,Headphones,176.46,New York,Price-Sensitive
+Olivia,Smith,2021-06-01,Laptop,983.83,New York,Occasional Buyer
+Emily,Garcia,2021-06-01,Tablet,619.54,New York,Frequent Buyer
+Daniel,Martinez,2021-06-01,Smartphone,688.82,Michigan,Price-Sensitive
+Sophia,Davis,2021-06-01,Headphones,217.1,California,Frequent Buyer
+Daniel,Williams,2021-06-02,Smartphone,430.81,Illinois,Price-Sensitive
+James,Davis,2021-06-02,Smartwatch,372.12,Georgia,Frequent Buyer
+David,Brown,2021-06-02,Smartphone,649.32,Georgia,Occasional Buyer
+Michael,Wilson,2021-06-02,,,California,Occasional Buyer
+Sophia,Johnson,2021-06-02,Tablet,272.13,Michigan,Occasional Buyer
+Olivia,Wilson,2021-06-02,Tablet,278.96,Texas,Occasional Buyer
+David,Davis,2021-06-02,,193.47,Texas,
+John,Wilson,2021-06-02,Headphones,73.83,New York,Price-Sensitive
+Daniel,Brown,2021-06-02,Tablet,443.26,New York,Occasional Buyer
+Emma,Martinez,2021-06-02,Laptop,699.54,Illinois,Frequent Buyer
+Sophia,Davis,2021-06-03,Headphones,229.21,California,
+Emily,Williams,2021-06-03,,111.38,Florida,
+Olivia,Martinez,2021-06-03,Tablet,562.94,Illinois,Frequent Buyer
+Daniel,Martinez,2021-06-03,Headphones,96.54,Michigan,Price-Sensitive
+John,Johnson,2021-06-03,Headphones,202.58,California,
+Daniel,Garcia,2021-06-03,Headphones,73.92,Texas,Premium Buyer
+Sarah,Jones,2021-06-03,Laptop,1108.64,New York,Price-Sensitive
+James,Johnson,2021-06-03,Smartphone,,,Frequent Buyer
+Sophia,Johnson,2021-06-03,Smartwatch,,Michigan,Occasional Buyer
+Sophia,Williams,2021-06-03,Laptop,737.0,New York,Frequent Buyer
+John,Williams,2021-06-03,Smartphone,1067.26,California,Occasional Buyer
+Sarah,Jones,2021-06-03,Headphones,195.88,Georgia,Occasional Buyer
+Olivia,Miller,2021-06-04,Laptop,1105.47,New York,Frequent Buyer
+Emily,Garcia,2021-06-04,Smartphone,429.19,New York,Frequent Buyer
+Sarah,Davis,2021-06-04,Laptop,700.97,California,Price-Sensitive
+Emily,Williams,2021-06-04,Smartphone,794.64,Florida,Price-Sensitive
+Sophia,Johnson,2021-06-04,Smartphone,903.81,Michigan,Occasional Buyer
+Daniel,Smith,2021-06-04,Smartphone,551.7,New York,Occasional Buyer
+Emily,Brown,2021-06-04,Smartphone,1162.93,Illinois,Frequent Buyer
+Olivia,Miller,2021-06-05,Smartphone,918.84,New York,Frequent Buyer
+Olivia,Wilson,2021-06-05,Smartphone,465.24,Texas,Occasional Buyer
+Sophia,Wilson,2021-06-05,Tablet,570.99,Texas,Premium Buyer
+Emily,Smith,2021-06-05,Headphones,158.56,Ohio,Frequent Buyer
+Sophia,Johnson,2021-06-05,Laptop,695.86,New York,Premium Buyer
+Daniel,Williams,2021-06-05,Headphones,146.41,Illinois,Price-Sensitive
+Michael,Wilson,2021-06-05,Smartwatch,509.29,Georgia,Frequent Buyer
+Olivia,Martinez,2021-06-05,Laptop,1046.59,New York,Frequent Buyer
+James,Johnson,2021-06-05,,758.06,,Frequent Buyer
+Emily,Williams,2021-06-05,Headphones,264.11,Florida,Frequent Buyer
+James,Smith,2021-06-06,Headphones,71.3,Michigan,Occasional Buyer
+John,Johnson,2021-06-06,Laptop,619.71,California,Price-Sensitive
+Sophia,Johnson,2021-06-06,Laptop,993.61,New York,Premium Buyer
+John,Martinez,2021-06-06,Headphones,167.56,California,Occasional Buyer
+Sophia,Williams,2021-06-06,Laptop,830.19,New York,Frequent Buyer
+Sarah,Jones,2021-06-06,Smartphone,849.93,Texas,Frequent Buyer
+Michael,Jones,2021-06-06,Smartwatch,369.71,Georgia,Price-Sensitive
+Sophia,Davis,2021-06-07,Laptop,,Ohio,
+Sophia,Jones,2021-06-07,Laptop,991.31,California,Frequent Buyer
+James,Davis,2021-06-07,Tablet,642.54,Georgia,Frequent Buyer
+Emily,Smith,2021-06-07,Tablet,473.88,Illinois,Price-Sensitive
+Sarah,Brown,2021-06-07,Headphones,268.11,New York,Frequent Buyer
+James,Smith,2021-06-07,Headphones,79.07,,Occasional Buyer
+Sarah,Jones,2021-06-07,Laptop,1387.71,Georgia,Occasional Buyer
+Emily,Smith,2021-06-07,Headphones,105.04,Illinois,Price-Sensitive
+Sarah,Garcia,2021-06-07,Headphones,145.76,Ohio,Occasional Buyer
+Emily,Brown,2021-06-08,Tablet,696.68,Illinois,Frequent Buyer
+Daniel,Smith,2021-06-08,Tablet,421.68,New York,Frequent Buyer
+Michael,Jones,2021-06-08,Smartwatch,273.79,Georgia,Price-Sensitive
+Daniel,Smith,2021-06-08,Tablet,756.05,New York,Occasional Buyer
+Sophia,Davis,2021-06-08,Tablet,857.89,California,Frequent Buyer
+Sarah,Davis,2021-06-08,Headphones,180.14,California,Price-Sensitive
+Michael,Williams,2021-06-08,Smartwatch,269.12,Ohio,Frequent Buyer
+Olivia,Martinez,2021-06-08,,172.69,Illinois,Frequent Buyer
+Daniel,Williams,2021-06-09,Headphones,125.9,,Price-Sensitive
+Olivia,Wilson,2021-06-09,Smartphone,1296.4,,Premium Buyer
+Emma,Garcia,2021-06-09,,395.24,Georgia,
+John,Wilson,2021-06-09,Smartphone,774.75,New York,Price-Sensitive
+John,Miller,2021-06-09,Laptop,1031.5,Florida,Price-Sensitive
+Emma,Garcia,2021-06-09,Smartwatch,407.18,Georgia,Frequent Buyer
+Daniel,Williams,2021-06-09,,,Illinois,Price-Sensitive
+John,Martinez,2021-06-09,Smartwatch,129.6,Florida,Price-Sensitive
+John,Smith,2021-06-09,Headphones,226.61,Ohio,Price-Sensitive
+James,Jones,2021-06-10,Tablet,606.25,New York,Price-Sensitive
+Emily,Wilson,2021-06-10,Headphones,55.67,Texas,Occasional Buyer
+Sarah,Jones,2021-06-10,Headphones,179.82,New York,Price-Sensitive
+Emily,Brown,2021-06-10,Laptop,774.77,Illinois,Frequent Buyer
+Emily,Garcia,2021-06-10,Headphones,148.36,New York,Frequent Buyer
+Daniel,Brown,2021-06-10,Smartwatch,276.73,New York,Occasional Buyer
+Sarah,Jones,2021-06-10,,598.73,,Price-Sensitive
+Emma,Garcia,2021-06-10,Laptop,1558.19,Georgia,Frequent Buyer
+Sophia,Jones,2021-06-10,Headphones,255.89,California,Frequent Buyer
+Michael,Williams,2021-06-11,Smartphone,506.27,Illinois,Price-Sensitive
+John,Johnson,2021-06-11,Laptop,967.57,California,Price-Sensitive
+John,Wilson,2021-06-11,Smartwatch,362.6,New York,Price-Sensitive
+David,Williams,2021-06-11,Headphones,44.12,Ohio,Price-Sensitive
+Emma,Martinez,2021-06-11,Tablet,861.28,Illinois,Frequent Buyer
+John,Martinez,2021-06-11,Tablet,417.43,Florida,Price-Sensitive
+Sarah,Williams,2021-06-11,Smartwatch,179.9,California,Price-Sensitive
+Sarah,Williams,2021-06-12,Tablet,480.22,California,Price-Sensitive
+Michael,Wilson,2021-06-12,Tablet,880.1,Georgia,Frequent Buyer
+Sarah,Jones,2021-06-12,Tablet,846.92,Texas,Frequent Buyer
+Emily,Williams,2021-06-12,Smartphone,657.61,Florida,Price-Sensitive
+Sarah,Davis,2021-06-12,Tablet,454.13,California,
+Michael,Garcia,2021-06-12,Smartphone,720.65,California,Occasional Buyer
+John,Wilson,2021-06-12,Laptop,985.29,New York,Price-Sensitive
+Daniel,Williams,2021-06-12,Smartwatch,255.22,Michigan,Price-Sensitive
+Emma,Brown,2021-06-12,Headphones,185.09,California,Occasional Buyer
+Olivia,Wilson,2021-06-13,Smartwatch,158.53,Texas,Occasional Buyer
+Emily,Brown,2021-06-13,Smartphone,769.93,Illinois,Frequent Buyer
+Michael,Wilson,2021-06-13,Tablet,580.12,California,Occasional Buyer
+Emily,Smith,2021-06-13,Smartwatch,,,Price-Sensitive
+Sarah,Jones,2021-06-13,Tablet,854.83,Texas,Frequent Buyer
+Olivia,Smith,2021-06-13,Smartwatch,269.75,New York,Occasional Buyer
+James,Martinez,2021-06-13,Smartwatch,312.02,Georgia,Occasional Buyer
+Michael,Williams,2021-06-14,Smartphone,1128.69,Ohio,Frequent Buyer
+Sarah,Jones,2021-06-14,Smartphone,457.83,Georgia,Occasional Buyer
+Sophia,Davis,2021-06-14,Headphones,207.01,California,Frequent Buyer
+Sophia,Johnson,2021-06-14,Headphones,194.32,Michigan,Occasional Buyer
+Daniel,Martinez,2021-06-14,Laptop,1232.13,Michigan,Price-Sensitive
+Daniel,Smith,2021-06-14,Smartwatch,343.73,New York,Price-Sensitive
+Emma,Garcia,2021-06-14,Smartwatch,265.43,Georgia,Frequent Buyer
+Olivia,Wilson,2021-06-15,Laptop,1516.02,Texas,Occasional Buyer
+Michael,Wilson,2021-06-15,Smartwatch,341.28,Georgia,Frequent Buyer
+Emily,Garcia,2021-06-15,Tablet,415.5,New York,Frequent Buyer
+Emma,Brown,2021-06-15,Tablet,301.41,Ohio,Occasional Buyer
+James,Davis,2021-06-15,Tablet,682.32,Georgia,Frequent Buyer
+Olivia,Wilson,2021-06-15,Laptop,1270.48,Texas,Occasional Buyer
+Emily,Wilson,2021-06-16,Headphones,97.86,,
+Sophia,Jones,2021-06-16,Smartwatch,548.22,California,Frequent Buyer
+Olivia,Smith,2021-06-16,Smartwatch,,New York,Occasional Buyer
+Emma,Martinez,2021-06-17,Tablet,325.98,Illinois,Frequent Buyer
+Emily,Williams,2021-06-17,Headphones,34.81,Florida,Price-Sensitive
+Sarah,Garcia,2021-06-17,Smartwatch,271.41,Ohio,Occasional Buyer
+Sophia,Davis,2021-06-17,Smartphone,530.16,Ohio,Price-Sensitive
+Daniel,Williams,2021-06-17,Laptop,1403.13,Illinois,Premium Buyer
+Michael,Wilson,2021-06-17,Headphones,286.31,Georgia,Frequent Buyer
+Daniel,Martinez,2021-06-17,Headphones,76.97,Michigan,Price-Sensitive
+Daniel,Smith,2021-06-17,Headphones,89.04,New York,Frequent Buyer
+Sophia,Johnson,2021-06-18,Smartwatch,196.0,Michigan,Occasional Buyer
+Michael,Williams,2021-06-18,Laptop,1186.1,Ohio,Frequent Buyer
+Sophia,Jones,2021-06-18,Tablet,877.04,California,Frequent Buyer
+Sarah,Jones,2021-06-18,Headphones,211.92,Georgia,Occasional Buyer
+Michael,Williams,2021-06-18,Smartwatch,178.19,Illinois,Price-Sensitive
+Emily,Smith,2021-06-18,Laptop,1238.35,Illinois,Price-Sensitive
+Sophia,Davis,2021-06-19,Headphones,65.3,Ohio,Price-Sensitive
+John,Martinez,2021-06-19,Headphones,52.39,California,Occasional Buyer
+Michael,Smith,2021-06-19,Smartwatch,,Illinois,Occasional Buyer
+James,Johnson,2021-06-19,Headphones,215.9,Florida,Frequent Buyer
+Emma,Garcia,2021-06-19,Laptop,1975.58,Georgia,Frequent Buyer
+John,Wilson,2021-06-19,Headphones,207.31,New York,Price-Sensitive
+Emma,Brown,2021-06-19,Smartphone,742.96,California,Occasional Buyer
+John,Wilson,2021-06-19,Laptop,518.35,New York,Price-Sensitive
+Emily,Davis,2021-06-19,Smartphone,866.84,New York,Occasional Buyer
+Emma,Johnson,2021-06-19,Smartphone,663.41,Florida,Occasional Buyer
+Sophia,Williams,2021-06-19,Laptop,1199.9,New York,Frequent Buyer
+Emma,Johnson,2021-06-19,Smartwatch,228.07,Florida,Occasional Buyer
+Sophia,Davis,2021-06-20,Laptop,526.46,Ohio,Price-Sensitive
+Daniel,Smith,2021-06-20,Tablet,308.65,New York,Frequent Buyer
+Emily,Williams,2021-06-20,Smartwatch,,Florida,Price-Sensitive
+Daniel,Smith,2021-06-20,Smartphone,654.73,New York,Frequent Buyer
+Michael,Williams,2021-06-20,,,Ohio,Frequent Buyer
+Emma,Martinez,2021-06-20,Headphones,208.93,Illinois,Frequent Buyer
+Sarah,Jones,2021-06-20,Smartphone,546.8,Texas,Frequent Buyer
+Michael,Davis,2021-06-20,Smartphone,1243.22,Georgia,Premium Buyer
+Emma,Brown,2021-06-21,Headphones,,Ohio,Occasional Buyer
+James,Smith,2021-06-21,Laptop,600.69,Michigan,Occasional Buyer
+John,Martinez,2021-06-21,Smartphone,474.26,Florida,Price-Sensitive
+Daniel,Smith,2021-06-21,Smartphone,594.58,New York,Frequent Buyer
+Michael,Williams,2021-06-21,Headphones,48.04,Illinois,Price-Sensitive
+Sarah,Jones,2021-06-21,Smartwatch,301.22,New York,Price-Sensitive
+James,Davis,2021-06-21,,,Georgia,Frequent Buyer
+Sarah,Jones,2021-06-21,Headphones,122.05,New York,Price-Sensitive
+Olivia,Miller,2021-06-21,Headphones,124.95,New York,Frequent Buyer
+Michael,Wilson,2021-06-21,Headphones,216.14,Georgia,Frequent Buyer
+James,Miller,2021-06-22,Smartwatch,562.79,Illinois,Frequent Buyer
+Sophia,Johnson,2021-06-22,Laptop,1661.34,Michigan,Occasional Buyer
+Emma,Martinez,2021-06-22,Smartphone,556.96,Illinois,Frequent Buyer
+Sophia,Johnson,2021-06-22,Smartwatch,416.6,New York,Premium Buyer
+John,Johnson,2021-06-22,Smartphone,406.38,California,Price-Sensitive
+David,Williams,2021-06-22,Tablet,209.31,California,Price-Sensitive
+Sarah,Jones,2021-06-22,Headphones,55.14,Georgia,Occasional Buyer
+Emily,Davis,2021-06-22,Laptop,1757.69,Illinois,Premium Buyer
+Michael,Wilson,2021-06-22,Smartwatch,233.91,Georgia,Frequent Buyer
+Daniel,Smith,2021-06-22,Smartphone,819.63,New York,Frequent Buyer
+Daniel,Williams,2021-06-22,Laptop,567.83,Illinois,Price-Sensitive
+Emily,Smith,2021-06-23,Tablet,302.54,Illinois,Price-Sensitive
+Sarah,Jones,2021-06-23,Tablet,392.34,New York,Price-Sensitive
+Emma,Johnson,2021-06-23,Tablet,527.27,Florida,Occasional Buyer
+Olivia,Martinez,2021-06-23,Laptop,1374.9,Illinois,Frequent Buyer
+Sarah,Davis,2021-06-23,Smartwatch,164.81,California,Price-Sensitive
+Sophia,Davis,2021-06-23,Laptop,,California,
+Sarah,Jones,2021-06-24,Smartphone,607.34,Georgia,Occasional Buyer
+James,Davis,2021-06-24,Laptop,1719.77,Georgia,Frequent Buyer
+Emily,Smith,2021-06-24,Smartwatch,373.71,Ohio,Frequent Buyer
+James,Smith,2021-06-24,Smartwatch,168.88,Michigan,Occasional Buyer
+Michael,Garcia,2021-06-24,Smartphone,692.43,California,Occasional Buyer
+Emily,Smith,2021-06-24,Laptop,991.28,Ohio,Frequent Buyer
+John,Johnson,2021-06-24,Headphones,100.66,Texas,Price-Sensitive
+Olivia,Miller,2021-06-24,Smartwatch,494.8,New York,Frequent Buyer
+Olivia,Wilson,2021-06-25,Smartwatch,574.09,New York,Premium Buyer
+Emma,Brown,2021-06-25,Tablet,286.21,California,Occasional Buyer
+John,Smith,2021-06-25,Laptop,1354.85,Georgia,Price-Sensitive
+Emma,Garcia,2021-06-25,Smartwatch,198.04,Georgia,Frequent Buyer
+Olivia,Miller,2021-06-25,Laptop,1386.1,New York,Frequent Buyer
+Daniel,Williams,2021-06-25,Laptop,,,Premium Buyer
+John,Johnson,2021-06-25,Headphones,120.19,Texas,Price-Sensitive
+Emily,Davis,2021-06-25,Tablet,704.15,New York,Occasional Buyer
+Daniel,Williams,2021-06-25,Headphones,70.14,Illinois,Premium Buyer
+Sophia,Davis,2021-06-25,Laptop,1484.51,California,Frequent Buyer
+Emily,Davis,2021-06-25,Laptop,1238.6,New York,Occasional Buyer
+John,Martinez,2021-06-25,Tablet,390.18,Florida,Price-Sensitive
+Emily,Garcia,2021-06-26,Smartphone,851.59,,Frequent Buyer
+Michael,Williams,2021-06-26,Smartwatch,569.99,Ohio,Frequent Buyer
+John,Johnson,2021-06-26,Laptop,1129.57,Texas,Price-Sensitive
+Sarah,Brown,2021-06-26,Smartwatch,202.89,New York,Frequent Buyer
+Emily,Williams,2021-06-26,Laptop,1366.74,Florida,Price-Sensitive
+David,Davis,2021-06-26,Smartwatch,181.49,Texas,Occasional Buyer
+John,Johnson,2021-06-26,Smartwatch,447.83,Michigan,Occasional Buyer
+Emily,Brown,2021-06-27,Headphones,77.83,Illinois,Frequent Buyer
+Sophia,Jones,2021-06-27,Tablet,802.62,California,Frequent Buyer
+Sarah,Wilson,2021-06-27,Smartphone,658.51,Texas,Premium Buyer
+Daniel,Williams,2021-06-27,Smartphone,486.84,Illinois,Price-Sensitive
+Michael,Jones,2021-06-27,Headphones,195.99,Georgia,Price-Sensitive
+John,Williams,2021-06-27,Smartphone,531.79,California,Occasional Buyer
+Sophia,Davis,2021-06-27,Tablet,380.21,California,Frequent Buyer
+John,Johnson,2021-06-27,Smartwatch,402.91,Texas,Price-Sensitive
+Emily,Wilson,2021-06-28,Smartphone,450.83,Texas,Occasional Buyer
+Michael,Davis,2021-06-28,Headphones,50.17,Georgia,Premium Buyer
+Sarah,Williams,2021-06-28,Headphones,140.1,California,Price-Sensitive
+James,Davis,2021-06-28,Laptop,1616.12,Georgia,Frequent Buyer
+Emma,Martinez,2021-06-28,Laptop,1824.43,Illinois,Frequent Buyer
+Sarah,Jones,2021-06-28,Laptop,1292.76,,Frequent Buyer
+David,Davis,2021-06-28,Tablet,304.7,Texas,Occasional Buyer
+John,Johnson,2021-06-28,Smartphone,546.33,Michigan,Occasional Buyer
+Emily,Smith,2021-07-01,Smartwatch,333.13,Illinois,Price-Sensitive
+James,Davis,2021-07-01,Tablet,497.07,Georgia,Frequent Buyer
+Emily,Martinez,2021-07-01,Smartphone,739.42,New York,Price-Sensitive
+David,Brown,2021-07-01,Smartwatch,275.43,Georgia,Occasional Buyer
+David,Miller,2021-07-01,Headphones,247.79,Michigan,Occasional Buyer
+Sarah,Jones,2021-07-01,Smartphone,367.57,New York,Price-Sensitive
+Sophia,Miller,2021-07-01,Laptop,962.68,Florida,Premium Buyer
+Daniel,Williams,2021-07-01,Laptop,1253.63,Texas,Premium Buyer
+John,Johnson,2021-07-02,Headphones,166.21,Texas,Price-Sensitive
+John,Smith,2021-07-02,Headphones,45.66,Ohio,Price-Sensitive
+James,Martinez,2021-07-02,Headphones,167.34,New York,Premium Buyer
+Emily,Smith,2021-07-02,Headphones,47.49,Illinois,Price-Sensitive
+Olivia,Martinez,2021-07-02,Laptop,1314.37,New York,Frequent Buyer
+Emily,Garcia,2021-07-03,Laptop,1218.09,New York,Frequent Buyer
+Sophia,Jones,2021-07-03,Tablet,594.57,California,Frequent Buyer
+Daniel,Garcia,2021-07-03,Headphones,327.05,,Premium Buyer
+Emily,Wilson,2021-07-03,Smartwatch,169.93,Texas,Occasional Buyer
+John,Williams,2021-07-03,Headphones,185.91,California,Occasional Buyer
+Michael,Smith,2021-07-03,Headphones,179.36,Illinois,Occasional Buyer
+Emily,Martinez,2021-07-04,Tablet,315.85,New York,Price-Sensitive
+Daniel,Williams,2021-07-04,Headphones,118.68,Michigan,Price-Sensitive
+James,Jones,2021-07-04,Smartwatch,273.23,New York,Price-Sensitive
+Emily,Garcia,2021-07-04,Laptop,925.66,New York,Frequent Buyer
+James,Garcia,2021-07-04,Smartphone,560.95,Texas,Occasional Buyer
+James,Johnson,2021-07-04,Laptop,896.3,Florida,Frequent Buyer
+Michael,Williams,2021-07-04,Laptop,1027.49,Illinois,Price-Sensitive
+Sarah,Davis,2021-07-04,Tablet,469.63,California,Price-Sensitive
+Olivia,Martinez,2021-07-04,Laptop,1555.75,Illinois,Frequent Buyer
+James,Martinez,2021-07-05,Tablet,554.91,New York,Premium Buyer
+James,Jones,2021-07-05,Tablet,491.61,Florida,Occasional Buyer
+Olivia,Martinez,2021-07-05,Smartphone,1086.9,New York,Frequent Buyer
+John,Martinez,2021-07-05,Smartphone,491.15,Florida,Price-Sensitive
+David,Brown,2021-07-05,Smartwatch,403.28,Georgia,Occasional Buyer
+Emily,Williams,2021-07-06,Smartphone,958.95,Florida,Frequent Buyer
+David,Williams,2021-07-06,Tablet,568.9,Ohio,Price-Sensitive
+Olivia,Martinez,2021-07-06,Headphones,88.5,Illinois,Frequent Buyer
+Sophia,Davis,2021-07-06,Headphones,156.24,Ohio,Price-Sensitive
+Daniel,Williams,2021-07-07,Smartwatch,394.25,Illinois,Price-Sensitive
+John,Smith,2021-07-07,Smartwatch,110.13,Georgia,Price-Sensitive
+Olivia,Martinez,2021-07-07,Laptop,1676.25,New York,Frequent Buyer
+Emma,Martinez,2021-07-08,Smartphone,771.17,Illinois,Frequent Buyer
+Michael,Williams,2021-07-08,Tablet,417.36,Illinois,Price-Sensitive
+Emily,Garcia,2021-07-08,Smartwatch,217.78,New York,Frequent Buyer
+Olivia,Miller,2021-07-08,Smartwatch,436.67,New York,Frequent Buyer
+James,Smith,2021-07-08,Tablet,320.73,Georgia,Price-Sensitive
+John,Martinez,2021-07-08,Smartwatch,,Florida,Price-Sensitive
+James,Davis,2021-07-08,Smartwatch,239.37,Georgia,Frequent Buyer
+David,Williams,2021-07-09,Smartwatch,313.51,Ohio,Price-Sensitive
+Michael,Williams,2021-07-09,Laptop,952.72,Ohio,Frequent Buyer
+Emily,Williams,2021-07-09,Headphones,70.86,Florida,Frequent Buyer
+Sarah,Jones,2021-07-09,Headphones,175.1,Texas,Frequent Buyer
+Daniel,Williams,2021-07-09,Smartphone,1099.89,Texas,Premium Buyer
+John,Smith,2021-07-09,Tablet,375.59,Ohio,Price-Sensitive
+David,Williams,2021-07-09,Smartphone,336.66,Ohio,Price-Sensitive
+Daniel,Williams,2021-07-10,Headphones,,,Premium Buyer
+Olivia,Martinez,2021-07-10,Laptop,1867.2,Illinois,Frequent Buyer
+John,Smith,2021-07-10,Smartwatch,183.85,Georgia,Price-Sensitive
+James,Miller,2021-07-10,Smartwatch,227.22,Illinois,Frequent Buyer
+Michael,Wilson,2021-07-10,,,Georgia,Frequent Buyer
+Emily,Williams,2021-07-10,Smartwatch,514.83,Florida,Frequent Buyer
+James,Martinez,2021-07-10,Headphones,85.94,Georgia,Occasional Buyer
+Sophia,Davis,2021-07-11,Headphones,174.29,California,Frequent Buyer
+James,Johnson,2021-07-11,Laptop,1342.34,Florida,Frequent Buyer
+Emma,Martinez,2021-07-11,Headphones,277.97,Illinois,Frequent Buyer
+Emily,Brown,2021-07-11,Laptop,,Illinois,
+Emily,Williams,2021-07-11,Laptop,1268.63,Florida,Frequent Buyer
+Emily,Smith,2021-07-12,Headphones,82.48,Ohio,Frequent Buyer
+James,Johnson,2021-07-12,Headphones,237.97,Florida,Frequent Buyer
+Daniel,Williams,2021-07-12,Headphones,160.53,Michigan,Price-Sensitive
+Emily,Wilson,2021-07-12,Headphones,210.71,Texas,Occasional Buyer
+Daniel,Martinez,2021-07-12,Headphones,58.89,Florida,Price-Sensitive
+Sarah,Davis,2021-07-12,Headphones,75.43,California,Price-Sensitive
+Emily,Martinez,2021-07-12,Tablet,530.85,New York,Price-Sensitive
+Michael,Jones,2021-07-12,Smartwatch,273.4,Georgia,Price-Sensitive
+Michael,Williams,2021-07-12,Laptop,777.29,Illinois,Price-Sensitive
+Emily,Wilson,2021-07-12,Laptop,1288.97,Texas,Occasional Buyer
+Olivia,Martinez,2021-07-12,Smartphone,593.15,New York,Frequent Buyer
+Emma,Brown,2021-07-12,Tablet,657.6,California,Occasional Buyer
+Michael,Williams,2021-07-13,Headphones,275.58,Ohio,Frequent Buyer
+Sarah,Jones,2021-07-13,Headphones,86.18,Texas,Frequent Buyer
+Emily,Wilson,2021-07-13,Laptop,721.63,Texas,Occasional Buyer
+Michael,Jones,2021-07-13,Headphones,96.74,Georgia,Price-Sensitive
+Emily,Brown,2021-07-13,Smartwatch,315.07,Illinois,Frequent Buyer
+Daniel,Garcia,2021-07-13,Headphones,268.44,Texas,Premium Buyer
+Michael,Jones,2021-07-14,Laptop,1023.26,Georgia,Price-Sensitive
+John,Wilson,2021-07-14,Smartphone,341.61,New York,Price-Sensitive
+Sophia,Davis,2021-07-14,Tablet,303.54,California,Frequent Buyer
+Emma,Martinez,2021-07-14,Smartphone,691.26,Illinois,Frequent Buyer
+David,Martinez,2021-07-14,Smartwatch,110.51,Florida,Occasional Buyer
+Olivia,Miller,2021-07-14,Smartphone,596.51,New York,Frequent Buyer
+Michael,Wilson,2021-07-15,Smartwatch,218.52,,Frequent Buyer
+John,Johnson,2021-07-15,Headphones,138.54,Texas,Price-Sensitive
+Michael,Williams,2021-07-15,Tablet,766.88,Ohio,Frequent Buyer
+Sarah,Davis,2021-07-15,Smartwatch,217.53,California,Price-Sensitive
+Sarah,Jones,2021-07-15,Tablet,613.66,Texas,Frequent Buyer
+Sarah,Jones,2021-07-15,Tablet,570.8,Texas,Frequent Buyer
+Emma,Garcia,2021-07-16,Smartphone,723.21,Georgia,Frequent Buyer
+Emily,Johnson,2021-07-16,Laptop,704.94,Michigan,Occasional Buyer
+Michael,Jones,2021-07-16,Laptop,1218.66,Georgia,Price-Sensitive
+Olivia,Martinez,2021-07-16,Tablet,531.5,Illinois,Frequent Buyer
+Emily,Smith,2021-07-16,Smartwatch,317.89,Ohio,Frequent Buyer
+Emily,Williams,2021-07-16,Headphones,61.04,Florida,Price-Sensitive
+James,Johnson,2021-07-16,Headphones,201.13,Florida,Frequent Buyer
+James,Jones,2021-07-17,Laptop,761.66,New York,Price-Sensitive
+James,Smith,2021-07-17,Smartwatch,313.5,Georgia,Price-Sensitive
+Sarah,Jones,2021-07-17,Headphones,145.61,Georgia,Occasional Buyer
+Emily,Wilson,2021-07-17,Smartwatch,187.35,Texas,Price-Sensitive
+David,Miller,2021-07-17,Smartphone,758.32,Michigan,Occasional Buyer
+Sarah,Jones,2021-07-18,Tablet,646.02,Georgia,Occasional Buyer
+Emily,Brown,2021-07-18,Headphones,55.21,Illinois,Frequent Buyer
+Michael,Wilson,2021-07-18,Smartphone,714.66,Georgia,Frequent Buyer
+John,Johnson,2021-07-18,Smartphone,460.41,Illinois,Price-Sensitive
+James,Davis,2021-07-18,Smartwatch,318.36,Georgia,Frequent Buyer
+John,Martinez,2021-07-18,Smartphone,678.65,California,Occasional Buyer
+Sophia,Davis,2021-07-18,Headphones,148.09,California,Frequent Buyer
+Daniel,Garcia,2021-07-18,Smartwatch,474.8,Texas,
+Daniel,Williams,2021-07-19,Tablet,619.06,Texas,Premium Buyer
+Emily,Smith,2021-07-19,Smartphone,558.48,Ohio,Frequent Buyer
+Sophia,Miller,2021-07-19,Headphones,127.81,Florida,Premium Buyer
+David,Williams,2021-07-19,Smartphone,723.05,Ohio,Price-Sensitive
+Emily,Williams,2021-07-19,Smartphone,354.24,Florida,Frequent Buyer
+Emma,Brown,2021-07-19,Headphones,,Ohio,
+Emma,Brown,2021-07-20,Laptop,842.24,California,Occasional Buyer
+Olivia,Martinez,2021-07-20,Tablet,773.41,Illinois,Frequent Buyer
+David,Brown,2021-07-20,Laptop,1222.04,Georgia,Occasional Buyer
+John,Martinez,2021-07-21,Smartwatch,93.18,Florida,Price-Sensitive
+John,Johnson,2021-07-21,Tablet,578.15,California,Price-Sensitive
+John,Wilson,2021-07-21,Tablet,361.35,New York,Price-Sensitive
+Michael,Williams,2021-07-21,Laptop,1240.04,Ohio,Frequent Buyer
+Sophia,Williams,2021-07-21,Tablet,741.04,New York,Frequent Buyer
+Sarah,Brown,2021-07-21,Smartphone,1139.13,Texas,Premium Buyer
+Emily,Smith,2021-07-21,Tablet,417.76,Michigan,Occasional Buyer
+Emily,Brown,2021-07-21,Smartphone,764.06,Illinois,Frequent Buyer
+Emma,Brown,2021-07-22,Tablet,691.93,Ohio,Occasional Buyer
+Daniel,Garcia,2021-07-22,Smartphone,896.58,Texas,Premium Buyer
+Emily,Williams,2021-07-22,Headphones,173.1,Florida,Frequent Buyer
+Emily,Martinez,2021-07-22,Headphones,67.99,New York,Price-Sensitive
+Emily,Wilson,2021-07-22,Tablet,256.45,Texas,Occasional Buyer
+Michael,Smith,2021-07-22,Tablet,274.57,Illinois,Occasional Buyer
+Emma,Brown,2021-07-22,Headphones,188.41,California,Occasional Buyer
+Emily,Martinez,2021-07-23,Tablet,377.86,New York,Price-Sensitive
+Emily,Smith,2021-07-23,Smartwatch,390.75,Ohio,Frequent Buyer
+John,Smith,2021-07-23,Tablet,331.5,Georgia,Price-Sensitive
+David,Brown,2021-07-23,Laptop,1453.02,Georgia,Occasional Buyer
+John,Martinez,2021-07-23,,504.61,Florida,
+Daniel,Smith,2021-07-23,Laptop,1272.78,New York,Price-Sensitive
+John,Smith,2021-07-23,Tablet,508.66,Georgia,Price-Sensitive
+Michael,Wilson,2021-07-23,Smartphone,775.11,Georgia,Frequent Buyer
+Daniel,Smith,2021-07-23,Tablet,420.15,New York,Frequent Buyer
+John,Wilson,2021-07-23,Tablet,330.02,New York,Price-Sensitive
+Daniel,Williams,2021-07-23,Laptop,1010.58,Michigan,Price-Sensitive
+Daniel,Williams,2021-07-23,Smartwatch,227.24,Illinois,Premium Buyer
+John,Wilson,2021-07-24,Laptop,986.42,New York,Price-Sensitive
+John,Johnson,2021-07-24,Headphones,46.7,California,Price-Sensitive
+David,Williams,2021-07-24,Tablet,548.69,,
+Michael,Smith,2021-07-24,Smartwatch,423.35,Illinois,Occasional Buyer
+John,Wilson,2021-07-24,Tablet,235.18,New York,Price-Sensitive
+John,Martinez,2021-07-25,Smartphone,525.84,Florida,Price-Sensitive
+John,Johnson,2021-07-25,Tablet,437.59,Texas,Price-Sensitive
+David,Miller,2021-07-25,Laptop,1481.12,Michigan,Occasional Buyer
+Sarah,Wilson,2021-07-25,Smartphone,742.43,Texas,Premium Buyer
+Sophia,Davis,2021-07-25,Smartphone,532.98,Ohio,Price-Sensitive
+Michael,Smith,2021-07-25,Laptop,624.4,Illinois,Occasional Buyer
+James,Johnson,2021-07-25,Smartphone,,Florida,Frequent Buyer
+Emily,Garcia,2021-07-25,Tablet,395.85,New York,Frequent Buyer
+David,Williams,2021-07-25,Smartphone,484.21,Ohio,Price-Sensitive
+Sarah,Jones,2021-07-26,,454.05,New York,
+James,Johnson,2021-07-26,Laptop,1678.62,Florida,Frequent Buyer
+Emma,Brown,2021-07-27,Tablet,500.17,Ohio,Occasional Buyer
+James,Martinez,2021-07-27,Headphones,108.13,Georgia,Occasional Buyer
+Sarah,Jones,2021-07-27,Headphones,213.08,New York,Price-Sensitive
+Olivia,Martinez,2021-07-27,Headphones,189.19,,
+Olivia,Martinez,2021-07-27,Tablet,284.33,New York,Frequent Buyer
+Daniel,Williams,2021-07-27,Smartphone,1209.94,Illinois,Premium Buyer
+Michael,Jones,2021-07-27,Smartphone,455.99,Georgia,Price-Sensitive
+Sarah,Jones,2021-07-27,Smartwatch,325.3,Georgia,Occasional Buyer
+John,Martinez,2021-07-27,Tablet,637.3,California,Occasional Buyer
+Sarah,Jones,2021-07-28,Tablet,593.56,Georgia,Occasional Buyer
+Michael,Williams,2021-07-28,Smartwatch,335.51,Ohio,Frequent Buyer
+Sophia,Miller,2021-07-28,Laptop,1903.67,Florida,Premium Buyer
+John,Johnson,2021-08-01,Tablet,574.37,Illinois,Price-Sensitive
+James,Jones,2021-08-01,Smartwatch,293.12,New York,Price-Sensitive
+James,Johnson,2021-08-01,Smartwatch,180.59,Florida,Frequent Buyer
+Sarah,Jones,2021-08-02,Smartphone,516.03,Texas,Frequent Buyer
+Sophia,Johnson,2021-08-02,Smartphone,1235.23,New York,Premium Buyer
+Emily,Smith,2021-08-02,Headphones,176.17,Ohio,Frequent Buyer
+Michael,Wilson,2021-08-02,Tablet,453.11,Georgia,Frequent Buyer
+Sarah,Brown,2021-08-02,Smartphone,1384.76,Texas,Premium Buyer
+Emma,Johnson,2021-08-02,Headphones,81.21,Illinois,Premium Buyer
+Sophia,Johnson,2021-08-03,Smartwatch,188.06,Michigan,Occasional Buyer
+Sophia,Johnson,2021-08-03,Tablet,635.63,Michigan,Occasional Buyer
+Daniel,Martinez,2021-08-03,Headphones,207.65,Florida,Price-Sensitive
+Emma,Brown,2021-08-03,Headphones,173.94,California,Occasional Buyer
+Michael,Williams,2021-08-03,Smartphone,995.02,Ohio,Frequent Buyer
+James,Johnson,2021-08-03,Smartphone,567.54,Florida,Frequent Buyer
+Sophia,Williams,2021-08-03,Smartwatch,534.5,New York,Frequent Buyer
+Olivia,Miller,2021-08-03,Smartwatch,186.77,New York,Frequent Buyer
+James,Davis,2021-08-03,Smartwatch,524.93,Georgia,Frequent Buyer
+Emily,Williams,2021-08-03,Smartwatch,264.31,Florida,Frequent Buyer
+Michael,Wilson,2021-08-04,Smartphone,572.74,California,Occasional Buyer
+Sarah,Jones,2021-08-04,Smartphone,744.9,New York,Price-Sensitive
+Michael,Davis,2021-08-04,Smartphone,713.92,Ohio,Occasional Buyer
+Sarah,Jones,2021-08-04,Headphones,54.68,Texas,Frequent Buyer
+John,Smith,2021-08-05,Headphones,91.53,Georgia,Price-Sensitive
+James,Jones,2021-08-05,Headphones,49.01,New York,Price-Sensitive
+Olivia,Wilson,2021-08-05,Headphones,284.55,New York,Premium Buyer
+Emma,Garcia,2021-08-06,Smartwatch,461.29,Georgia,Frequent Buyer
+Sophia,Jones,2021-08-06,Smartphone,954.8,California,Frequent Buyer
+Sophia,Jones,2021-08-06,Laptop,1136.45,California,Frequent Buyer
+Emily,Brown,2021-08-06,Headphones,203.98,Illinois,Frequent Buyer
+Daniel,Garcia,2021-08-06,Tablet,1012.97,Texas,Premium Buyer
+Sarah,Brown,2021-08-07,Headphones,251.76,New York,Frequent Buyer
+Sarah,Jones,2021-08-07,Headphones,50.82,New York,Price-Sensitive
+Olivia,Martinez,2021-08-07,Tablet,649.98,Illinois,Frequent Buyer
+Olivia,Wilson,2021-08-07,Smartwatch,244.65,New York,Premium Buyer
+Sophia,Johnson,2021-08-07,Laptop,670.13,Michigan,Occasional Buyer
+Sophia,Davis,2021-08-07,Headphones,221.75,California,Frequent Buyer
+John,Martinez,2021-08-08,Laptop,517.14,,
+Daniel,Smith,2021-08-08,Tablet,531.43,New York,Frequent Buyer
+David,Williams,2021-08-08,Smartwatch,409.65,Ohio,Price-Sensitive
+Daniel,Williams,2021-08-08,Smartwatch,288.53,Illinois,Price-Sensitive
+Emily,Williams,2021-08-08,Laptop,1411.67,Florida,Frequent Buyer
+Emily,Garcia,2021-08-08,Headphones,79.29,New York,Frequent Buyer
+James,Johnson,2021-08-08,Tablet,403.26,Florida,Frequent Buyer
+Sophia,Williams,2021-08-08,Smartphone,447.23,New York,Frequent Buyer
+Michael,Smith,2021-08-08,Tablet,627.22,Illinois,Occasional Buyer
+Michael,Smith,2021-08-08,Tablet,667.59,Illinois,Occasional Buyer
+Sarah,Garcia,2021-08-08,Smartphone,631.41,Michigan,Price-Sensitive
+Emily,Williams,2021-08-08,Laptop,555.38,,Price-Sensitive
+Emily,Brown,2021-08-09,Laptop,1438.25,Illinois,Frequent Buyer
+Michael,Davis,2021-08-09,Headphones,63.3,,Occasional Buyer
+Sarah,Jones,2021-08-09,Smartphone,564.85,New York,Price-Sensitive
+Olivia,Martinez,2021-08-09,Tablet,487.4,,
+John,Smith,2021-08-09,Smartwatch,261.47,Georgia,Price-Sensitive
+Sarah,Jones,2021-08-09,Smartphone,676.17,New York,Price-Sensitive
+Sophia,Miller,2021-08-09,Laptop,1523.36,Florida,Premium Buyer
+Emma,Brown,2021-08-09,Smartphone,885.26,California,Occasional Buyer
+Emily,Williams,2021-08-09,Headphones,286.31,Florida,Frequent Buyer
+Michael,Williams,2021-08-10,Smartphone,1329.84,Illinois,Premium Buyer
+Olivia,Martinez,2021-08-10,Smartwatch,217.27,Illinois,Frequent Buyer
+Michael,Wilson,2021-08-11,Smartwatch,358.9,Georgia,Frequent Buyer
+Emily,Williams,2021-08-11,Headphones,,,Frequent Buyer
+John,Martinez,2021-08-11,Tablet,344.62,Florida,Price-Sensitive
+Emily,Miller,2021-08-11,Headphones,182.42,Michigan,Price-Sensitive
+Michael,Williams,2021-08-11,Laptop,,,Premium Buyer
+Michael,Garcia,2021-08-11,Laptop,842.44,California,Occasional Buyer
+Daniel,Williams,2021-08-11,Smartwatch,428.24,Illinois,Premium Buyer
+Sarah,Garcia,2021-08-11,Smartwatch,316.59,Michigan,Price-Sensitive
+Daniel,Williams,2021-08-11,Laptop,942.26,Illinois,Premium Buyer
+Michael,Jones,2021-08-11,Headphones,112.59,Georgia,Price-Sensitive
+Michael,Jones,2021-08-11,Smartwatch,297.87,Georgia,Price-Sensitive
+Sophia,Johnson,2021-08-11,Smartwatch,412.27,New York,Premium Buyer
+Emily,Smith,2021-08-12,Smartphone,1142.81,Ohio,Frequent Buyer
+James,Martinez,2021-08-12,Smartphone,,Georgia,Occasional Buyer
+Olivia,Martinez,2021-08-12,Headphones,171.73,New York,Frequent Buyer
+Daniel,Williams,2021-08-12,Tablet,718.54,Illinois,Premium Buyer
+Michael,Garcia,2021-08-12,Smartwatch,409.67,California,Occasional Buyer
+Olivia,Miller,2021-08-12,Smartphone,629.82,New York,Frequent Buyer
+Emily,Garcia,2021-08-12,Tablet,434.42,New York,Frequent Buyer
+Olivia,Martinez,2021-08-12,Headphones,156.99,Illinois,Frequent Buyer
+Daniel,Williams,2021-08-13,Smartwatch,689.78,Illinois,Premium Buyer
+Michael,Davis,2021-08-13,Headphones,126.54,Ohio,Occasional Buyer
+Olivia,Wilson,2021-08-13,Smartwatch,230.17,Texas,Occasional Buyer
+John,Smith,2021-08-13,Laptop,1464.63,Ohio,Price-Sensitive
+James,Davis,2021-08-13,Laptop,1958.05,Georgia,Frequent Buyer
+Sophia,Wilson,2021-08-13,Smartphone,1156.76,Texas,Premium Buyer
+Michael,Wilson,2021-08-13,Tablet,399.96,Georgia,Frequent Buyer
+Michael,Williams,2021-08-13,Smartphone,1021.84,Illinois,Premium Buyer
+Emily,Williams,2021-08-13,Laptop,849.79,Florida,Frequent Buyer
+John,Miller,2021-08-13,Headphones,99.05,Florida,Price-Sensitive
+James,Smith,2021-08-13,Smartphone,906.24,Michigan,Occasional Buyer
+Michael,Williams,2021-08-14,Tablet,498.53,Ohio,Frequent Buyer
+Sophia,Williams,2021-08-14,Laptop,925.92,New York,Frequent Buyer
+Emily,Garcia,2021-08-14,Headphones,113.96,New York,Frequent Buyer
+Emily,Davis,2021-08-14,Tablet,621.87,New York,Occasional Buyer
+James,Martinez,2021-08-14,Smartphone,868.31,Georgia,Occasional Buyer
+Michael,Williams,2021-08-14,Smartwatch,265.33,Illinois,Price-Sensitive
+Daniel,Smith,2021-08-14,Headphones,80.98,New York,Frequent Buyer
+Olivia,Wilson,2021-08-14,Laptop,1537.45,Texas,Occasional Buyer
+Sophia,Davis,2021-08-14,Smartphone,1162.12,California,Frequent Buyer
+Sophia,Miller,2021-08-15,Headphones,59.12,Florida,Premium Buyer
+Emma,Brown,2021-08-15,Smartphone,689.44,California,Occasional Buyer
+Sarah,Brown,2021-08-15,Laptop,1131.83,New York,Frequent Buyer
+Sophia,Davis,2021-08-15,Smartwatch,383.58,Ohio,Price-Sensitive
+Sarah,Brown,2021-08-15,Headphones,215.88,New York,Frequent Buyer
+James,Martinez,2021-08-15,Smartwatch,527.26,Georgia,Occasional Buyer
+Sarah,Jones,2021-08-15,Tablet,500.39,New York,Price-Sensitive
+Daniel,Smith,2021-08-15,Laptop,,New York,
+Emily,Williams,2021-08-15,Tablet,253.17,Florida,Frequent Buyer
+Sarah,Brown,2021-08-15,Laptop,1945.26,New York,Frequent Buyer
+James,Smith,2021-08-15,Smartphone,792.7,Georgia,Price-Sensitive
+Emily,Smith,2021-08-15,Smartphone,,Ohio,Frequent Buyer
+Emily,Brown,2021-08-15,Smartphone,661.37,Illinois,Frequent Buyer
+Daniel,Smith,2021-08-15,Tablet,283.89,New York,Price-Sensitive
+John,Johnson,2021-08-16,Tablet,666.46,California,Price-Sensitive
+John,Miller,2021-08-16,Headphones,76.92,Florida,Price-Sensitive
+James,Johnson,2021-08-16,Smartwatch,392.02,Florida,Frequent Buyer
+James,Jones,2021-08-16,Headphones,188.39,Florida,Occasional Buyer
+Daniel,Smith,2021-08-16,,334.09,New York,
+Sarah,Jones,2021-08-16,Headphones,78.66,,Frequent Buyer
+Sarah,Brown,2021-08-16,Headphones,167.36,New York,Frequent Buyer
+Emily,Williams,2021-08-17,Laptop,707.87,Florida,Price-Sensitive
+David,Martinez,2021-08-17,Smartwatch,482.4,Florida,Occasional Buyer
+Michael,Wilson,2021-08-17,Tablet,489.55,California,Occasional Buyer
+Michael,Williams,2021-08-17,Headphones,118.83,Illinois,Price-Sensitive
+Emma,Brown,2021-08-17,Tablet,680.02,California,Occasional Buyer
+Emily,Garcia,2021-08-17,Headphones,226.06,New York,Frequent Buyer
+Sophia,Jones,2021-08-17,Laptop,836.49,California,Frequent Buyer
+Michael,Wilson,2021-08-18,Smartwatch,358.63,California,Occasional Buyer
+Emily,Smith,2021-08-18,Smartphone,997.9,Michigan,Occasional Buyer
+David,Miller,2021-08-18,Headphones,118.15,Michigan,Occasional Buyer
+Emily,Garcia,2021-08-18,Smartwatch,195.13,New York,Frequent Buyer
+John,Martinez,2021-08-18,,,,Occasional Buyer
+David,Miller,2021-08-19,,343.22,,Occasional Buyer
+Daniel,Williams,2021-08-19,Headphones,109.72,Illinois,Price-Sensitive
+Sophia,Wilson,2021-08-19,Smartwatch,227.97,Texas,Premium Buyer
+Michael,Williams,2021-08-19,Smartwatch,543.86,Ohio,Frequent Buyer
+Sarah,Jones,2021-08-19,Smartphone,828.1,,Price-Sensitive
+Olivia,Martinez,2021-08-19,Smartwatch,441.2,New York,Frequent Buyer
+Emma,Garcia,2021-08-19,Headphones,63.58,Georgia,Frequent Buyer
+Emma,Brown,2021-08-19,Laptop,583.73,California,Occasional Buyer
+James,Davis,2021-08-19,Headphones,59.17,Georgia,Frequent Buyer
+David,Williams,2021-08-19,Tablet,456.95,Ohio,Price-Sensitive
+James,Smith,2021-08-19,Headphones,,Michigan,Occasional Buyer
+Daniel,Martinez,2021-08-20,,,Florida,Price-Sensitive
+Emma,Brown,2021-08-20,Headphones,82.66,California,
+Emily,Williams,2021-08-20,Laptop,889.66,Florida,Frequent Buyer
+Sarah,Jones,2021-08-20,Headphones,36.15,New York,Price-Sensitive
+John,Smith,2021-08-20,Smartphone,551.66,Ohio,Price-Sensitive
+John,Smith,2021-08-20,Smartwatch,206.58,Ohio,Price-Sensitive
+Emily,Williams,2021-08-20,Smartwatch,319.28,Florida,Price-Sensitive
+Emily,Garcia,2021-08-20,Smartwatch,562.26,New York,Frequent Buyer
+John,Martinez,2021-08-20,Smartwatch,278.34,Florida,Price-Sensitive
+John,Martinez,2021-08-20,Smartphone,507.72,Florida,Price-Sensitive
+Sarah,Jones,2021-08-20,Headphones,54.52,New York,Price-Sensitive
+Emily,Davis,2021-08-20,Smartphone,474.84,New York,Occasional Buyer
+James,Jones,2021-08-20,Smartwatch,219.1,New York,Price-Sensitive
+Sarah,Brown,2021-08-20,Tablet,550.7,New York,Frequent Buyer
+Emily,Brown,2021-08-21,Laptop,1636.02,Illinois,Frequent Buyer
+Daniel,Brown,2021-08-21,Laptop,844.63,New York,Occasional Buyer
+Michael,Wilson,2021-08-21,Laptop,965.84,Georgia,Frequent Buyer
+Emma,Martinez,2021-08-21,Headphones,168.45,Illinois,Frequent Buyer
+Emily,Johnson,2021-08-21,Headphones,147.78,Michigan,Occasional Buyer
+Michael,Smith,2021-08-21,Smartphone,594.99,Illinois,Occasional Buyer
+Sarah,Brown,2021-08-21,Smartwatch,423.4,New York,Frequent Buyer
+Emily,Smith,2021-08-22,Laptop,1105.77,Ohio,Frequent Buyer
+John,Wilson,2021-08-22,Smartphone,907.84,New York,Price-Sensitive
+Daniel,Williams,2021-08-22,Smartphone,829.12,Illinois,Premium Buyer
+Emily,Miller,2021-08-22,Laptop,780.68,Michigan,Price-Sensitive
+David,Martinez,2021-08-22,Smartwatch,188.03,Florida,Occasional Buyer
+Michael,Jones,2021-08-22,Smartwatch,422.72,Georgia,Price-Sensitive
+David,Miller,2021-08-22,Headphones,246.94,Michigan,Occasional Buyer
+John,Smith,2021-08-22,Smartphone,763.83,Georgia,Price-Sensitive
+James,Jones,2021-08-22,Tablet,267.99,New York,Price-Sensitive
+David,Williams,2021-08-23,Laptop,1355.54,California,Price-Sensitive
+Olivia,Martinez,2021-08-23,Laptop,1265.44,New York,Frequent Buyer
+James,Davis,2021-08-23,,1056.92,,Frequent Buyer
+James,Miller,2021-08-23,Smartwatch,448.19,Illinois,Frequent Buyer
+Sophia,Johnson,2021-08-23,,1692.46,Michigan,Occasional Buyer
+Daniel,Brown,2021-08-23,,,New York,Occasional Buyer
+Emma,Martinez,2021-08-23,Headphones,210.29,Illinois,Frequent Buyer
+James,Martinez,2021-08-23,Laptop,870.24,Georgia,Occasional Buyer
+Sophia,Johnson,2021-08-24,Smartwatch,538.13,New York,Premium Buyer
+Sophia,Williams,2021-08-24,Laptop,653.59,New York,Frequent Buyer
+James,Davis,2021-08-24,Laptop,1554.97,Georgia,Frequent Buyer
+Sophia,Davis,2021-08-24,Laptop,1350.0,California,Frequent Buyer
+Emma,Garcia,2021-08-24,Smartphone,981.3,Georgia,Frequent Buyer
+Daniel,Martinez,2021-08-24,Headphones,222.94,Florida,Price-Sensitive
+Sophia,Miller,2021-08-25,Smartwatch,310.65,Florida,Premium Buyer
+Sarah,Williams,2021-08-25,Smartwatch,356.5,California,Price-Sensitive
+John,Johnson,2021-08-25,Headphones,36.5,Texas,Price-Sensitive
+James,Martinez,2021-08-25,Headphones,82.84,Georgia,Occasional Buyer
+Emily,Smith,2021-08-25,Laptop,977.22,Ohio,Frequent Buyer
+Daniel,Williams,2021-08-25,Laptop,1415.57,Illinois,Price-Sensitive
+John,Wilson,2021-08-26,Tablet,289.91,New York,Price-Sensitive
+Emily,Brown,2021-08-26,Smartwatch,342.55,Illinois,Frequent Buyer
+Sarah,Brown,2021-08-26,Headphones,270.28,New York,Frequent Buyer
+Emily,Smith,2021-08-26,Laptop,1527.94,Ohio,Frequent Buyer
+David,Williams,2021-08-26,Tablet,281.54,California,Price-Sensitive
+Sarah,Jones,2021-08-27,Laptop,1495.61,Texas,Frequent Buyer
+Emily,Brown,2021-08-27,Tablet,797.03,Illinois,Frequent Buyer
+Sarah,Jones,2021-08-27,Headphones,,,Frequent Buyer
+Emily,Williams,2021-08-27,Smartphone,1178.3,Florida,Frequent Buyer
+Sarah,Brown,2021-08-28,Smartphone,666.6,New York,Frequent Buyer
+Olivia,Wilson,2021-08-28,Laptop,901.0,Texas,Occasional Buyer
+James,Smith,2021-08-28,Headphones,173.39,Georgia,Price-Sensitive
+John,Miller,2021-08-28,Laptop,1333.2,Florida,Price-Sensitive
+James,Miller,2021-08-28,Tablet,558.45,Illinois,Frequent Buyer
+Daniel,Garcia,2021-08-28,Headphones,312.3,Texas,Premium Buyer
+John,Smith,2021-08-28,,266.78,Georgia,Price-Sensitive
+Emma,Brown,2021-09-01,Laptop,1783.93,California,
+James,Martinez,2021-09-01,Smartphone,966.97,Georgia,Occasional Buyer
+Emma,Johnson,2021-09-01,Smartwatch,445.15,Illinois,Premium Buyer
+Olivia,Martinez,2021-09-01,Smartphone,722.31,New York,Frequent Buyer
+Emily,Williams,2021-09-01,Smartphone,474.11,Florida,Price-Sensitive
+John,Smith,2021-09-01,Tablet,570.81,Ohio,Price-Sensitive
+John,Smith,2021-09-02,Headphones,50.39,Ohio,Price-Sensitive
+James,Miller,2021-09-02,Smartwatch,242.99,Illinois,Frequent Buyer
+Daniel,Martinez,2021-09-02,Tablet,513.49,Florida,Price-Sensitive
+Sarah,Williams,2021-09-02,Laptop,1285.06,California,Price-Sensitive
+Sophia,Davis,2021-09-02,Smartphone,418.44,Ohio,Price-Sensitive
+James,Davis,2021-09-02,Tablet,451.47,Georgia,Frequent Buyer
+John,Johnson,2021-09-03,Tablet,583.42,Texas,Price-Sensitive
+Sophia,Davis,2021-09-03,Smartphone,349.4,Ohio,Price-Sensitive
+Sophia,Johnson,2021-09-03,,700.2,New York,
+Emily,Brown,2021-09-03,Smartphone,1266.89,Illinois,Frequent Buyer
+Daniel,Martinez,2021-09-03,Tablet,503.51,Florida,Price-Sensitive
+Michael,Wilson,2021-09-03,Headphones,310.38,Georgia,Frequent Buyer
+Sophia,Williams,2021-09-03,Headphones,81.78,New York,Frequent Buyer
+James,Smith,2021-09-04,Headphones,171.46,Georgia,Price-Sensitive
+Olivia,Smith,2021-09-04,Tablet,686.79,New York,Occasional Buyer
+John,Johnson,2021-09-04,Smartwatch,303.78,Illinois,Price-Sensitive
+Sophia,Jones,2021-09-04,Headphones,171.71,California,Frequent Buyer
+Daniel,Martinez,2021-09-04,Headphones,146.14,Michigan,Price-Sensitive
+James,Smith,2021-09-04,Headphones,182.2,Georgia,Price-Sensitive
+James,Miller,2021-09-04,Headphones,198.44,Illinois,Frequent Buyer
+Daniel,Martinez,2021-09-04,Laptop,1352.48,Michigan,Price-Sensitive
+Sophia,Johnson,2021-09-05,Tablet,381.3,Michigan,Occasional Buyer
+Emily,Brown,2021-09-05,Smartphone,1259.22,Illinois,Frequent Buyer
+Emily,Davis,2021-09-05,,687.59,,Premium Buyer
+John,Miller,2021-09-05,Laptop,867.34,Florida,Price-Sensitive
+John,Johnson,2021-09-05,Laptop,1092.39,Texas,Price-Sensitive
+Sophia,Davis,2021-09-05,Smartwatch,200.24,California,Frequent Buyer
+Michael,Williams,2021-09-06,Laptop,1355.46,Ohio,Frequent Buyer
+Daniel,Williams,2021-09-06,Laptop,692.78,Illinois,Price-Sensitive
+James,Garcia,2021-09-06,Laptop,,,Occasional Buyer
+Emily,Davis,2021-09-06,Laptop,2476.63,Illinois,Premium Buyer
+Michael,Jones,2021-09-06,Smartwatch,156.5,Georgia,Price-Sensitive
+Sophia,Johnson,2021-09-06,Headphones,172.97,Michigan,Occasional Buyer
+Olivia,Wilson,2021-09-07,Smartwatch,149.54,Texas,Occasional Buyer
+Sarah,Garcia,2021-09-07,Smartphone,849.26,Michigan,Price-Sensitive
+James,Miller,2021-09-07,Laptop,1384.07,Illinois,Frequent Buyer
+Sarah,Jones,2021-09-07,Headphones,213.32,New York,Price-Sensitive
+Sarah,Jones,2021-09-07,Smartphone,801.57,New York,Price-Sensitive
+John,Johnson,2021-09-07,Laptop,1152.73,Texas,Price-Sensitive
+John,Johnson,2021-09-07,Smartwatch,259.49,Illinois,Price-Sensitive
+Sophia,Davis,2021-09-08,Tablet,298.84,Ohio,Price-Sensitive
+Sarah,Garcia,2021-09-08,,323.35,Michigan,
+Sarah,Davis,2021-09-08,Smartwatch,342.67,California,Price-Sensitive
+Emily,Miller,2021-09-08,Tablet,416.29,Michigan,Price-Sensitive
+Sarah,Jones,2021-09-08,Laptop,650.48,New York,Price-Sensitive
+John,Johnson,2021-09-08,Smartphone,884.9,California,Price-Sensitive
+Emily,Williams,2021-09-09,Smartphone,1036.51,Florida,Frequent Buyer
+Olivia,Martinez,2021-09-09,Smartphone,926.74,New York,Frequent Buyer
+John,Johnson,2021-09-09,Headphones,163.79,California,Price-Sensitive
+Emily,Wilson,2021-09-09,Headphones,167.56,Texas,Occasional Buyer
+Emily,Williams,2021-09-09,Tablet,416.42,Florida,Price-Sensitive
+Daniel,Brown,2021-09-09,Smartphone,790.48,New York,Occasional Buyer
+Michael,Williams,2021-09-09,Smartphone,756.41,Ohio,Frequent Buyer
+Emma,Martinez,2021-09-10,Headphones,67.91,Illinois,Frequent Buyer
+Emma,Garcia,2021-09-10,Tablet,810.03,Georgia,Frequent Buyer
+Emily,Brown,2021-09-10,Smartphone,828.33,Illinois,Frequent Buyer
+John,Smith,2021-09-10,Tablet,547.33,Ohio,Price-Sensitive
+Sarah,Wilson,2021-09-10,Headphones,378.9,Texas,Premium Buyer
+Sarah,Davis,2021-09-11,Headphones,131.26,California,Price-Sensitive
+Daniel,Martinez,2021-09-11,Smartphone,729.17,Florida,Price-Sensitive
+John,Miller,2021-09-11,Headphones,233.94,Florida,Price-Sensitive
+Olivia,Miller,2021-09-11,Smartphone,721.82,New York,Frequent Buyer
+Emily,Johnson,2021-09-11,Headphones,65.49,Michigan,Occasional Buyer
+Emily,Davis,2021-09-11,Headphones,114.54,Illinois,Premium Buyer
+Emily,Brown,2021-09-11,Tablet,817.61,Illinois,Frequent Buyer
+Olivia,Martinez,2021-09-12,Headphones,75.15,Illinois,Frequent Buyer
+Sophia,Davis,2021-09-12,Tablet,371.02,Ohio,Price-Sensitive
+Sarah,Williams,2021-09-12,Smartphone,449.89,California,Price-Sensitive
+John,Johnson,2021-09-12,Laptop,835.01,Texas,Price-Sensitive
+Emma,Johnson,2021-09-12,Laptop,2007.35,Illinois,Premium Buyer
+Emily,Brown,2021-09-12,Smartphone,744.23,Illinois,Frequent Buyer
+Daniel,Martinez,2021-09-12,Tablet,428.44,Michigan,Price-Sensitive
+Daniel,Williams,2021-09-12,Laptop,1093.03,Illinois,Price-Sensitive
+Olivia,Wilson,2021-09-12,Smartphone,780.16,Texas,Occasional Buyer
+Sophia,Davis,2021-09-13,Tablet,563.57,Ohio,Price-Sensitive
+Sarah,Brown,2021-09-13,Smartphone,1401.04,Texas,Premium Buyer
+Daniel,Williams,2021-09-13,Tablet,326.11,Illinois,Price-Sensitive
+James,Davis,2021-09-13,Smartwatch,318.11,Georgia,Frequent Buyer
+Sophia,Johnson,2021-09-13,Smartwatch,440.05,Michigan,Occasional Buyer
+Sophia,Davis,2021-09-13,Smartwatch,355.76,California,Frequent Buyer
+Sophia,Wilson,2021-09-13,Tablet,617.89,California,Occasional Buyer
+Sarah,Garcia,2021-09-13,Headphones,165.24,Michigan,Price-Sensitive
+Emily,Brown,2021-09-14,Smartphone,845.9,Illinois,Frequent Buyer
+Michael,Smith,2021-09-14,Tablet,707.05,Illinois,Occasional Buyer
+Sarah,Brown,2021-09-14,Headphones,355.31,Texas,Premium Buyer
+Emma,Martinez,2021-09-15,Smartphone,678.11,Illinois,Frequent Buyer
+Olivia,Smith,2021-09-15,Laptop,960.57,New York,Occasional Buyer
+Sophia,Davis,2021-09-15,Smartwatch,414.57,Ohio,Price-Sensitive
+Sarah,Jones,2021-09-15,Laptop,,New York,
+Sarah,Jones,2021-09-15,Tablet,473.79,New York,Price-Sensitive
+Emily,Wilson,2021-09-15,Smartphone,694.18,Texas,Occasional Buyer
+Olivia,Miller,2021-09-15,Headphones,160.47,New York,Frequent Buyer
+James,Smith,2021-09-15,Tablet,228.68,Georgia,Price-Sensitive
+James,Miller,2021-09-15,Smartwatch,,,Frequent Buyer
+John,Johnson,2021-09-15,Tablet,518.89,California,Price-Sensitive
+Emma,Martinez,2021-09-16,Tablet,271.35,Illinois,Frequent Buyer
+Michael,Wilson,2021-09-16,Smartwatch,458.21,Georgia,Frequent Buyer
+Emily,Williams,2021-09-16,Smartphone,775.77,Florida,Frequent Buyer
+Daniel,Williams,2021-09-16,Smartwatch,369.49,Illinois,Price-Sensitive
+Emily,Smith,2021-09-16,Smartphone,936.05,Ohio,Frequent Buyer
+James,Garcia,2021-09-16,Headphones,50.97,Texas,Occasional Buyer
+Daniel,Williams,2021-09-17,Laptop,1636.12,,
+Sarah,Brown,2021-09-17,Headphones,82.08,New York,Frequent Buyer
+David,Williams,2021-09-17,Headphones,108.36,California,Price-Sensitive
+Olivia,Jones,2021-09-17,Tablet,1047.18,Michigan,Premium Buyer
+John,Johnson,2021-09-17,Smartwatch,122.95,Texas,Price-Sensitive
+Daniel,Smith,2021-09-17,Headphones,51.67,New York,Occasional Buyer
+Sarah,Davis,2021-09-17,Headphones,55.54,California,Price-Sensitive
+Emma,Garcia,2021-09-17,Laptop,1595.08,Georgia,Frequent Buyer
+Daniel,Williams,2021-09-17,Smartwatch,381.21,Illinois,Premium Buyer
+Sophia,Johnson,2021-09-18,Tablet,579.41,Michigan,Occasional Buyer
+Sarah,Davis,2021-09-18,Smartwatch,373.1,California,Price-Sensitive
+Sarah,Williams,2021-09-18,Smartwatch,511.79,,
+David,Davis,2021-09-18,Headphones,293.16,Texas,Occasional Buyer
+John,Martinez,2021-09-18,Laptop,852.12,California,Occasional Buyer
+Emily,Williams,2021-09-18,Smartwatch,150.61,Florida,Price-Sensitive
+James,Jones,2021-09-18,Tablet,705.35,New York,Price-Sensitive
+Daniel,Martinez,2021-09-18,Tablet,774.13,Florida,Price-Sensitive
+Daniel,Smith,2021-09-18,Smartwatch,304.34,New York,Occasional Buyer
+Olivia,Martinez,2021-09-18,Smartwatch,340.14,Illinois,Frequent Buyer
+Emma,Garcia,2021-09-18,Tablet,859.99,Georgia,Frequent Buyer
+Olivia,Miller,2021-09-19,Smartphone,694.77,New York,Frequent Buyer
+Daniel,Williams,2021-09-19,Tablet,639.62,Illinois,Premium Buyer
+Olivia,Jones,2021-09-19,Smartphone,1054.44,Michigan,Premium Buyer
+Emily,Wilson,2021-09-19,Headphones,208.99,Illinois,Occasional Buyer
+Daniel,Garcia,2021-09-19,Smartphone,1221.85,Texas,Premium Buyer
+Daniel,Smith,2021-09-19,Smartwatch,421.87,New York,Frequent Buyer
+James,Miller,2021-09-20,Tablet,706.66,Illinois,Frequent Buyer
+Olivia,Jones,2021-09-20,Headphones,335.67,Michigan,Premium Buyer
+James,Davis,2021-09-20,Smartphone,581.06,Georgia,Frequent Buyer
+Daniel,Williams,2021-09-20,Smartphone,1416.16,Texas,Premium Buyer
+Emily,Miller,2021-09-21,Laptop,730.52,Michigan,Price-Sensitive
+James,Miller,2021-09-21,Laptop,1830.78,Illinois,Frequent Buyer
+Daniel,Garcia,2021-09-21,Tablet,625.4,Texas,Premium Buyer
+Emily,Davis,2021-09-21,Smartphone,896.74,Illinois,Premium Buyer
+Emma,Martinez,2021-09-21,Laptop,1783.26,Illinois,Frequent Buyer
+Sophia,Johnson,2021-09-21,Smartwatch,477.05,New York,Premium Buyer
+Sophia,Davis,2021-09-21,Smartwatch,346.98,Ohio,Price-Sensitive
+Sophia,Johnson,2021-09-21,Smartphone,540.79,Michigan,Occasional Buyer
+Michael,Williams,2021-09-21,Laptop,1312.96,Ohio,Frequent Buyer
+Emily,Smith,2021-09-22,Smartwatch,534.45,Ohio,Frequent Buyer
+Emily,Miller,2021-09-22,Smartphone,966.89,Michigan,Price-Sensitive
+Michael,Jones,2021-09-22,Headphones,132.23,Georgia,Price-Sensitive
+John,Smith,2021-09-22,Headphones,146.62,Ohio,Price-Sensitive
+Sarah,Wilson,2021-09-22,Smartwatch,628.82,Texas,Premium Buyer
+Daniel,Smith,2021-09-22,Headphones,49.42,New York,Price-Sensitive
+Sarah,Jones,2021-09-22,Smartphone,544.75,New York,Price-Sensitive
+Sarah,Brown,2021-09-22,Smartphone,740.09,New York,Frequent Buyer
+Michael,Wilson,2021-09-22,Smartwatch,641.34,Georgia,Frequent Buyer
+Emily,Smith,2021-09-23,Smartwatch,431.51,Ohio,Frequent Buyer
+John,Johnson,2021-09-23,Laptop,1287.27,California,Price-Sensitive
+Sarah,Jones,2021-09-23,Headphones,57.14,Texas,Frequent Buyer
+Sarah,Jones,2021-09-23,Tablet,642.86,New York,Price-Sensitive
+John,Wilson,2021-09-23,,702.02,,Price-Sensitive
+Emma,Garcia,2021-09-23,Laptop,1621.18,Georgia,Frequent Buyer
+Emily,Wilson,2021-09-23,Headphones,133.08,Illinois,Occasional Buyer
+Olivia,Smith,2021-09-23,Headphones,136.77,New York,Occasional Buyer
+Sophia,Johnson,2021-09-23,Smartphone,749.75,Michigan,Occasional Buyer
+James,Smith,2021-09-23,Smartwatch,188.42,Georgia,Price-Sensitive
+Emily,Williams,2021-09-23,Laptop,1212.62,,
+Sophia,Jones,2021-09-24,Smartwatch,145.85,California,Frequent Buyer
+Emily,Wilson,2021-09-24,Headphones,55.22,Illinois,Occasional Buyer
+Daniel,Williams,2021-09-24,Smartwatch,,Texas,Premium Buyer
+Daniel,Williams,2021-09-24,Tablet,1085.23,Illinois,Premium Buyer
+Sophia,Davis,2021-09-24,Tablet,463.71,Ohio,Price-Sensitive
+Sarah,Davis,2021-09-24,Smartwatch,220.83,California,Price-Sensitive
+Olivia,Martinez,2021-09-24,Smartwatch,222.76,Illinois,Frequent Buyer
+Daniel,Martinez,2021-09-25,Smartwatch,366.35,Michigan,Price-Sensitive
+John,Smith,2021-09-25,Headphones,,Georgia,Price-Sensitive
+Sophia,Davis,2021-09-25,Smartwatch,257.32,Ohio,Price-Sensitive
+John,Martinez,2021-09-25,Headphones,173.1,California,Occasional Buyer
+Olivia,Smith,2021-09-25,Tablet,423.32,New York,Occasional Buyer
+Emily,Johnson,2021-09-26,Smartwatch,377.21,Michigan,Occasional Buyer
+Sarah,Davis,2021-09-26,Laptop,1261.55,California,Price-Sensitive
+Michael,Williams,2021-09-26,Smartwatch,593.24,Illinois,Premium Buyer
+Sarah,Jones,2021-09-26,Headphones,152.67,New York,Price-Sensitive
+Sophia,Williams,2021-09-26,Tablet,,,Frequent Buyer
+Olivia,Martinez,2021-09-26,Tablet,721.77,Illinois,Frequent Buyer
+Daniel,Brown,2021-09-26,Tablet,531.73,New York,Occasional Buyer
+Sarah,Jones,2021-09-26,Smartwatch,446.02,New York,Price-Sensitive
+Sarah,Brown,2021-09-26,,1194.57,New York,
+Daniel,Williams,2021-09-26,Smartphone,809.04,Illinois,Price-Sensitive
+Sarah,Jones,2021-09-26,Headphones,79.98,Texas,Frequent Buyer
+Daniel,Smith,2021-09-27,Smartphone,784.65,New York,Price-Sensitive
+Daniel,Smith,2021-09-27,Headphones,96.53,New York,Price-Sensitive
+Michael,Garcia,2021-09-27,Headphones,152.03,California,Occasional Buyer
+Sophia,Davis,2021-09-27,Headphones,46.76,California,Frequent Buyer
+John,Smith,2021-09-27,Laptop,1116.69,Georgia,Price-Sensitive
+Sophia,Wilson,2021-09-27,Laptop,1078.15,California,Occasional Buyer
+Michael,Wilson,2021-09-27,Laptop,,Georgia,
+Emma,Martinez,2021-09-27,Smartwatch,183.18,Illinois,Frequent Buyer
+John,Smith,2021-09-27,Tablet,515.05,Ohio,Price-Sensitive
+Daniel,Smith,2021-09-28,Headphones,223.51,New York,Frequent Buyer
+Sarah,Jones,2021-09-28,Headphones,65.04,New York,Price-Sensitive
+Sarah,Jones,2021-09-28,Smartphone,916.97,Texas,Frequent Buyer
+Emily,Smith,2021-09-28,Smartphone,1140.6,Ohio,Frequent Buyer
+Daniel,Smith,2021-09-28,,888.65,New York,Frequent Buyer
+Sarah,Garcia,2021-10-01,Smartphone,761.18,Ohio,
+John,Johnson,2021-10-01,Tablet,269.98,California,Price-Sensitive
+James,Jones,2021-10-01,Laptop,1600.27,New York,Price-Sensitive
+David,Williams,2021-10-01,Smartphone,1044.44,Ohio,Price-Sensitive
+David,Davis,2021-10-01,Tablet,447.6,Texas,Occasional Buyer
+Michael,Williams,2021-10-01,Headphones,189.04,Ohio,Frequent Buyer
+Michael,Wilson,2021-10-01,Tablet,585.06,Georgia,Frequent Buyer
+John,Wilson,2021-10-02,Smartphone,768.33,New York,Price-Sensitive
+Sophia,Jones,2021-10-02,Headphones,172.55,California,Frequent Buyer
+Emma,Brown,2021-10-02,,809.93,California,
+James,Johnson,2021-10-02,Smartphone,974.03,Florida,Frequent Buyer
+David,Brown,2021-10-03,Tablet,844.24,Georgia,Premium Buyer
+Sophia,Miller,2021-10-03,Laptop,1029.88,Florida,Premium Buyer
+Michael,Williams,2021-10-03,Laptop,970.36,Ohio,Frequent Buyer
+Michael,Williams,2021-10-03,Headphones,383.82,Illinois,Premium Buyer
+Michael,Davis,2021-10-03,Smartwatch,381.83,Ohio,Occasional Buyer
+Sophia,Davis,2021-10-03,Smartwatch,,Ohio,Price-Sensitive
+Olivia,Martinez,2021-10-03,Tablet,682.81,New York,Frequent Buyer
+David,Davis,2021-10-03,Headphones,85.12,Texas,Occasional Buyer
+David,Williams,2021-10-03,Tablet,490.23,Ohio,Price-Sensitive
+James,Smith,2021-10-04,Headphones,133.34,Georgia,Price-Sensitive
+Emily,Garcia,2021-10-04,Laptop,1445.31,New York,Frequent Buyer
+Sarah,Jones,2021-10-04,Laptop,1477.29,New York,Price-Sensitive
+Sophia,Jones,2021-10-04,Tablet,844.2,California,Frequent Buyer
+Emily,Brown,2021-10-04,Smartphone,1281.97,Illinois,Frequent Buyer
+John,Brown,2021-10-04,Smartphone,1199.83,Ohio,Premium Buyer
+Emily,Wilson,2021-10-04,Tablet,486.76,Texas,Price-Sensitive
+Emily,Miller,2021-10-04,Headphones,177.82,Michigan,Price-Sensitive
+Emily,Garcia,2021-10-04,Smartphone,863.74,New York,Frequent Buyer
+John,Johnson,2021-10-05,Smartphone,724.85,Illinois,Price-Sensitive
+Michael,Williams,2021-10-05,Smartwatch,267.29,Illinois,Price-Sensitive
+Daniel,Williams,2021-10-05,Headphones,304.04,Texas,Premium Buyer
+Emily,Martinez,2021-10-05,,,New York,Price-Sensitive
+Emily,Miller,2021-10-06,Headphones,59.15,Michigan,Price-Sensitive
+Michael,Williams,2021-10-06,Smartwatch,634.48,Ohio,Frequent Buyer
+Sophia,Wilson,2021-10-06,Headphones,212.08,,
+Emma,Johnson,2021-10-06,Smartphone,1194.95,Illinois,Premium Buyer
+Daniel,Martinez,2021-10-06,Headphones,83.27,Florida,Price-Sensitive
+Daniel,Williams,2021-10-06,Smartphone,682.14,Illinois,Price-Sensitive
+Michael,Williams,2021-10-06,Tablet,419.1,Ohio,Frequent Buyer
+Olivia,Martinez,2021-10-07,Headphones,249.01,New York,Frequent Buyer
+Daniel,Smith,2021-10-07,Headphones,64.76,New York,Frequent Buyer
+James,Davis,2021-10-07,Tablet,556.48,Georgia,Frequent Buyer
+John,Smith,2021-10-07,Headphones,81.56,Ohio,Price-Sensitive
+John,Smith,2021-10-07,Headphones,104.29,Ohio,Price-Sensitive
+Emma,Martinez,2021-10-07,Tablet,814.38,Illinois,Frequent Buyer
+Daniel,Williams,2021-10-07,Smartwatch,595.51,Illinois,Premium Buyer
+Emily,Garcia,2021-10-07,Headphones,220.31,New York,Frequent Buyer
+James,Garcia,2021-10-07,Tablet,522.13,Texas,Occasional Buyer
+John,Williams,2021-10-08,Headphones,137.09,California,Occasional Buyer
+Emily,Brown,2021-10-08,,841.22,Illinois,
+Emily,Wilson,2021-10-08,Headphones,39.88,Texas,Price-Sensitive
+James,Jones,2021-10-08,Smartphone,634.1,New York,Price-Sensitive
+Sarah,Jones,2021-10-08,Smartwatch,147.81,New York,Price-Sensitive
+James,Johnson,2021-10-09,Laptop,1279.66,Florida,Frequent Buyer
+Emily,Davis,2021-10-09,Smartwatch,582.94,New York,Occasional Buyer
+Sophia,Johnson,2021-10-09,Laptop,1145.92,New York,Premium Buyer
+Olivia,Martinez,2021-10-09,Laptop,1493.31,New York,Frequent Buyer
+Emily,Smith,2021-10-09,Headphones,113.25,Michigan,Occasional Buyer
+James,Jones,2021-10-09,Tablet,487.54,New York,Price-Sensitive
+Sophia,Jones,2021-10-09,Laptop,1442.82,California,Frequent Buyer
+Daniel,Martinez,2021-10-09,Tablet,510.19,Michigan,Price-Sensitive
+Sophia,Jones,2021-10-09,Smartwatch,525.16,California,Frequent Buyer
+Daniel,Smith,2021-10-10,Smartwatch,338.87,New York,Frequent Buyer
+Olivia,Martinez,2021-10-10,Smartphone,922.82,Illinois,Frequent Buyer
+James,Davis,2021-10-10,Laptop,1108.28,Georgia,Frequent Buyer
+Emily,Johnson,2021-10-10,Headphones,145.72,Michigan,Occasional Buyer
+Sarah,Jones,2021-10-10,Smartwatch,242.14,New York,Price-Sensitive
+Emily,Miller,2021-10-10,Laptop,1104.34,Michigan,Price-Sensitive
+David,Miller,2021-10-10,Tablet,300.57,,Occasional Buyer
+John,Martinez,2021-10-10,Smartphone,1091.86,California,Occasional Buyer
+Emily,Miller,2021-10-11,Headphones,41.02,Michigan,Price-Sensitive
+Emily,Brown,2021-10-11,Laptop,844.43,Illinois,Frequent Buyer
+Sarah,Brown,2021-10-11,Headphones,103.71,New York,Frequent Buyer
+Emma,Garcia,2021-10-11,Laptop,2014.01,Georgia,Frequent Buyer
+John,Williams,2021-10-11,Headphones,193.2,California,Occasional Buyer
+James,Jones,2021-10-11,Tablet,333.74,New York,Price-Sensitive
+Daniel,Williams,2021-10-11,Smartwatch,192.25,Illinois,Price-Sensitive
+John,Wilson,2021-10-11,Smartwatch,181.49,New York,Price-Sensitive
+Michael,Williams,2021-10-11,Headphones,245.71,Illinois,Price-Sensitive
+Olivia,Jones,2021-10-12,Tablet,456.41,Michigan,Premium Buyer
+Sarah,Davis,2021-10-12,Headphones,157.35,California,Price-Sensitive
+Emily,Brown,2021-10-12,Tablet,907.11,Illinois,Frequent Buyer
+Emily,Miller,2021-10-12,,1695.63,Michigan,
+Olivia,Martinez,2021-10-12,Laptop,1791.11,Illinois,Frequent Buyer
+Daniel,Williams,2021-10-12,Headphones,342.2,Illinois,Premium Buyer
+John,Williams,2021-10-13,Headphones,182.69,California,Occasional Buyer
+James,Jones,2021-10-13,Smartwatch,532.49,Florida,Occasional Buyer
+David,Brown,2021-10-13,,,Georgia,Premium Buyer
+Emily,Brown,2021-10-13,Laptop,2003.63,Illinois,Frequent Buyer
+Daniel,Martinez,2021-10-13,Tablet,322.6,Florida,Price-Sensitive
+Sarah,Jones,2021-10-13,Smartwatch,391.43,New York,Price-Sensitive
+Olivia,Wilson,2021-10-13,Headphones,207.8,New York,Premium Buyer
+Daniel,Williams,2021-10-13,Tablet,590.21,Illinois,Price-Sensitive
+James,Smith,2021-10-13,Smartphone,1148.67,Michigan,Occasional Buyer
+Michael,Williams,2021-10-13,Headphones,,Illinois,Price-Sensitive
+Sophia,Johnson,2021-10-14,Smartwatch,430.41,New York,Premium Buyer
+Sophia,Johnson,2021-10-14,Smartwatch,356.32,New York,Premium Buyer
+John,Johnson,2021-10-14,Laptop,879.82,Texas,Price-Sensitive
+Michael,Williams,2021-10-14,Headphones,68.15,Illinois,Price-Sensitive
+Michael,Williams,2021-10-14,,60.97,,Price-Sensitive
+Daniel,Brown,2021-10-14,,103.73,New York,
+Emily,Johnson,2021-10-14,Laptop,1223.0,Michigan,Occasional Buyer
+Sophia,Williams,2021-10-14,Smartphone,920.78,New York,Frequent Buyer
+Olivia,Miller,2021-10-14,Laptop,1130.72,New York,Frequent Buyer
+James,Miller,2021-10-14,Smartwatch,212.7,Illinois,Frequent Buyer
+John,Williams,2021-10-14,Headphones,277.31,California,Occasional Buyer
+John,Martinez,2021-10-15,Smartwatch,152.42,Florida,Price-Sensitive
+John,Johnson,2021-10-15,Smartwatch,309.71,Texas,Price-Sensitive
+Olivia,Martinez,2021-10-15,Laptop,901.94,New York,Frequent Buyer
+Michael,Williams,2021-10-15,Tablet,506.06,Illinois,Premium Buyer
+Emily,Smith,2021-10-15,Laptop,868.17,Ohio,Frequent Buyer
+John,Wilson,2021-10-15,Headphones,133.77,New York,Price-Sensitive
+Emily,Williams,2021-10-15,Tablet,836.35,Florida,Frequent Buyer
+Emily,Davis,2021-10-15,Smartphone,560.69,New York,Occasional Buyer
+Daniel,Smith,2021-10-15,Tablet,795.17,New York,Frequent Buyer
+Sophia,Williams,2021-10-16,Smartwatch,495.46,New York,Frequent Buyer
+James,Smith,2021-10-16,Tablet,342.33,Georgia,Price-Sensitive
+Michael,Williams,2021-10-16,Laptop,1083.08,Illinois,Price-Sensitive
+Olivia,Wilson,2021-10-16,,524.56,Texas,Occasional Buyer
+James,Miller,2021-10-16,Smartphone,881.34,Illinois,Frequent Buyer
+John,Brown,2021-10-16,,1458.68,,Premium Buyer
+Emily,Williams,2021-10-16,Smartphone,745.34,Florida,Frequent Buyer
+Emily,Miller,2021-10-17,Smartwatch,124.92,Michigan,Price-Sensitive
+Emily,Smith,2021-10-17,Headphones,111.17,Ohio,Frequent Buyer
+Emily,Smith,2021-10-17,Headphones,144.62,Ohio,Frequent Buyer
+Michael,Wilson,2021-10-17,Tablet,559.36,Georgia,Frequent Buyer
+Olivia,Martinez,2021-10-17,Smartphone,579.73,New York,Frequent Buyer
+James,Miller,2021-10-17,Headphones,179.16,Illinois,Frequent Buyer
+Emily,Williams,2021-10-17,Smartphone,562.35,Florida,Price-Sensitive
+Daniel,Garcia,2021-10-17,Smartphone,1345.95,Texas,Premium Buyer
+Daniel,Williams,2021-10-17,Headphones,,,Premium Buyer
+Emma,Garcia,2021-10-17,Headphones,296.66,Georgia,Frequent Buyer
+Daniel,Williams,2021-10-17,Smartphone,740.66,Texas,Premium Buyer
+Olivia,Wilson,2021-10-17,Laptop,2504.71,New York,Premium Buyer
+James,Jones,2021-10-17,Tablet,577.38,Florida,Occasional Buyer
+Sophia,Jones,2021-10-17,Headphones,265.17,California,Frequent Buyer
+James,Miller,2021-10-17,Laptop,1096.74,Illinois,Frequent Buyer
+James,Jones,2021-10-18,Tablet,353.3,Florida,Occasional Buyer
+Emily,Davis,2021-10-18,Headphones,222.64,New York,Occasional Buyer
+Sarah,Brown,2021-10-18,Smartwatch,239.73,New York,Frequent Buyer
+James,Martinez,2021-10-18,Smartphone,,New York,
+Emily,Miller,2021-10-18,,862.1,Michigan,Price-Sensitive
+Sarah,Garcia,2021-10-18,Smartwatch,573.74,Ohio,Occasional Buyer
+Sophia,Jones,2021-10-18,Smartphone,,California,Frequent Buyer
+John,Johnson,2021-10-19,Smartwatch,217.44,Michigan,Occasional Buyer
+John,Johnson,2021-10-19,Laptop,917.42,California,Price-Sensitive
+Emma,Johnson,2021-10-19,Headphones,227.53,Illinois,Premium Buyer
+John,Miller,2021-10-19,Laptop,556.3,Florida,Price-Sensitive
+Emily,Williams,2021-10-19,Laptop,1587.21,Florida,Frequent Buyer
+Michael,Williams,2021-10-20,,770.26,Illinois,
+Emily,Davis,2021-10-20,Tablet,680.4,New York,Occasional Buyer
+James,Jones,2021-10-20,Smartwatch,474.0,Florida,Occasional Buyer
+John,Brown,2021-10-20,Laptop,1597.2,Ohio,Premium Buyer
+Sophia,Williams,2021-10-20,Laptop,1347.92,New York,Frequent Buyer
+Michael,Williams,2021-10-20,Smartwatch,298.61,Ohio,Frequent Buyer
+James,Miller,2021-10-20,Tablet,742.03,Illinois,Frequent Buyer
+Emma,Garcia,2021-10-21,Smartwatch,499.67,Georgia,Frequent Buyer
+John,Wilson,2021-10-21,Headphones,225.85,New York,Price-Sensitive
+Sophia,Davis,2021-10-21,Smartphone,620.58,Ohio,Price-Sensitive
+Sarah,Jones,2021-10-21,Laptop,1289.55,Texas,Frequent Buyer
+Sophia,Wilson,2021-10-21,Tablet,818.09,California,Occasional Buyer
+James,Jones,2021-10-22,Smartphone,460.03,New York,Price-Sensitive
+Emma,Garcia,2021-10-22,Headphones,197.73,Georgia,Frequent Buyer
+Emma,Brown,2021-10-22,Headphones,57.94,California,Occasional Buyer
+James,Smith,2021-10-22,Laptop,868.99,Georgia,Price-Sensitive
+David,Martinez,2021-10-22,Headphones,180.22,Florida,Occasional Buyer
+Sarah,Brown,2021-10-22,,314.52,New York,Frequent Buyer
+Olivia,Martinez,2021-10-22,Tablet,367.21,,Frequent Buyer
+James,Miller,2021-10-22,Laptop,1422.63,Illinois,Frequent Buyer
+James,Miller,2021-10-22,Tablet,569.2,Illinois,Frequent Buyer
+Emma,Garcia,2021-10-23,Laptop,1398.99,Georgia,Frequent Buyer
+James,Martinez,2021-10-23,Smartwatch,497.79,New York,Premium Buyer
+Sophia,Davis,2021-10-23,Smartphone,765.55,California,Frequent Buyer
+Sarah,Davis,2021-10-23,Smartwatch,108.54,California,Price-Sensitive
+David,Brown,2021-10-23,Smartwatch,567.31,Georgia,Premium Buyer
+John,Williams,2021-10-24,Smartphone,798.68,California,Occasional Buyer
+John,Johnson,2021-10-24,Smartwatch,387.64,Illinois,Price-Sensitive
+Emily,Miller,2021-10-24,Tablet,546.19,Michigan,Price-Sensitive
+Daniel,Williams,2021-10-24,Smartphone,1347.6,Texas,Premium Buyer
+Sophia,Miller,2021-10-24,Smartphone,979.29,Florida,Premium Buyer
+John,Smith,2021-10-24,Headphones,51.54,Ohio,Price-Sensitive
+James,Smith,2021-10-24,Smartphone,656.17,Georgia,Price-Sensitive
+John,Miller,2021-10-25,Laptop,548.24,Florida,Price-Sensitive
+Sophia,Johnson,2021-10-25,Smartwatch,640.7,New York,Premium Buyer
+Sophia,Williams,2021-10-25,Smartphone,1042.12,,Frequent Buyer
+Sophia,Davis,2021-10-25,Laptop,864.76,Ohio,Price-Sensitive
+David,Williams,2021-10-25,Headphones,143.24,California,Price-Sensitive
+Emma,Martinez,2021-10-25,Smartphone,968.71,Illinois,Frequent Buyer
+Sarah,Jones,2021-10-25,Laptop,742.93,New York,Price-Sensitive
+John,Johnson,2021-10-26,Tablet,682.74,California,Price-Sensitive
+Olivia,Martinez,2021-10-26,Laptop,1227.14,,Frequent Buyer
+Emma,Brown,2021-10-26,Headphones,40.04,Ohio,Occasional Buyer
+James,Johnson,2021-10-26,Headphones,318.89,Florida,Frequent Buyer
+John,Johnson,2021-10-26,,412.96,Texas,
+Sophia,Wilson,2021-10-26,Headphones,210.02,California,Occasional Buyer
+Emily,Smith,2021-10-26,Smartphone,466.12,Ohio,Frequent Buyer
+Emily,Smith,2021-10-26,Smartwatch,526.08,Illinois,Price-Sensitive
+Sophia,Johnson,2021-10-27,Smartphone,935.63,New York,Premium Buyer
+Sarah,Jones,2021-10-27,Tablet,559.06,New York,Price-Sensitive
+Daniel,Williams,2021-10-27,Smartwatch,184.25,Michigan,Price-Sensitive
+Emily,Williams,2021-10-27,Smartphone,878.33,Florida,Price-Sensitive
+John,Johnson,2021-10-27,Laptop,631.72,Texas,Price-Sensitive
+James,Martinez,2021-10-28,Tablet,713.29,New York,Premium Buyer
+Sarah,Jones,2021-10-28,Tablet,503.63,Texas,Frequent Buyer
+Sophia,Williams,2021-10-28,Headphones,258.07,New York,Frequent Buyer
+Sophia,Johnson,2021-10-28,Smartphone,1464.96,New York,Premium Buyer
+Emma,Brown,2021-10-28,Smartwatch,390.52,California,Occasional Buyer
+John,Johnson,2021-10-28,Smartwatch,147.93,Illinois,Price-Sensitive
+James,Davis,2021-10-28,Smartphone,890.98,Georgia,Frequent Buyer
+David,Williams,2021-10-28,Smartphone,736.04,Ohio,Price-Sensitive
+Michael,Williams,2021-10-28,Tablet,413.7,Illinois,Price-Sensitive
+John,Johnson,2021-10-28,Laptop,,Illinois,
+Daniel,Garcia,2021-11-01,Laptop,2982.8,Texas,Premium Buyer
+John,Brown,2021-11-01,Smartphone,926.01,Ohio,Premium Buyer
+Sophia,Williams,2021-11-01,Smartphone,792.63,New York,Frequent Buyer
+Sophia,Jones,2021-11-01,Tablet,895.28,California,Frequent Buyer
+John,Wilson,2021-11-01,Smartphone,796.21,,Price-Sensitive
+John,Wilson,2021-11-01,Smartphone,647.78,New York,Price-Sensitive
+Daniel,Williams,2021-11-01,Tablet,887.9,Texas,Premium Buyer
+Olivia,Martinez,2021-11-02,Smartwatch,584.46,New York,Frequent Buyer
+Emily,Smith,2021-11-02,Tablet,748.8,Ohio,Frequent Buyer
+Sarah,Wilson,2021-11-02,Headphones,102.38,Texas,
+Daniel,Williams,2021-11-02,Smartphone,1782.89,Illinois,Premium Buyer
+Daniel,Brown,2021-11-03,Headphones,101.6,New York,Occasional Buyer
+Emily,Smith,2021-11-03,Headphones,380.33,Ohio,Frequent Buyer
+Emily,Miller,2021-11-03,Smartphone,1085.0,Michigan,Price-Sensitive
+Emily,Garcia,2021-11-03,Tablet,614.07,New York,Frequent Buyer
+David,Williams,2021-11-03,Laptop,880.94,California,Price-Sensitive
+Sophia,Miller,2021-11-03,Smartwatch,428.32,Florida,Premium Buyer
+Sophia,Miller,2021-11-04,Tablet,860.14,Florida,Premium Buyer
+Emily,Williams,2021-11-04,Tablet,456.35,Florida,Frequent Buyer
+Michael,Williams,2021-11-04,Headphones,117.04,Ohio,Frequent Buyer
+Sarah,Jones,2021-11-04,Laptop,1214.57,Texas,Frequent Buyer
+David,Williams,2021-11-04,Smartwatch,143.62,Ohio,Price-Sensitive
+Michael,Davis,2021-11-04,Laptop,2449.27,Georgia,Premium Buyer
+Olivia,Martinez,2021-11-04,Smartphone,1421.95,New York,Frequent Buyer
+Emma,Brown,2021-11-04,Laptop,822.38,Ohio,Occasional Buyer
+Sarah,Davis,2021-11-04,Headphones,229.33,California,Price-Sensitive
+Sophia,Wilson,2021-11-05,Laptop,1247.54,California,Occasional Buyer
+Sophia,Davis,2021-11-05,Headphones,185.76,Ohio,Price-Sensitive
+Sarah,Garcia,2021-11-05,Smartwatch,242.43,Michigan,Price-Sensitive
+Daniel,Williams,2021-11-05,Tablet,564.81,Illinois,Premium Buyer
+Daniel,Smith,2021-11-05,Tablet,498.22,New York,Price-Sensitive
+Emily,Wilson,2021-11-05,Smartwatch,648.87,Illinois,Occasional Buyer
+Michael,Wilson,2021-11-05,Smartphone,951.64,Georgia,Frequent Buyer
+Sarah,Davis,2021-11-05,Tablet,936.56,California,Price-Sensitive
+David,Miller,2021-11-05,Smartphone,727.8,Michigan,Occasional Buyer
+Daniel,Williams,2021-11-05,Smartwatch,508.85,Texas,Premium Buyer
+David,Martinez,2021-11-05,Smartphone,1164.92,Florida,Occasional Buyer
+Olivia,Smith,2021-11-05,Smartphone,1347.5,New York,Occasional Buyer
+Sophia,Jones,2021-11-06,Smartwatch,491.91,California,Frequent Buyer
+David,Martinez,2021-11-06,Laptop,853.92,Florida,Occasional Buyer
+Sophia,Jones,2021-11-06,Smartwatch,394.38,California,Frequent Buyer
+Sophia,Wilson,2021-11-06,Smartwatch,404.49,California,Occasional Buyer
+Michael,Williams,2021-11-06,Headphones,302.61,Illinois,Price-Sensitive
+Daniel,Smith,2021-11-06,Tablet,892.98,New York,Frequent Buyer
+David,Brown,2021-11-06,Laptop,3076.29,Georgia,Premium Buyer
+James,Smith,2021-11-07,Tablet,401.09,Michigan,Occasional Buyer
+James,Davis,2021-11-07,Smartwatch,318.9,Georgia,Frequent Buyer
+Sarah,Brown,2021-11-07,Smartphone,1331.64,Texas,Premium Buyer
+Sophia,Miller,2021-11-07,Headphones,,Florida,Premium Buyer
+John,Brown,2021-11-07,Tablet,1267.67,Ohio,Premium Buyer
+Sarah,Williams,2021-11-07,Laptop,1982.71,New York,Occasional Buyer
+David,Miller,2021-11-07,Tablet,594.0,Michigan,Occasional Buyer
+James,Davis,2021-11-07,Headphones,61.16,Georgia,Frequent Buyer
+Daniel,Smith,2021-11-08,Tablet,620.39,New York,Price-Sensitive
+James,Johnson,2021-11-08,Smartwatch,480.25,Florida,Frequent Buyer
+Sarah,Garcia,2021-11-08,Tablet,952.44,Michigan,Price-Sensitive
+Sarah,Jones,2021-11-09,Tablet,,Georgia,Occasional Buyer
+Daniel,Martinez,2021-11-09,Smartwatch,212.77,Michigan,Price-Sensitive
+John,Brown,2021-11-09,Smartwatch,534.97,Ohio,Premium Buyer
+Daniel,Smith,2021-11-09,Headphones,226.01,,
+Daniel,Williams,2021-11-09,Tablet,486.94,Michigan,Price-Sensitive
+John,Johnson,2021-11-09,,111.33,Michigan,Occasional Buyer
+Emily,Williams,2021-11-09,Headphones,108.0,Florida,Price-Sensitive
+Sophia,Miller,2021-11-10,Smartwatch,895.09,Florida,Premium Buyer
+Michael,Williams,2021-11-10,Headphones,345.31,Ohio,Frequent Buyer
+Emily,Garcia,2021-11-10,Smartphone,691.79,New York,Frequent Buyer
+Emily,Miller,2021-11-10,Laptop,1705.3,Michigan,Price-Sensitive
+Emily,Brown,2021-11-10,Smartwatch,557.87,Illinois,Frequent Buyer
+Olivia,Wilson,2021-11-10,Tablet,1321.48,New York,Premium Buyer
+Sarah,Brown,2021-11-10,Smartwatch,356.47,New York,Frequent Buyer
+Daniel,Williams,2021-11-10,Headphones,361.9,Texas,Premium Buyer
+Emily,Davis,2021-11-10,Headphones,465.71,Illinois,Premium Buyer
+Sarah,Garcia,2021-11-10,Laptop,1358.19,,Price-Sensitive
+Olivia,Martinez,2021-11-11,Tablet,858.69,Illinois,Frequent Buyer
+Sophia,Williams,2021-11-11,Smartwatch,,New York,
+Sophia,Davis,2021-11-11,Tablet,857.0,Ohio,Price-Sensitive
+David,Williams,2021-11-11,Smartphone,949.0,California,Price-Sensitive
+Emma,Garcia,2021-11-11,Headphones,314.2,Georgia,Frequent Buyer
+Daniel,Smith,2021-11-11,Headphones,128.26,New York,Price-Sensitive
+John,Williams,2021-11-11,,,,
+Olivia,Wilson,2021-11-11,Laptop,1933.86,New York,Premium Buyer
+Sarah,Brown,2021-11-12,Smartphone,1689.21,Texas,Premium Buyer
+Emily,Davis,2021-11-12,Smartwatch,841.01,Illinois,Premium Buyer
+Emma,Brown,2021-11-12,Smartwatch,425.79,California,Occasional Buyer
+John,Johnson,2021-11-12,Headphones,105.76,Michigan,Occasional Buyer
+Sophia,Johnson,2021-11-12,Smartwatch,189.46,Michigan,Occasional Buyer
+Daniel,Smith,2021-11-12,Tablet,759.92,New York,Frequent Buyer
+Sophia,Davis,2021-11-13,Smartwatch,609.58,California,Frequent Buyer
+Emily,Wilson,2021-11-13,Laptop,1791.53,Illinois,Occasional Buyer
+Emma,Johnson,2021-11-13,Headphones,401.14,Illinois,Premium Buyer
+Sophia,Miller,2021-11-14,Smartphone,738.61,Florida,Premium Buyer
+James,Smith,2021-11-14,Smartphone,415.82,Georgia,Price-Sensitive
+Michael,Williams,2021-11-14,Smartphone,1519.71,Illinois,Premium Buyer
+Daniel,Williams,2021-11-14,Laptop,938.8,Michigan,Price-Sensitive
+Sophia,Miller,2021-11-14,Headphones,154.48,Florida,Premium Buyer
+Emily,Martinez,2021-11-14,,457.57,,Price-Sensitive
+Daniel,Williams,2021-11-15,Headphones,154.71,Illinois,Premium Buyer
+Michael,Williams,2021-11-15,Smartphone,1687.11,Illinois,Premium Buyer
+Olivia,Martinez,2021-11-15,Smartphone,1070.58,New York,Frequent Buyer
+Sophia,Williams,2021-11-15,Laptop,1819.29,New York,Frequent Buyer
+Sophia,Jones,2021-11-15,Laptop,1539.49,California,Frequent Buyer
+Michael,Wilson,2021-11-15,Smartphone,1025.1,Georgia,Frequent Buyer
+Sarah,Jones,2021-11-15,Smartphone,832.54,Texas,Frequent Buyer
+Emily,Brown,2021-11-16,Laptop,1905.65,Illinois,Frequent Buyer
+Emily,Davis,2021-11-16,Smartwatch,465.63,New York,Occasional Buyer
+Emily,Wilson,2021-11-16,Smartphone,816.45,Illinois,Occasional Buyer
+Daniel,Williams,2021-11-16,Headphones,242.29,Texas,Premium Buyer
+Sarah,Brown,2021-11-16,Laptop,2095.97,Texas,Premium Buyer
+James,Miller,2021-11-17,Smartwatch,233.9,Illinois,Frequent Buyer
+Emily,Davis,2021-11-17,Tablet,942.4,Illinois,Premium Buyer
+Sophia,Davis,2021-11-17,Smartwatch,561.46,,
+Emily,Garcia,2021-11-17,Laptop,972.26,New York,Frequent Buyer
+Sophia,Johnson,2021-11-17,Laptop,2571.86,New York,Premium Buyer
+John,Johnson,2021-11-17,Smartwatch,436.63,Texas,Price-Sensitive
+Daniel,Williams,2021-11-17,,883.11,Illinois,Premium Buyer
+Emily,Smith,2021-11-17,Tablet,834.63,Ohio,Frequent Buyer
+James,Miller,2021-11-17,Smartphone,1135.24,Illinois,Frequent Buyer
+Sophia,Davis,2021-11-18,Smartphone,900.88,California,Frequent Buyer
+Emily,Smith,2021-11-18,Smartphone,1125.43,Ohio,Frequent Buyer
+Sarah,Brown,2021-11-18,Tablet,1193.95,Texas,Premium Buyer
+Emma,Johnson,2021-11-18,Smartphone,1169.72,Illinois,Premium Buyer
+Emily,Brown,2021-11-18,Smartphone,1504.02,Illinois,Frequent Buyer
+James,Davis,2021-11-18,Tablet,740.15,Georgia,Frequent Buyer
+Olivia,Martinez,2021-11-18,Smartphone,1181.56,Illinois,Frequent Buyer
+Daniel,Martinez,2021-11-18,Tablet,398.7,Michigan,Price-Sensitive
+James,Miller,2021-11-18,Headphones,188.84,Illinois,Frequent Buyer
+Daniel,Smith,2021-11-19,Laptop,787.84,New York,Price-Sensitive
+David,Brown,2021-11-19,Smartphone,,Georgia,
+Daniel,Williams,2021-11-19,Tablet,676.21,Illinois,Price-Sensitive
+David,Martinez,2021-11-19,Smartphone,1299.99,Florida,Occasional Buyer
+Olivia,Martinez,2021-11-20,Smartwatch,459.62,New York,Frequent Buyer
+Olivia,Martinez,2021-11-20,Tablet,837.73,Illinois,Frequent Buyer
+John,Brown,2021-11-20,Laptop,3002.99,Ohio,Premium Buyer
+Sarah,Garcia,2021-11-20,Tablet,343.53,Michigan,Price-Sensitive
+Sarah,Wilson,2021-11-20,Smartphone,1417.1,Texas,Premium Buyer
+Sarah,Williams,2021-11-20,Headphones,66.07,California,Price-Sensitive
+Michael,Williams,2021-11-21,Smartwatch,303.13,Illinois,Price-Sensitive
+Emma,Brown,2021-11-21,Headphones,89.42,Ohio,Occasional Buyer
+John,Wilson,2021-11-21,Tablet,891.49,New York,Price-Sensitive
+Emily,Davis,2021-11-21,Smartphone,1143.64,Illinois,Premium Buyer
+Daniel,Williams,2021-11-21,Smartphone,1257.04,Texas,Premium Buyer
+Sophia,Wilson,2021-11-21,Headphones,266.33,Texas,Premium Buyer
+James,Johnson,2021-11-21,Smartphone,778.97,Florida,Frequent Buyer
+Sophia,Johnson,2021-11-21,Smartphone,1799.65,New York,Premium Buyer
+Sophia,Jones,2021-11-21,Smartwatch,673.44,California,Frequent Buyer
+Emily,Smith,2021-11-22,Laptop,841.66,Illinois,Price-Sensitive
+John,Brown,2021-11-22,Smartwatch,855.04,Ohio,Premium Buyer
+John,Brown,2021-11-22,Smartphone,1239.51,Ohio,Premium Buyer
+Emily,Martinez,2021-11-22,Headphones,,New York,Price-Sensitive
+Michael,Wilson,2021-11-22,Laptop,1790.31,California,Occasional Buyer
+Daniel,Martinez,2021-11-22,Smartwatch,177.47,Michigan,Price-Sensitive
+David,Miller,2021-11-22,Smartphone,1349.95,Michigan,Occasional Buyer
+Michael,Davis,2021-11-22,Tablet,711.99,Georgia,Premium Buyer
+Sophia,Wilson,2021-11-22,Tablet,1244.11,Texas,Premium Buyer
+Emily,Garcia,2021-11-22,Headphones,203.05,New York,Frequent Buyer
+James,Smith,2021-11-23,Laptop,1438.69,Michigan,Occasional Buyer
+Michael,Williams,2021-11-23,Laptop,1418.52,Illinois,Price-Sensitive
+Emma,Brown,2021-11-23,Tablet,687.15,Ohio,Occasional Buyer
+Sarah,Williams,2021-11-23,Tablet,369.98,California,Price-Sensitive
+Olivia,Martinez,2021-11-23,Smartwatch,273.73,Illinois,Frequent Buyer
+Sophia,Wilson,2021-11-23,Smartwatch,200.17,California,Occasional Buyer
+Emma,Garcia,2021-11-23,Headphones,90.15,Georgia,Frequent Buyer
+James,Miller,2021-11-23,Laptop,2416.76,Illinois,Frequent Buyer
+Michael,Williams,2021-11-23,Tablet,771.6,Ohio,Frequent Buyer
+Sophia,Williams,2021-11-23,Tablet,749.54,New York,Frequent Buyer
+James,Miller,2021-11-23,Laptop,2598.95,Illinois,
+Sarah,Williams,2021-11-23,Headphones,99.23,California,Price-Sensitive
+Emily,Smith,2021-11-24,Headphones,55.72,Michigan,Occasional Buyer
+Sarah,Davis,2021-11-24,Headphones,166.05,California,Price-Sensitive
+Daniel,Smith,2021-11-24,Smartphone,1258.89,New York,Frequent Buyer
+James,Davis,2021-11-24,Smartwatch,450.75,Georgia,Frequent Buyer
+Emily,Davis,2021-11-24,Tablet,1055.76,Illinois,Premium Buyer
+Michael,Wilson,2021-11-24,Smartphone,1181.15,California,Occasional Buyer
+Sarah,Williams,2021-11-24,Headphones,356.85,New York,Occasional Buyer
+Daniel,Williams,2021-11-24,Smartwatch,260.51,Michigan,Price-Sensitive
+Sophia,Wilson,2021-11-24,Tablet,909.58,California,Occasional Buyer
+Emily,Brown,2021-11-24,Smartphone,784.27,Illinois,Frequent Buyer
+John,Wilson,2021-11-24,Headphones,256.67,New York,Price-Sensitive
+John,Smith,2021-11-25,Smartwatch,416.75,Ohio,Price-Sensitive
+David,Martinez,2021-11-25,Headphones,227.59,Florida,Occasional Buyer
+James,Smith,2021-11-25,Smartphone,928.18,Michigan,Occasional Buyer
+Sophia,Davis,2021-11-25,Smartwatch,374.13,California,Frequent Buyer
+David,Brown,2021-11-25,Smartphone,1071.03,Georgia,Occasional Buyer
+David,Brown,2021-11-25,Smartwatch,562.0,Georgia,Premium Buyer
+Emma,Garcia,2021-11-25,Headphones,119.61,Georgia,Frequent Buyer
+John,Brown,2021-11-25,Tablet,494.51,Ohio,Premium Buyer
+Emily,Davis,2021-11-26,Smartphone,1361.47,Illinois,Premium Buyer
+Emma,Johnson,2021-11-26,Smartwatch,595.53,Illinois,Premium Buyer
+Michael,Wilson,2021-11-26,Tablet,553.78,Georgia,Frequent Buyer
+Emily,Davis,2021-11-26,Tablet,839.76,Illinois,Premium Buyer
+Emma,Brown,2021-11-26,Laptop,2028.71,California,Occasional Buyer
+Daniel,Brown,2021-11-26,Laptop,1628.06,New York,Occasional Buyer
+David,Brown,2021-11-27,Smartphone,,Georgia,
+David,Williams,2021-11-27,Smartwatch,170.49,California,Price-Sensitive
+Emily,Davis,2021-11-27,Laptop,1219.99,Illinois,Premium Buyer
+John,Brown,2021-11-27,Smartwatch,820.51,Ohio,Premium Buyer
+Daniel,Smith,2021-11-27,Smartwatch,589.36,New York,Frequent Buyer
+Sarah,Garcia,2021-11-27,Smartwatch,230.33,Michigan,Price-Sensitive
+Sarah,Williams,2021-11-27,Smartwatch,455.08,New York,Occasional Buyer
+John,Johnson,2021-11-28,Smartphone,931.43,Texas,Price-Sensitive
+John,Johnson,2021-11-28,Smartwatch,436.09,Michigan,Occasional Buyer
+Sophia,Jones,2021-11-28,Tablet,997.24,California,Frequent Buyer
+David,Brown,2021-11-28,Smartwatch,426.9,Georgia,Occasional Buyer
+Daniel,Williams,2021-11-28,Laptop,2889.21,Texas,Premium Buyer
+John,Smith,2021-11-28,Tablet,741.49,Ohio,Price-Sensitive
+Emily,Williams,2021-11-28,Smartwatch,445.48,Florida,Frequent Buyer
+Sarah,Jones,2021-11-28,Tablet,484.11,New York,Price-Sensitive
+Michael,Williams,2021-11-28,Smartphone,973.47,Illinois,Premium Buyer
+John,Wilson,2021-11-28,Laptop,,,Price-Sensitive
+James,Johnson,2021-12-01,Tablet,731.61,Florida,Frequent Buyer
+Emily,Miller,2021-12-01,Tablet,395.21,Michigan,Price-Sensitive
+James,Martinez,2021-12-01,Tablet,424.24,Georgia,Occasional Buyer
+Olivia,Martinez,2021-12-01,Headphones,243.79,New York,Frequent Buyer
+Emily,Miller,2021-12-01,Laptop,1234.27,Michigan,Price-Sensitive
+Michael,Williams,2021-12-01,Laptop,1602.61,Illinois,Price-Sensitive
+Emily,Johnson,2021-12-02,Smartwatch,740.73,Michigan,Occasional Buyer
+Michael,Wilson,2021-12-02,Laptop,1186.65,,
+Sophia,Johnson,2021-12-02,Laptop,973.67,Michigan,Occasional Buyer
+John,Smith,2021-12-02,Tablet,,Georgia,
+Daniel,Brown,2021-12-02,Tablet,441.92,New York,Occasional Buyer
+Michael,Williams,2021-12-02,Laptop,1406.3,Ohio,Frequent Buyer
+Daniel,Brown,2021-12-02,Laptop,1397.81,New York,Occasional Buyer
+Emily,Smith,2021-12-02,Smartwatch,496.77,Ohio,Frequent Buyer
+Emily,Smith,2021-12-03,Smartwatch,300.91,Ohio,Frequent Buyer
+Sarah,Jones,2021-12-03,Tablet,653.85,Texas,Frequent Buyer
+James,Johnson,2021-12-03,Smartwatch,541.84,Florida,Frequent Buyer
+Michael,Williams,2021-12-03,Smartwatch,671.08,Illinois,Price-Sensitive
+Michael,Jones,2021-12-03,Smartwatch,437.29,Georgia,Price-Sensitive
+Olivia,Martinez,2021-12-03,Laptop,1615.12,Illinois,Frequent Buyer
+James,Smith,2021-12-03,Headphones,60.72,Georgia,Price-Sensitive
+Michael,Wilson,2021-12-03,Tablet,1140.94,Georgia,Frequent Buyer
+Sophia,Jones,2021-12-03,Smartwatch,723.27,California,Frequent Buyer
+Daniel,Garcia,2021-12-03,Tablet,531.99,Texas,Premium Buyer
+Daniel,Smith,2021-12-04,Tablet,402.01,New York,Occasional Buyer
+Michael,Wilson,2021-12-04,Smartwatch,366.46,Georgia,Frequent Buyer
+Emily,Wilson,2021-12-04,Tablet,356.87,Texas,Price-Sensitive
+Sarah,Jones,2021-12-04,Tablet,828.2,New York,Price-Sensitive
+John,Brown,2021-12-04,Smartwatch,260.54,Ohio,Premium Buyer
+John,Williams,2021-12-04,Tablet,757.51,California,Occasional Buyer
+Emily,Smith,2021-12-04,Smartphone,1439.75,Ohio,Frequent Buyer
+Emily,Brown,2021-12-04,Smartphone,1196.42,Illinois,Frequent Buyer
+Daniel,Smith,2021-12-05,Tablet,647.73,New York,Price-Sensitive
+Emily,Davis,2021-12-05,Laptop,1564.23,Illinois,Premium Buyer
+David,Martinez,2021-12-05,Smartphone,553.49,Florida,Occasional Buyer
+David,Martinez,2021-12-05,Smartphone,1506.28,,
+James,Smith,2021-12-05,Smartwatch,467.37,Georgia,Price-Sensitive
+John,Johnson,2021-12-06,Headphones,218.91,California,Price-Sensitive
+Sophia,Jones,2021-12-06,Headphones,,,Frequent Buyer
+Olivia,Martinez,2021-12-06,Smartwatch,856.44,New York,Frequent Buyer
+Emily,Smith,2021-12-06,Laptop,1380.99,Michigan,Occasional Buyer
+Emily,Garcia,2021-12-06,Laptop,2822.45,New York,Frequent Buyer
+John,Smith,2021-12-06,Smartwatch,367.6,Georgia,Price-Sensitive
+Michael,Davis,2021-12-06,Smartwatch,290.92,Georgia,Premium Buyer
+David,Martinez,2021-12-07,Laptop,2238.02,Florida,Occasional Buyer
+Olivia,Wilson,2021-12-07,Laptop,1146.46,Texas,Occasional Buyer
+James,Martinez,2021-12-07,Laptop,1334.01,Georgia,Occasional Buyer
+Daniel,Brown,2021-12-07,Smartphone,537.39,New York,Occasional Buyer
+Sarah,Jones,2021-12-07,Smartwatch,216.93,New York,Price-Sensitive
+Olivia,Smith,2021-12-07,Smartphone,817.75,New York,Occasional Buyer
+Olivia,Smith,2021-12-07,Smartwatch,509.74,New York,Occasional Buyer
+Sarah,Jones,2021-12-07,Laptop,1512.11,New York,Price-Sensitive
+Sarah,Williams,2021-12-07,Smartphone,1216.93,California,Price-Sensitive
+Daniel,Smith,2021-12-08,Headphones,242.73,New York,Occasional Buyer
+David,Williams,2021-12-08,Smartphone,1170.34,Ohio,Price-Sensitive
+Daniel,Garcia,2021-12-08,Laptop,2176.14,Texas,Premium Buyer
+Sarah,Brown,2021-12-08,Laptop,2302.97,New York,Frequent Buyer
+Emily,Miller,2021-12-08,Laptop,1380.76,Michigan,Price-Sensitive
+James,Davis,2021-12-08,Headphones,,,Frequent Buyer
+John,Johnson,2021-12-08,Headphones,73.17,California,Price-Sensitive
+Emily,Davis,2021-12-09,Headphones,169.39,Illinois,Premium Buyer
+Emily,Garcia,2021-12-09,Tablet,465.56,New York,Frequent Buyer
+Emma,Martinez,2021-12-10,Headphones,370.73,Illinois,Frequent Buyer
+Emily,Miller,2021-12-10,Tablet,1041.94,Michigan,Price-Sensitive
+Sarah,Brown,2021-12-10,Headphones,293.02,Texas,Premium Buyer
+Michael,Williams,2021-12-10,Smartphone,963.14,Illinois,Price-Sensitive
+Sophia,Johnson,2021-12-10,Headphones,202.03,Michigan,Occasional Buyer
+Olivia,Smith,2021-12-10,Headphones,386.57,New York,Occasional Buyer
+Sarah,Brown,2021-12-11,Smartphone,790.23,New York,Frequent Buyer
+Emma,Garcia,2021-12-11,Smartwatch,621.1,Georgia,Frequent Buyer
+Olivia,Miller,2021-12-11,Headphones,191.68,New York,Frequent Buyer
+Olivia,Martinez,2021-12-11,Tablet,1141.67,Illinois,
+Sophia,Miller,2021-12-11,Laptop,2197.57,Florida,Premium Buyer
+James,Martinez,2021-12-12,Laptop,1554.64,Georgia,Occasional Buyer
+Sarah,Jones,2021-12-12,Tablet,963.3,Texas,Frequent Buyer
+Michael,Smith,2021-12-12,Tablet,819.09,Illinois,Occasional Buyer
+James,Martinez,2021-12-12,Laptop,1309.83,Georgia,Occasional Buyer
+Daniel,Martinez,2021-12-12,Smartphone,598.27,Michigan,Price-Sensitive
+Daniel,Smith,2021-12-13,Smartwatch,267.1,New York,Frequent Buyer
+Daniel,Martinez,2021-12-13,Smartphone,617.87,Michigan,Price-Sensitive
+Daniel,Williams,2021-12-13,Smartphone,1467.36,Illinois,Premium Buyer
+Daniel,Brown,2021-12-13,Smartwatch,223.46,New York,Occasional Buyer
+James,Davis,2021-12-13,Headphones,169.45,Georgia,Frequent Buyer
+James,Martinez,2021-12-13,Smartphone,1138.2,Georgia,Occasional Buyer
+Sophia,Davis,2021-12-13,Headphones,110.85,California,Frequent Buyer
+John,Brown,2021-12-14,Smartphone,1915.15,Ohio,Premium Buyer
+Sarah,Jones,2021-12-14,Smartphone,952.75,Texas,Frequent Buyer
+Emma,Martinez,2021-12-14,Headphones,69.78,Illinois,Frequent Buyer
+Olivia,Martinez,2021-12-14,Headphones,361.23,New York,Frequent Buyer
+James,Jones,2021-12-14,Tablet,328.8,New York,Price-Sensitive
+Sarah,Garcia,2021-12-15,Smartwatch,175.39,Michigan,Price-Sensitive
+Sophia,Jones,2021-12-15,Laptop,2728.53,California,Frequent Buyer
+Michael,Williams,2021-12-15,Smartwatch,544.27,Ohio,Frequent Buyer
+Emily,Davis,2021-12-15,,,Illinois,Premium Buyer
+Emily,Smith,2021-12-15,Smartwatch,218.26,Ohio,Frequent Buyer
+Emma,Garcia,2021-12-15,Smartwatch,700.43,Georgia,Frequent Buyer
+Sophia,Davis,2021-12-16,Laptop,914.11,California,Frequent Buyer
+Michael,Williams,2021-12-16,Tablet,,,Frequent Buyer
+Emma,Martinez,2021-12-16,Laptop,1909.39,Illinois,Frequent Buyer
+Daniel,Brown,2021-12-16,Tablet,722.34,New York,Occasional Buyer
+John,Smith,2021-12-16,Laptop,1434.21,Georgia,Price-Sensitive
+Emily,Smith,2021-12-17,Headphones,137.61,Ohio,Frequent Buyer
+Emma,Martinez,2021-12-17,Tablet,540.61,Illinois,Frequent Buyer
+Olivia,Martinez,2021-12-17,Laptop,1758.55,Illinois,Frequent Buyer
+John,Martinez,2021-12-17,Headphones,233.12,Florida,Price-Sensitive
+John,Brown,2021-12-17,Smartwatch,540.29,Ohio,Premium Buyer
+James,Johnson,2021-12-17,,1057.66,Florida,Frequent Buyer
+Michael,Wilson,2021-12-17,Laptop,2454.77,Georgia,Frequent Buyer
+David,Brown,2021-12-17,Laptop,1523.13,Georgia,Premium Buyer
+Michael,Williams,2021-12-18,Laptop,1331.91,Illinois,Price-Sensitive
+Emily,Garcia,2021-12-18,,820.53,New York,Frequent Buyer
+Emma,Martinez,2021-12-18,Laptop,2613.3,Illinois,Frequent Buyer
+James,Davis,2021-12-18,Tablet,754.85,Georgia,Frequent Buyer
+Sarah,Jones,2021-12-18,Tablet,359.93,New York,Price-Sensitive
+Olivia,Martinez,2021-12-18,Smartwatch,629.0,,
+Olivia,Wilson,2021-12-19,,137.39,New York,Premium Buyer
+John,Smith,2021-12-19,Tablet,881.96,Georgia,Price-Sensitive
+John,Miller,2021-12-19,Headphones,277.26,Florida,Price-Sensitive
+Michael,Smith,2021-12-19,Tablet,982.58,Illinois,Occasional Buyer
+Daniel,Garcia,2021-12-19,Laptop,3374.89,Texas,Premium Buyer
+James,Davis,2021-12-19,Laptop,2330.89,Georgia,Frequent Buyer
+Michael,Williams,2021-12-19,Headphones,349.08,Illinois,Premium Buyer
+Michael,Williams,2021-12-19,Headphones,254.25,Illinois,Premium Buyer
+Olivia,Wilson,2021-12-19,Tablet,398.82,Texas,Occasional Buyer
+Emily,Johnson,2021-12-19,Laptop,1346.9,Michigan,Occasional Buyer
+Sarah,Garcia,2021-12-20,Smartphone,953.26,Michigan,Price-Sensitive
+Michael,Wilson,2021-12-20,Tablet,,,Occasional Buyer
+Michael,Jones,2021-12-20,Headphones,174.35,Georgia,Price-Sensitive
+Emily,Garcia,2021-12-20,Smartwatch,,New York,
+Sarah,Jones,2021-12-21,Tablet,457.69,Texas,Frequent Buyer
+Emily,Martinez,2021-12-21,Laptop,906.02,New York,Price-Sensitive
+Sarah,Brown,2021-12-21,Smartphone,1572.18,New York,Frequent Buyer
+Michael,Davis,2021-12-21,Headphones,367.94,Ohio,Occasional Buyer
+James,Johnson,2021-12-21,Smartwatch,161.8,Florida,Frequent Buyer
+John,Smith,2021-12-21,Headphones,153.91,Georgia,Price-Sensitive
+John,Smith,2021-12-21,Headphones,203.17,Georgia,Price-Sensitive
+Michael,Wilson,2021-12-22,Headphones,393.06,Georgia,Frequent Buyer
+Sarah,Brown,2021-12-22,Smartwatch,393.81,New York,Frequent Buyer
+John,Brown,2021-12-22,Headphones,226.34,Ohio,Premium Buyer
+John,Johnson,2021-12-22,Smartwatch,638.44,California,Price-Sensitive
+Sarah,Brown,2021-12-22,Smartphone,1314.94,Texas,Premium Buyer
+James,Smith,2021-12-22,Headphones,191.59,Georgia,Price-Sensitive
+David,Williams,2021-12-23,Smartphone,628.89,California,Price-Sensitive
+Sophia,Williams,2021-12-23,Headphones,74.73,New York,Frequent Buyer
+Michael,Davis,2021-12-23,Laptop,1422.48,Ohio,Occasional Buyer
+Michael,Williams,2021-12-23,Headphones,248.64,Ohio,Frequent Buyer
+Emma,Martinez,2021-12-23,Headphones,314.65,Illinois,Frequent Buyer
+Sarah,Jones,2021-12-23,Smartphone,1210.81,Texas,Frequent Buyer
+James,Miller,2021-12-23,Smartphone,1072.15,Illinois,Frequent Buyer
+James,Miller,2021-12-23,Tablet,763.43,Illinois,Frequent Buyer
+Michael,Wilson,2021-12-23,Smartphone,1382.53,Georgia,Frequent Buyer
+John,Smith,2021-12-23,Laptop,1864.35,Georgia,Price-Sensitive
+Emily,Brown,2021-12-24,Smartphone,1593.56,Illinois,Frequent Buyer
+Emily,Smith,2021-12-24,Tablet,786.99,Michigan,Occasional Buyer
+Sophia,Johnson,2021-12-24,Laptop,1907.32,Michigan,Occasional Buyer
+Michael,Jones,2021-12-25,Laptop,1613.18,Georgia,Price-Sensitive
+Sarah,Brown,2021-12-25,Smartphone,1603.66,New York,Frequent Buyer
+Emily,Martinez,2021-12-25,Laptop,2146.57,New York,Price-Sensitive
+Olivia,Miller,2021-12-25,Headphones,161.96,New York,Frequent Buyer
+James,Johnson,2021-12-25,Headphones,164.24,Florida,Frequent Buyer
+James,Davis,2021-12-25,Tablet,894.53,Georgia,Frequent Buyer
+Michael,Jones,2021-12-25,Smartwatch,404.56,Georgia,Price-Sensitive
+James,Miller,2021-12-25,Tablet,999.68,Illinois,Frequent Buyer
+Daniel,Martinez,2021-12-25,Headphones,,Michigan,
+Daniel,Garcia,2021-12-25,,202.43,Texas,Premium Buyer
+John,Johnson,2021-12-25,Tablet,517.23,California,Price-Sensitive
+Emily,Brown,2021-12-26,Smartphone,1061.82,Illinois,Frequent Buyer
+Daniel,Brown,2021-12-26,Laptop,1642.57,New York,Occasional Buyer
+Michael,Jones,2021-12-26,Smartphone,1035.49,Georgia,Price-Sensitive
+Daniel,Williams,2021-12-26,Tablet,625.86,Illinois,Price-Sensitive
+Sophia,Wilson,2021-12-26,Tablet,703.58,California,Occasional Buyer
+Emily,Garcia,2021-12-26,Tablet,1143.19,New York,Frequent Buyer
+Sarah,Brown,2021-12-27,Laptop,2215.56,New York,Frequent Buyer
+Sarah,Jones,2021-12-27,Smartwatch,386.89,New York,Price-Sensitive
+Daniel,Williams,2021-12-27,Smartphone,804.22,Michigan,Price-Sensitive
+Sophia,Wilson,2021-12-27,Laptop,1634.46,Texas,Premium Buyer
+James,Miller,2021-12-27,Smartwatch,743.63,Illinois,Frequent Buyer
+Olivia,Wilson,2021-12-27,Smartwatch,619.7,New York,Premium Buyer
+Olivia,Wilson,2021-12-27,Tablet,412.35,Texas,Occasional Buyer
+Sophia,Davis,2021-12-28,Smartwatch,553.23,California,Frequent Buyer
+James,Smith,2021-12-28,Laptop,1609.78,Georgia,Price-Sensitive
+John,Wilson,2021-12-28,Smartphone,988.35,New York,Price-Sensitive
+Daniel,Garcia,2021-12-28,Smartwatch,476.06,Texas,Premium Buyer
+John,Smith,2021-12-28,Laptop,2064.08,Georgia,Price-Sensitive
+Olivia,Martinez,2021-12-28,Headphones,191.57,New York,Frequent Buyer
+Michael,Williams,2021-12-28,Tablet,648.15,Illinois,Premium Buyer
+Emily,Davis,2021-12-28,Headphones,230.73,Illinois,Premium Buyer
+James,Jones,2021-12-28,Headphones,68.98,New York,Price-Sensitive
+Olivia,Miller,2021-12-28,Tablet,576.76,New York,Frequent Buyer
+Olivia,Wilson,2021-12-28,Laptop,2128.38,New York,Premium Buyer
+Daniel,Williams,2021-12-28,Laptop,1402.09,Michigan,Price-Sensitive
+Sarah,Williams,2021-12-28,Headphones,266.33,California,Price-Sensitive
+James,Jones,2021-12-28,Smartphone,1113.21,New York,Price-Sensitive
